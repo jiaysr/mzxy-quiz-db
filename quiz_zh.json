@@ -269,10 +269,10 @@
       "answer": "黑带",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q6e65d28d9",
@@ -361,10 +361,10 @@
       "answer": "7魄",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qb2eab6c07",
@@ -649,10 +649,10 @@
       "answer": "1个",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q5ce0e60f1",
@@ -697,10 +697,10 @@
       "answer": "耳聋",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qcddd12b96",
@@ -792,10 +792,10 @@
       "answer": "浮元子",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q5b74f1b3e",
@@ -1006,10 +1006,10 @@
       "answer": "霜之哀伤",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qd18c286a8",
@@ -1149,13 +1149,15 @@
         "绿色",
         "紫色"
       ],
-      "answer": "红色",
-      "verified": false,
-      "wrong": [],
-      "hits": 1,
+      "answer": "绿色",
+      "verified": true,
+      "wrong": [
+        "红色"
+      ],
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qbc4bbf647",
@@ -1434,6 +1436,214 @@
       "source": "llm",
       "updated": "2026-09-21",
       "correct": 0
+    },
+    {
+      "id": "q6436fdba9",
+      "q": "牧野的牛头雕像上没有的是下面哪个？",
+      "options": [
+        "符文",
+        "锁链",
+        "火焰"
+      ],
+      "answer": "火焰",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "q474a63ed9",
+      "q": "在游戏中使用药品后会有什么效果？",
+      "options": [
+        "回复生命和灵力",
+        "变成超人",
+        "补钙"
+      ],
+      "answer": "回复生命和灵力",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "qd9c11be9f",
+      "q": "屈原是春秋时代哪国人？",
+      "options": [
+        "吴国",
+        "越国",
+        "楚国"
+      ],
+      "answer": "楚国",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "qaf909c8d3",
+      "q": "野火烧不尽\"的下一句是什么？",
+      "options": [
+        "春风吹又生",
+        "斩草不除根",
+        "一岁一枯荣"
+      ],
+      "answer": "春风吹又生",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "q5aacd19df",
+      "q": "有一只公鸡在屋顶上下蛋，你说鸡蛋会从左边掉下还是右边？",
+      "options": [
+        "从左边掉下来",
+        "从右边掉下来",
+        "不会掉下来"
+      ],
+      "answer": "不会掉下来",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "q5b95d6e08",
+      "q": "成语“不折不扣\"表示完全、十足的意思，它原为？",
+      "options": [
+        "商业用语",
+        "口语",
+        "技术用语"
+      ],
+      "answer": "商业用语",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "q00b1c650c",
+      "q": "下列哪个成语典故说的是吕不韦的故事？",
+      "options": [
+        "一掷千金",
+        "一字千金",
+        "一诺千金"
+      ],
+      "answer": "一字千金",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "q28c3f18ed",
+      "q": "西汉时在匈奴军中赢得了汉之飞将称号的将领是？",
+      "options": [
+        "李广",
+        "韩信",
+        "卫青"
+      ],
+      "answer": "李广",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "qab7c14fa6",
+      "q": "周武王叫什么？",
+      "options": [
+        "姬发",
+        "姬昌",
+        "姬涌"
+      ],
+      "answer": "姬发",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "qc3e6ae116",
+      "q": "纯的铜器是什么颜色？",
+      "options": [
+        "绿色",
+        "黄色",
+        "紫色"
+      ],
+      "answer": "紫色",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "q6196c4635",
+      "q": "每届中秋，世人之巧者，用黄土成蟾兔之像以出售。\"古人中秋时会制作什么来祭月？",
+      "options": [
+        "月饼",
+        "兔儿爷",
+        "蟾"
+      ],
+      "answer": "兔儿爷",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "q2dde1a70c",
+      "q": "什么床不能睡？",
+      "options": [
+        "水床",
+        "牙床",
+        "铁床"
+      ],
+      "answer": "牙床",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
+    },
+    {
+      "id": "q2f5b9b18e",
+      "q": "世界上除了火车，什么车最长？",
+      "options": [
+        "塞车",
+        "磁悬浮列车",
+        "重型卡车"
+      ],
+      "answer": "塞车",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-21"
     }
   ]
 }
