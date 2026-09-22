@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "questions": [
     {
       "id": "q608767df5",
@@ -649,10 +649,10 @@
       "answer": "1个",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q5ce0e60f1",
@@ -1154,10 +1154,10 @@
       "wrong": [
         "红色"
       ],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qbc4bbf647",
@@ -1644,6 +1644,293 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-09-21"
+    },
+    {
+      "id": "q03018cef1",
+      "q": "装备升级需要消耗什么？",
+      "options": [
+        "冶炼石",
+        "星灵宝珠",
+        "铜币"
+      ],
+      "answer": "铜币",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q2d9c9f380",
+      "q": "牧野尤刀斧手手中拿着的是？",
+      "options": [
+        "大刀",
+        "长枪",
+        "斧头"
+      ],
+      "answer": "斧头",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q4c4739358",
+      "q": "在轩世界的以下地区中，哪里最冷？",
+      "options": [
+        "天池",
+        "沙狱",
+        "苍梧"
+      ],
+      "answer": "天池",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "qc375e4921",
+      "q": "齐白石以画什么闻名？",
+      "options": [
+        "虾",
+        "马",
+        "羊"
+      ],
+      "answer": "虾",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "qec95d3069",
+      "q": "中岳嵩山分为太室山和少室山。少林寺在？",
+      "options": [
+        "中室山",
+        "太室山",
+        "少室山"
+      ],
+      "answer": "少室山",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q7427f284f",
+      "q": "塞尔达传说荒野之息的男主角叫什么？",
+      "options": [
+        "林克",
+        "塞尔达",
+        "加农"
+      ],
+      "answer": "林克",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "qad372868d",
+      "q": "身身长九尺，髯长两尺，面如重枣，唇若涂脂凤眼、卧蚕眉相貌堂堂，威风漂漂\"说的是谁？",
+      "options": [
+        "关羽",
+        "吕布",
+        "刘备"
+      ],
+      "answer": "关羽",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q0612c7b73",
+      "q": "星月岛位于印度洋上的马尔代夫共和国，被誉为真主的奇迹，知道该岛是怎么形成的吗？",
+      "options": [
+        "古代海底火山爆发而成",
+        "地震引起的海啸形成",
+        "潮汐侵蚀而成"
+      ],
+      "answer": "古代海底火山爆发而成",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q7270aa117",
+      "q": "给折枝山茶花保鲜应该用什么水？",
+      "options": [
+        "淡盐水",
+        "糖水",
+        "蒸馏水"
+      ],
+      "answer": "淡盐水",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "qa9c0a996a",
+      "q": "明代的似话本小说\"三言\"分别是愉世明言》警世通言》和什么？",
+      "options": [
+        "醒世恒言",
+        "救世恒言",
+        "醒世敬言"
+      ],
+      "answer": "醒世恒言",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "qdd71b56f2",
+      "q": "中国古代名医华佗为谁所害？",
+      "options": [
+        "曹操",
+        "曹丕",
+        "袁绍"
+      ],
+      "answer": "曹操",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q5b4880a14",
+      "q": "生存还是毁灭，这是一个值得考虑的问题\"这句话出自莎士比亚的哪部著作？",
+      "options": [
+        "哈姆雷特",
+        "王尔德",
+        "麦克白"
+      ],
+      "answer": "哈姆雷特",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q262b32dc2",
+      "q": "世界上含沙量最大的河流是？",
+      "options": [
+        "尼罗河",
+        "幼发拉底河",
+        "黄河"
+      ],
+      "answer": "黄河",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q709121d0f",
+      "q": "中国四大佛教名山是五台山九华山峨眉山和哪个山？",
+      "options": [
+        "普陀山",
+        "五指山"
+      ],
+      "answer": "普陀山",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q70241746e",
+      "q": "“人之初，性本善。性相近，习相远。“是哪本着作的开卷语",
+      "options": [
+        "论语",
+        "三字经",
+        "大学"
+      ],
+      "answer": "三字经",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q63f3d951a",
+      "q": "吃苹果吃出1条虫子很恶心，那么吃出几只虫子更恶心？",
+      "options": [
+        "2只",
+        "半只",
+        "10只"
+      ],
+      "answer": "半只",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q7a8d079ea",
+      "q": "中国清代著名小说家蒲松龄，世称？",
+      "options": [
+        "聊斋",
+        "聊斋先生",
+        "画皮"
+      ],
+      "answer": "聊斋先生",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
+    },
+    {
+      "id": "q5c5c5537f",
+      "q": "一只青蛙掉进了一口18英尺深的井里。每天白天它向上爬6英尺，晚上向下滑落3英尺。按这一速度，问青蛙多少天能",
+      "options": [
+        "3天",
+        "4天",
+        "5天"
+      ],
+      "answer": "5天",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-22"
     }
   ]
 }
