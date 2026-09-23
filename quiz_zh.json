@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "questions": [
     {
       "id": "q608767df5",
@@ -93,10 +93,10 @@
       "answer": "靖康之耻",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q024a03bf5",
@@ -221,10 +221,10 @@
       "answer": "普罗米修斯",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q1bffd1b32",
@@ -313,10 +313,10 @@
       "answer": "薄猎",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qf529cdab6",
@@ -874,10 +874,10 @@
       "answer": "杨贵妃和唐玄宗",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q9f620d43e",
@@ -908,10 +908,10 @@
       "wrong": [
         "天策上将"
       ],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q9ab8ad3a2",
@@ -1368,10 +1368,10 @@
       "answer": "尼罗河",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qfa37b4a14",
@@ -1608,8 +1608,8 @@
       "answer": "兔儿爷",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -1931,6 +1931,214 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-09-22"
+    },
+    {
+      "id": "q0376bd782",
+      "q": "以下哪一个不是选美大赛的投票物品？",
+      "options": [
+        "五彩泥",
+        "火玲珑",
+        "美貌花"
+      ],
+      "answer": "五彩泥",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "qc7f264338",
+      "q": "关于火玲珑描述不正确的项是？",
+      "options": [
+        "可以在游戏中兑换宝物",
+        "可以食用",
+        "可以通过任务获得"
+      ],
+      "answer": "可以食用",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "q8f8c44b3b",
+      "q": "关于轩辕世界中宝石的描述，不正确的是？",
+      "options": [
+        "体天石只能增加体力属性点",
+        "敏天石能够增加敏捷和生命",
+        "力天石能够增加力量和生命"
+      ],
+      "answer": "体天石只能增加体力属性点",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "qbb8c466a4",
+      "q": "北京天坛古时候是用来干什么的？",
+      "options": [
+        "祭天",
+        "祈祷",
+        "观赏"
+      ],
+      "answer": "祭天",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "qc6094feed",
+      "q": "美国职业篮球联赛历史上的总得分王是谁?",
+      "options": [
+        "乔丹",
+        "张伯伦",
+        "贾巴尔"
+      ],
+      "answer": "贾巴尔",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "qf9b9aec50",
+      "q": "被李世民称为“我有天下，多为此人\"的是谁？",
+      "options": [
+        "魏征",
+        "长孙皇后",
+        "长孙无忌"
+      ],
+      "answer": "长孙无忌",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "q203678ed4",
+      "q": "围棋棋盘纵横的线共构成多少个交叉点?",
+      "options": [
+        "365",
+        "361",
+        "360"
+      ],
+      "answer": "361",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "qd99611421",
+      "q": "在圣斗士中，守护着十二宫的处女宫的黄金圣斗士是？",
+      "options": [
+        "米罗",
+        "沙加",
+        "星矢"
+      ],
+      "answer": "沙加",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "qf9e4f3062",
+      "q": "与清明节相关的,古代一个非常有名的,现在已经失传的节日是什么？",
+      "options": [
+        "寒食节",
+        "盂兰盆会",
+        "重阳节"
+      ],
+      "answer": "寒食节",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "qaa66968db",
+      "q": "道教奉老子为教祖，尊称他为什么？",
+      "options": [
+        "太乙真人",
+        "太上老君",
+        "元始天尊"
+      ],
+      "answer": "太上老君",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "q24d00eaf2",
+      "q": "自由女神像\"是哪个国家送给美国的礼物?",
+      "options": [
+        "法国",
+        "英国",
+        "德国"
+      ],
+      "answer": "法国",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "q43d2bf381",
+      "q": "秦始皇陵位于我国哪个城市?",
+      "options": [
+        "西安",
+        "咸阳",
+        "洛阳"
+      ],
+      "answer": "西安",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
+    },
+    {
+      "id": "qb2a910af9",
+      "q": "20世纪最成功的乐队是?",
+      "options": [
+        "凤凰传奇",
+        "甲壳虫乐队",
+        "林肯公园"
+      ],
+      "answer": "甲壳虫乐队",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-23"
     }
   ]
 }
