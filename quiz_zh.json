@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "questions": [
     {
       "id": "q608767df5",
@@ -125,10 +125,10 @@
       "answer": "法老",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q0447b8ece",
@@ -553,10 +553,10 @@
       "answer": "丹顶鹤",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q167cf8b2a",
@@ -1304,10 +1304,10 @@
       "answer": "山东",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q3133de7c4",
@@ -2039,8 +2039,8 @@
       "answer": "361",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2139,6 +2139,262 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-09-23"
+    },
+    {
+      "id": "q20490f91a",
+      "q": "角色第一次获得的坐骑叫什么?",
+      "options": [
+        "小焰马",
+        "小马驹",
+        "小马哥"
+      ],
+      "answer": "小马驹",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "q388eb3dc8",
+      "q": "游历任务在哪接取?",
+      "options": [
+        "牧野",
+        "万剑冢",
+        "忘川"
+      ],
+      "answer": "牧野",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "q1ce573c67",
+      "q": "如何查看刚刚击败你的敌国玩家?",
+      "options": [
+        "询问女娲",
+        "查看对手列表",
+        "查看附近玩家"
+      ],
+      "answer": "查看对手列表",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "qdc63bb9cd",
+      "q": "每天可参与几次趣味答题?",
+      "options": [
+        "3次",
+        "1次",
+        "2次"
+      ],
+      "answer": "3次",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "qc65a7949c",
+      "q": "件装备最多可打多少个孔?",
+      "options": [
+        "10个",
+        "5个",
+        "6个"
+      ],
+      "answer": "5个",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "q2d8fbe6b8",
+      "q": "窦娥冤》的作者是",
+      "options": [
+        "施耐庵",
+        "关汉卿",
+        "王实甫"
+      ],
+      "answer": "关汉卿",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "qfbb99cf91",
+      "q": "白话小说的发祥期是什么朝代?",
+      "options": [
+        "唐代",
+        "明代",
+        "元代"
+      ],
+      "answer": "唐代",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "qfcfc27d6f",
+      "q": "陈毅故居在四川哪个县?",
+      "options": [
+        "安岳县",
+        "乐至县",
+        "汶川县"
+      ],
+      "answer": "乐至县",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "qcb53b482d",
+      "q": "人称\"凤雏”的中国古代著名谋士是?",
+      "options": [
+        "诸葛亮",
+        "周瑜",
+        "庞统"
+      ],
+      "answer": "庞统",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "q24c5d0c5a",
+      "q": "汤圆起源于什么朝代?",
+      "options": [
+        "宋朝",
+        "唐朝",
+        "明朝"
+      ],
+      "answer": "宋朝",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "q8663889ae",
+      "q": "我国奴隶社会在什么时期瓦解?",
+      "options": [
+        "春秋",
+        "战国",
+        "解放战争后"
+      ],
+      "answer": "春秋",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "q91b9cf070",
+      "q": "宋朝是谁建立的？",
+      "options": [
+        "赵匡胤",
+        "李世民",
+        "赵光义"
+      ],
+      "answer": "赵匡胤",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "q02b99579e",
+      "q": "“举世皆浊我独清”下一句是什么？",
+      "options": [
+        "众人皆醉我独醒",
+        "圣人不凝滞于物",
+        "世人皆浊，何不a其泥而扬其波?"
+      ],
+      "answer": "众人皆醉我独醒",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "q80bbe6fa9",
+      "q": "猩猩最讨厌什么线?",
+      "options": [
+        "抛物线",
+        "平行线",
+        "直线"
+      ],
+      "answer": "平行线",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "qe1b18ef41",
+      "q": "古希腊哲学家柏拉图的老师是谁?",
+      "options": [
+        "苏格拉底",
+        "汉莫拉比",
+        "亚里士多德"
+      ],
+      "answer": "苏格拉底",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "q36623c411",
+      "q": "五经是指诗经》、尚书》、礼记》、周易》和什么？",
+      "options": [
+        "春秋",
+        "左传",
+        "史记"
+      ],
+      "answer": "春秋",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-24"
     }
   ]
 }
