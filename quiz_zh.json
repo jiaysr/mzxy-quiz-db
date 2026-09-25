@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "questions": [
     {
       "id": "q608767df5",
@@ -141,10 +141,10 @@
       "answer": "文天祥",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qa5649cfb3",
@@ -189,10 +189,10 @@
       "answer": "马其顿",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qcc0d59302",
@@ -313,10 +313,10 @@
       "answer": "薄猎",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qf529cdab6",
@@ -890,10 +890,10 @@
       "answer": "西厢记",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q247e73f96",
@@ -974,10 +974,10 @@
       "answer": "苏格兰",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q06294e131",
@@ -1154,10 +1154,10 @@
       "wrong": [
         "红色"
       ],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "qbc4bbf647",
@@ -2135,8 +2135,8 @@
       "answer": "甲壳虫乐队",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2395,6 +2395,214 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-09-24"
+    },
+    {
+      "id": "qb0b20ef2b",
+      "q": "描述金身的获取途径不正确的有?",
+      "options": [
+        "商城购买",
+        "开有求必应罐",
+        "野外捕捉"
+      ],
+      "answer": "野外捕捉",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "qbd0c05715",
+      "q": "可以通过世界地图传送的区域有？",
+      "options": [
+        "中立地区",
+        "敌对势力主城",
+        "副本"
+      ],
+      "answer": "中立地区",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "qa0d69af65",
+      "q": "骨牢场景中存在下面所说的那种植物?",
+      "options": [
+        "仙人掌",
+        "胡杨",
+        "沙棘"
+      ],
+      "answer": "仙人掌",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "q3a3bfb530",
+      "q": "黄帝和谁并称中华的始祖?",
+      "options": [
+        "女娲",
+        "伏羲",
+        "炎帝"
+      ],
+      "answer": "炎帝",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "q3e48fd46b",
+      "q": "什么东西是万圣节的标志物?",
+      "options": [
+        "南瓜",
+        "苹果",
+        "蜡烛"
+      ],
+      "answer": "南瓜",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "q6c75b5745",
+      "q": "“建安三神医”中除了董奉、华佗，还有？",
+      "options": [
+        "扁鹊",
+        "张仲景",
+        "李时珍"
+      ],
+      "answer": "张仲景",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "q79967f71d",
+      "q": "动画天空之城》的导演是？",
+      "options": [
+        "宫崎骏",
+        "久石让",
+        "虚渊玄"
+      ],
+      "answer": "宫崎骏",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "q54c631d89",
+      "q": "传说中大禹治水之时，经过家门多少次都没有进去?",
+      "options": [
+        "3次",
+        "7次",
+        "9次"
+      ],
+      "answer": "3次",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "qb24421263",
+      "q": "音乐界所说的大小施特劳斯之间是什么关系？",
+      "options": [
+        "父子关系",
+        "叔侄关系",
+        "兄弟关系"
+      ],
+      "answer": "父子关系",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "q787fa5be0",
+      "q": "专诸刺王僚时，置之鱼腹中而得名的名剑叫什么？",
+      "options": [
+        "龙泉剑",
+        "莫邪剑",
+        "鱼肠剑"
+      ],
+      "answer": "鱼肠剑",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "qba1fa4573",
+      "q": "他主持编纂了中国历史上第一部编年体通史资治通鉴》，人称“涑水先生”，他是？",
+      "options": [
+        "司马迁",
+        "司马懿",
+        "司马光"
+      ],
+      "answer": "司马光",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "q0c5d98c9b",
+      "q": "万有引力通常称什么?",
+      "options": [
+        "吸引力",
+        "牛顿",
+        "引力"
+      ],
+      "answer": "引力",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "qf574b02d6",
+      "q": "元宵节是哪一天?",
+      "options": [
+        "正月十五",
+        "正月初十",
+        "二月初一"
+      ],
+      "answer": "正月十五",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-25"
     }
   ]
 }
