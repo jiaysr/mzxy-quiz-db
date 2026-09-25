@@ -1943,8 +1943,8 @@
       "answer": "火玲珑",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2007,8 +2007,8 @@
       "answer": "贾巴尔",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2087,8 +2087,8 @@
       "answer": "太上老君",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2603,6 +2603,278 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-09-25"
+    },
+    {
+      "id": "qb65da826f",
+      "q": "万剑冢的巨剑上封锁了几条锁链?",
+      "options": [
+        "2条",
+        "3条",
+        "1条"
+      ],
+      "answer": "3条",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qbd3d83e2c",
+      "q": "“忘川”里面什么最多?",
+      "options": [
+        "铜贝",
+        "怪物",
+        "水"
+      ],
+      "answer": "水",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qa05dc2389",
+      "q": "哪个场景可以欣赏到雪景?",
+      "options": [
+        "万花谷",
+        "天池",
+        "星碎林"
+      ],
+      "answer": "天池",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q0e5f2de47",
+      "q": "在线领奖需要花钱吗?",
+      "options": [
+        "不需要",
+        "需要",
+        "不知道"
+      ],
+      "answer": "不需要",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qa9c891859",
+      "q": "一头牛，向北走10米，再向西走10米，再向南走10米，倒退右转，问牛的尾巴朝哪儿？",
+      "options": [
+        "朝南",
+        "朝北",
+        "朝下"
+      ],
+      "answer": "朝下",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q1bfc47796",
+      "q": "鱼香肉丝是哪个菜系中的菜?",
+      "options": [
+        "湘菜",
+        "川菜",
+        "鲁菜"
+      ],
+      "answer": "川菜",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qd12a856e4",
+      "q": "世界上最大的半岛是什么？",
+      "options": [
+        "阿拉伯半岛",
+        "印度半岛",
+        "朝鲜半岛"
+      ],
+      "answer": "阿拉伯半岛",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q18e07e3f3",
+      "q": "“风萧萧兮易水寒,壮士一去兮不复还\"是哪位刺客的送别歌?",
+      "options": [
+        "荆轲",
+        "要离",
+        "聂氏姐弟"
+      ],
+      "answer": "荆轲",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qf290cc905",
+      "q": "般金婚是纪念结婚多少周年?",
+      "options": [
+        "50周年",
+        "40周年",
+        "60周年"
+      ],
+      "answer": "50周年",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qaf45f25a4",
+      "q": "凉宫春日组建的社团名字叫?",
+      "options": [
+        "轻音部",
+        "FFF团",
+        "SOS团"
+      ],
+      "answer": "SOS团",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qabf377874",
+      "q": "打什么东西最不费力?",
+      "options": [
+        "打球",
+        "打铁",
+        "打瞌睡"
+      ],
+      "answer": "打瞌睡",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qbd842bccb",
+      "q": "被称为\"命运交响曲\"的是贝多芬的？",
+      "options": [
+        "第三交响曲",
+        "第四交响曲",
+        "第五交响曲"
+      ],
+      "answer": "",
+      "verified": false,
+      "wrong": [],
+      "hits": 0,
+      "correct": 0,
+      "source": "pending",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q32b7f7156",
+      "q": "我国除了三月三、清明节，中元节，下列还有也是鬼节的农历日是",
+      "options": [
+        "十月初一",
+        "五月初八",
+        "七月初六"
+      ],
+      "answer": "十月初一",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q05b012364",
+      "q": "马克·吐温的代表作是什么?",
+      "options": [
+        "汤姆索亚历险记",
+        "傻瓜威尔逊",
+        "百万英镑"
+      ],
+      "answer": "汤姆索亚历险记",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q6d731bc1f",
+      "q": "探骊得珠一般是指能够抓住要点，得到精蕴。这里的骊是指",
+      "options": [
+        "黑色的龙",
+        "骊山",
+        "深黑色的马"
+      ],
+      "answer": "黑色的龙",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qf5d29a793",
+      "q": "哈雷彗星多少年出现一次?",
+      "options": [
+        "72年",
+        "76年",
+        "78年"
+      ],
+      "answer": "76年",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qb230f80b0",
+      "q": "家住在暗角落，身穿酱色袍，头戴黑铁帽，打仗逞英豪，它指的是？",
+      "options": [
+        "蟋蟀",
+        "蚱蜢",
+        "蝲蛄"
+      ],
+      "answer": "蟋蟀",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
     }
   ]
 }
