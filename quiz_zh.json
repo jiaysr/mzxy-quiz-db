@@ -234,12 +234,12 @@
         "玑衡辅辰仪",
         "浑天仪"
       ],
-      "answer": "",
-      "verified": false,
+      "answer": "玑衡辅辰仪",
+      "verified": true,
       "wrong": [],
       "hits": 0,
       "source": "pending",
-      "updated": "2026-09-18",
+      "updated": "2026-09-26",
       "correct": 0
     },
     {
@@ -2612,8 +2612,8 @@
         "3条",
         "1条"
       ],
-      "answer": "3条",
-      "verified": false,
+      "answer": "2条",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
@@ -2788,8 +2788,8 @@
         "第四交响曲",
         "第五交响曲"
       ],
-      "answer": "",
-      "verified": false,
+      "answer": "第五交响曲",
+      "verified": true,
       "wrong": [],
       "hits": 0,
       "correct": 0,
