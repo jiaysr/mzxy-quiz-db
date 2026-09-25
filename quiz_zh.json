@@ -2886,8 +2886,8 @@
         "醒狮",
         "玄鹿"
       ],
-      "answer": "烈火麒麟",
-      "verified": false,
+      "answer": "玄鹿",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
@@ -2902,8 +2902,8 @@
         "8块",
         "9块"
       ],
-      "answer": "8块",
-      "verified": false,
+      "answer": "9块",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
