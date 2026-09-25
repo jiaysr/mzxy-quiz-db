@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "questions": [
     {
       "id": "q608767df5",
@@ -1940,13 +1940,13 @@
         "火玲珑",
         "美貌花"
       ],
-      "answer": "五彩泥",
-      "verified": false,
+      "answer": "火玲珑",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-23"
+      "updated": "2026-09-26"
     },
     {
       "id": "qc7f264338",
@@ -2164,13 +2164,13 @@
         "万剑冢",
         "忘川"
       ],
-      "answer": "牧野",
-      "verified": false,
+      "answer": "万剑冢",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-24"
+      "updated": "2026-09-26"
     },
     {
       "id": "q1ce573c67",
@@ -2196,13 +2196,13 @@
         "1次",
         "2次"
       ],
-      "answer": "3次",
-      "verified": false,
+      "answer": "1次",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-24"
+      "updated": "2026-09-26"
     },
     {
       "id": "qc65a7949c",
@@ -2212,13 +2212,13 @@
         "5个",
         "6个"
       ],
-      "answer": "5个",
-      "verified": false,
+      "answer": "6个",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-24"
+      "updated": "2026-09-26"
     },
     {
       "id": "q2d8fbe6b8",
