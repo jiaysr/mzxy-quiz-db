@@ -93,10 +93,10 @@
       "answer": "靖康之耻",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q024a03bf5",
@@ -490,10 +490,10 @@
       "answer": "福尔摩斯",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qed215aebb",
@@ -649,10 +649,10 @@
       "answer": "1个",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q5ce0e60f1",
@@ -792,10 +792,10 @@
       "answer": "浮元子",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q5b74f1b3e",
@@ -1752,8 +1752,8 @@
       "answer": "关羽",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2391,8 +2391,8 @@
       "answer": "春秋",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2614,7 +2614,9 @@
       ],
       "answer": "2条",
       "verified": true,
-      "wrong": [],
+      "wrong": [
+        "3条"
+      ],
       "hits": 1,
       "correct": 0,
       "source": "llm",
@@ -2839,8 +2841,8 @@
       "answer": "黑色的龙",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2869,6 +2871,214 @@
         "蝲蛄"
       ],
       "answer": "蟋蟀",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q1f0842ad8",
+      "q": "首充奖励的坐骑叫什么?",
+      "options": [
+        "烈火麒麟",
+        "醒狮",
+        "玄鹿"
+      ],
+      "answer": "烈火麒麟",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q6f1480ed0",
+      "q": "最多可以同时种植几块土地?",
+      "options": [
+        "7块",
+        "8块",
+        "9块"
+      ],
+      "answer": "8块",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q8c4381b91",
+      "q": "在修真中想要修炼需要消耗什么？",
+      "options": [
+        "魂气",
+        "灵气",
+        "经验值"
+      ],
+      "answer": "灵气",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q8d52e0ff6",
+      "q": "关于玩家在中立地区的保护机制中，描述不正确的项是？",
+      "options": [
+        "主动攻击其他玩家后保护消失",
+        "保护机制起效后名字前面带有盾牌标志",
+        "保护机制永远有效"
+      ],
+      "answer": "保护机制永远有效",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qde54bfa84",
+      "q": "不属於古代美洲三种主要文化的是？",
+      "options": [
+        "哥特文明",
+        "阿兹特克文明",
+        "玛雅文明"
+      ],
+      "answer": "哥特文明",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q8ea1346b8",
+      "q": "二十四节气是根据太阳在什么上的位置来划分的?",
+      "options": [
+        "黄道",
+        "赤道",
+        "南北极"
+      ],
+      "answer": "黄道",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q62723aae1",
+      "q": "童话故事 灰姑娘》出自哪里?",
+      "options": [
+        "安徒生童话",
+        "格林童话",
+        "王尔德童话"
+      ],
+      "answer": "格林童话",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qf7c564ce5",
+      "q": "被尊为“现代童话之父\"的安徒生有许多作品，下面哪个不是安徒生的作品？",
+      "options": [
+        "爱丽斯漫游仙境",
+        "丑小鸭",
+        "卖火柴的小女孩"
+      ],
+      "answer": "爱丽斯漫游仙境",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qd704d944b",
+      "q": "宋氏三姐妹”中被称为中国“空军之母”的是",
+      "options": [
+        "宋霭龄",
+        "宋庆龄",
+        "宋美龄"
+      ],
+      "answer": "宋美龄",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q3e9fe9bf0",
+      "q": "四书是指论语、孟子、大学和什么?",
+      "options": [
+        "春秋",
+        "中庸",
+        "资治通鉴"
+      ],
+      "answer": "中庸",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qa3f39f7da",
+      "q": "下列哪个成语典故与项羽有关?",
+      "options": [
+        "破釜沉舟",
+        "暗度陈仓",
+        "背水一战"
+      ],
+      "answer": "破釜沉舟",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q97e6b72cb",
+      "q": "编钟是我国古代的一种打击乐器，用什么制成?",
+      "options": [
+        "金",
+        "青铜",
+        "银"
+      ],
+      "answer": "青铜",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qb3f26d7d8",
+      "q": "中国最热的地方在哪里?",
+      "options": [
+        "吐鲁番",
+        "海南",
+        "南京"
+      ],
+      "answer": "吐鲁番",
       "verified": true,
       "wrong": [],
       "hits": 1,
