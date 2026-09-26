@@ -474,9 +474,9 @@
       "answer": "蓝色",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
-      "updated": "2026-09-18",
+      "updated": "2026-09-26",
       "correct": 0
     },
     {
@@ -1154,10 +1154,10 @@
       "wrong": [
         "红色"
       ],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "qbc4bbf647",
@@ -1656,7 +1656,7 @@
       "answer": "冶炼石",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
       "updated": "2026-09-23"
@@ -1895,8 +1895,8 @@
       "answer": "半只",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -1942,7 +1942,9 @@
       ],
       "answer": "火玲珑",
       "verified": true,
-      "wrong": [],
+      "wrong": [
+        "五彩泥"
+      ],
       "hits": 2,
       "correct": 1,
       "source": "llm",
@@ -2166,7 +2168,9 @@
       ],
       "answer": "万剑冢",
       "verified": true,
-      "wrong": [],
+      "wrong": [
+        "牧野"
+      ],
       "hits": 1,
       "correct": 0,
       "source": "llm",
@@ -2198,7 +2202,9 @@
       ],
       "answer": "1次",
       "verified": true,
-      "wrong": [],
+      "wrong": [
+        "3次"
+      ],
       "hits": 1,
       "correct": 0,
       "source": "llm",
@@ -2214,7 +2220,9 @@
       ],
       "answer": "6个",
       "verified": true,
-      "wrong": [],
+      "wrong": [
+        "5个"
+      ],
       "hits": 1,
       "correct": 0,
       "source": "llm",
@@ -2272,17 +2280,18 @@
       "id": "qcb53b482d",
       "q": "人称\"凤雏”的中国古代著名谋士是?",
       "options": [
+        "曹操",
         "诸葛亮",
-        "周瑜",
-        "庞统"
+        "孙权"
       ],
-      "answer": "庞统",
+      "answer": "诸葛亮",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
-      "updated": "2026-09-24"
+      "updated": "2026-09-26",
+      "conflict": true
     },
     {
       "id": "q24c5d0c5a",
@@ -2519,8 +2528,8 @@
       "answer": "3次",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2583,8 +2592,8 @@
       "answer": "引力",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2665,8 +2674,8 @@
       "answer": "不需要",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3079,6 +3088,198 @@
         "南京"
       ],
       "answer": "吐鲁番",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qbbb59fc94",
+      "q": "下面描述成为帝王后的情况，正确的是？",
+      "options": [
+        "将拥有特殊的帝王效果",
+        "能够号令天下",
+        "可以组建军队"
+      ],
+      "answer": "将拥有特殊的帝王效果",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q1be27dff6",
+      "q": "骑坐骑的好处是什么？",
+      "options": [
+        "能长身高",
+        "增加形象的美观度,还能增加移动速度",
+        "看的更远"
+      ],
+      "answer": "增加形象的美观度，还能增加移动速度",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qa7f43f8ab",
+      "q": "“床前明月光\"是李白的千古名句，其中」“床”指的是什么？",
+      "options": [
+        "窗户",
+        "井上的围栏",
+        "卧具"
+      ],
+      "answer": "井上的围栏",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qe144dcb69",
+      "q": "岳飞的母亲在岳飞身后刺了哪4个字?",
+      "options": [
+        "精忠报国",
+        "战无不胜",
+        "忠君爱国"
+      ],
+      "answer": "精忠报国",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q62db88d64",
+      "q": "“书香门第”中的“书香”原意指什么?",
+      "options": [
+        "书本的香气",
+        "墨汁的香味",
+        "书中香草发出的香气"
+      ],
+      "answer": "书中香草发出的香气",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q9c1480c65",
+      "q": "能使淀粉变成蓝黑色的是？",
+      "options": [
+        "紫药水",
+        "碘酒",
+        "精华"
+      ],
+      "answer": "碘酒",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qbc9000d8b",
+      "q": "金庸小说鸳鸯刀》中的鸳鸯双刀，一刀上刻着无敌，另一刀上刻这什么？",
+      "options": [
+        "仁者",
+        "天下",
+        "至尊"
+      ],
+      "answer": "仁者",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qd71d85749",
+      "q": "小笼包起源于哪里？",
+      "options": [
+        "上海",
+        "杭州",
+        "广州"
+      ],
+      "answer": "上海",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q67e2041eb",
+      "q": "张家界风景区位于我国的哪一个省份?",
+      "options": [
+        "贵州",
+        "湖南",
+        "四川"
+      ],
+      "answer": "湖南",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qdba624e90",
+      "q": "一个人去医院做检查结果医生要他看开一点，请问他得了什么病？",
+      "options": [
+        "斗鸡眼",
+        "抑郁症",
+        "相思病"
+      ],
+      "answer": "斗鸡眼",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "qf770535ea",
+      "q": "薄公英靠什么传播种子?",
+      "options": [
+        "鸟粪",
+        "风力",
+        "果实"
+      ],
+      "answer": "风力",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-26"
+    },
+    {
+      "id": "q7b5fce6bd",
+      "q": "八大行星中最靠近太阳的行星是什么？",
+      "options": [
+        "水星",
+        "金星",
+        "土星"
+      ],
+      "answer": "水星",
       "verified": true,
       "wrong": [],
       "hits": 1,
