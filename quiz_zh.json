@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "questions": [
     {
       "id": "q608767df5",
@@ -974,10 +974,10 @@
       "answer": "苏格兰",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q06294e131",
@@ -1285,12 +1285,12 @@
         "350铜贝",
         "100铜贝"
       ],
-      "answer": "500铜贝",
+      "answer": "100铜贝",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
-      "updated": "2026-09-21",
+      "updated": "2026-09-27",
       "correct": 0
     },
     {
@@ -1304,10 +1304,10 @@
       "answer": "山东",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q3133de7c4",
@@ -1320,10 +1320,10 @@
       "answer": "凯尔特",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q0e6a7ba5d",
@@ -2041,8 +2041,8 @@
       "answer": "361",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2171,8 +2171,8 @@
       "wrong": [
         "牧野"
       ],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2432,8 +2432,8 @@
       "answer": "中立地区",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2464,8 +2464,8 @@
       "answer": "炎帝",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2738,8 +2738,8 @@
       "answer": "荆轲",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2754,8 +2754,8 @@
       "answer": "50周年",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3106,8 +3106,8 @@
       "answer": "将拥有特殊的帝王效果",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3275,17 +3275,146 @@
       "id": "q7b5fce6bd",
       "q": "八大行星中最靠近太阳的行星是什么？",
       "options": [
-        "水星",
         "金星",
+        "火星",
         "土星"
       ],
-      "answer": "水星",
+      "answer": "金星",
+      "verified": true,
+      "wrong": [],
+      "hits": 2,
+      "correct": 2,
+      "source": "llm",
+      "updated": "2026-09-27",
+      "conflict": true
+    },
+    {
+      "id": "qaade5c0eb",
+      "q": "昆仑山上的可人身份是？",
+      "options": [
+        "妖",
+        "魔",
+        "仙"
+      ],
+      "answer": "仙",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-27"
+    },
+    {
+      "id": "q1755742e4",
+      "q": "围绕在星迅周围的光剑有几个?",
+      "options": [
+        "3个",
+        "5个",
+        "2个"
+      ],
+      "answer": "3个",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-27"
+    },
+    {
+      "id": "q433b40529",
+      "q": "工藤新一的女朋友是?",
+      "options": [
+        "灰原哀",
+        "毛利兰",
+        "服部平次"
+      ],
+      "answer": "毛利兰",
       "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 1,
       "source": "llm",
-      "updated": "2026-09-26"
+      "updated": "2026-09-27"
+    },
+    {
+      "id": "q1e7a363cf",
+      "q": "下列的中国古人类中，哪一种出现的时间最早?",
+      "options": [
+        "北京人",
+        "元谋人",
+        "山顶洞人"
+      ],
+      "answer": "元谋人",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-27"
+    },
+    {
+      "id": "q9a1304099",
+      "q": "下半旗是把旗子下降到？",
+      "options": [
+        "距离杆顶1/3处",
+        "距离杆顶1/4处",
+        "距离杆顶1/2处"
+      ],
+      "answer": "距离杆顶1/3处",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-27"
+    },
+    {
+      "id": "q9bf384a8e",
+      "q": "什么细胞是人体运输氧气和二氧化碳的主要细胞?",
+      "options": [
+        "红细胞",
+        "白细胞",
+        "淋巴细胞"
+      ],
+      "answer": "红细胞",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-27"
+    },
+    {
+      "id": "q5dda33a80",
+      "q": "中国四大节日,分别有春节，中秋节，端午节和什么？",
+      "options": [
+        "清明节",
+        "重阳节",
+        "中元节"
+      ],
+      "answer": "清明节",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-27"
+    },
+    {
+      "id": "q38c0560cd",
+      "q": "如果属性点分配错了可以用什么方法补救呢?",
+      "options": [
+        "服用经络丹",
+        "服用洗髓丹",
+        "请求炎帝更改"
+      ],
+      "answer": "服用洗髓丹",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-27"
     }
   ]
 }
