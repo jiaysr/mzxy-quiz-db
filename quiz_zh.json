@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "questions": [
     {
       "id": "q608767df5",
@@ -141,10 +141,10 @@
       "answer": "文天祥",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qa5649cfb3",
@@ -205,10 +205,10 @@
       "answer": "巴西",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q3cb227e32",
@@ -546,17 +546,18 @@
       "id": "q5d2206479",
       "q": "中国的国鸟是什么？",
       "options": [
-        "丹顶鹤",
-        "短尾信天翁",
-        "黄嘴白鹭"
+        "梅花",
+        "牡丹",
+        "荷花"
       ],
-      "answer": "丹顶鹤",
+      "answer": "牡丹",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
-      "updated": "2026-09-18",
-      "correct": 1
+      "updated": "2026-09-28",
+      "correct": 2,
+      "conflict": true
     },
     {
       "id": "q167cf8b2a",
@@ -908,10 +909,10 @@
       "wrong": [
         "天策上将"
       ],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q9ab8ad3a2",
@@ -1285,7 +1286,7 @@
         "350铜贝",
         "100铜贝"
       ],
-      "answer": "100铜贝",
+      "answer": "500铜贝",
       "verified": false,
       "wrong": [],
       "hits": 2,
@@ -1416,10 +1417,10 @@
       "answer": "爱因斯坦",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qd945bd25b",
@@ -1688,8 +1689,8 @@
       "answer": "天池",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2271,8 +2272,8 @@
       "answer": "乐至县",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2384,8 +2385,8 @@
       "answer": "苏格拉底",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2400,8 +2401,8 @@
       "answer": "春秋",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -3154,8 +3155,8 @@
       "answer": "精忠报国",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3331,8 +3332,8 @@
       "answer": "毛利兰",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -3415,6 +3416,150 @@
       "correct": 0,
       "source": "llm",
       "updated": "2026-09-27"
+    },
+    {
+      "id": "q2ac775ed4",
+      "q": "在轩辕中2级宝石合成3级宝石需要?",
+      "options": [
+        "什么都不需要",
+        "铜贝",
+        "五彩泥"
+      ],
+      "answer": "铜贝",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "q06b2e1527",
+      "q": "牧野地图中炎帝所在的空地上有几根图腾柱?",
+      "options": [
+        "3根",
+        "4根",
+        "8根"
+      ],
+      "answer": "4根",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "q3383e640e",
+      "q": "琉璃幻境副本中所遇到的第一个首领是？",
+      "options": [
+        "阴阳脸",
+        "笔仙",
+        "冥火雀"
+      ],
+      "answer": "阴阳脸",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "q331aa4777",
+      "q": "什么字世界通用?",
+      "options": [
+        "英文",
+        "汉语",
+        "阿拉伯数字"
+      ],
+      "answer": "阿拉伯数字",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "qc516ebdc7",
+      "q": "阿拉丁有几个哥哥?",
+      "options": [
+        "3个",
+        "1个",
+        "5个"
+      ],
+      "answer": "3个",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "q3d082e224",
+      "q": "四库全书中的四库是指经，史，子和什么四部？",
+      "options": [
+        "赋",
+        "集",
+        "颂"
+      ],
+      "answer": "集",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "q3d864070a",
+      "q": "凤凰是神话传说中的一种端庄、美丽的鸟，其雌鸟称为？",
+      "options": [
+        "凤",
+        "凰",
+        "母凤"
+      ],
+      "answer": "凰",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "q8524fd093",
+      "q": "被苏轼赞为“诗中有画，画中有诗”的是谁？",
+      "options": [
+        "王维",
+        "李白",
+        "杜甫"
+      ],
+      "answer": "王维",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "qb75ac1a35",
+      "q": "晚上我们看见北极星在北方，那么下午两点时北极星在哪里?",
+      "options": [
+        "东方",
+        "西方",
+        "北方"
+      ],
+      "answer": "北方",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-28"
     }
   ]
 }
