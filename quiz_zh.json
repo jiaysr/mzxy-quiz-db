@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "questions": [
     {
       "id": "q608767df5",
@@ -29,10 +29,10 @@
       "answer": "白马",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q80c613377",
@@ -409,10 +409,10 @@
       "answer": "青绿色的",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q734b847da",
@@ -809,10 +809,10 @@
       "answer": "毕加索",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qadcd5dd3d",
@@ -843,10 +843,10 @@
       "answer": "浙江",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qf9370c733",
@@ -1137,10 +1137,10 @@
       "answer": "叶绿素",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q1f3df0347",
@@ -2172,8 +2172,8 @@
       "wrong": [
         "牧野"
       ],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2288,7 +2288,7 @@
       "answer": "诸葛亮",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "correct": 2,
       "source": "llm",
       "updated": "2026-09-26",
@@ -2707,8 +2707,8 @@
       "answer": "川菜",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2835,10 +2835,10 @@
       "answer": "汤姆索亚历险记",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-26"
+      "updated": "2026-09-29"
     },
     {
       "id": "q6d731bc1f",
@@ -3267,8 +3267,8 @@
       "answer": "风力",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3348,8 +3348,8 @@
       "answer": "元谋人",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -3560,6 +3560,150 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-09-28"
+    },
+    {
+      "id": "q13316b63e",
+      "q": "中皇山上陪伴女娲的神兽是？",
+      "options": [
+        "穷奇",
+        "饕餮",
+        "凤凰"
+      ],
+      "answer": "凤凰",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-29"
+    },
+    {
+      "id": "q974c8e9f3",
+      "q": "白原势力首领罗毅和嬴土势力首领姬霜是什么关系?",
+      "options": [
+        "情侣",
+        "父女",
+        "敌人"
+      ],
+      "answer": "情侣",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-29"
+    },
+    {
+      "id": "qe2edcfbbc",
+      "q": "关于如何才能让一件装备大幅度提升其品质，下面不正确的是？",
+      "options": [
+        "镶嵌宝石",
+        "星级鉴定",
+        "每天洗一次"
+      ],
+      "answer": "每天洗一次",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-29"
+    },
+    {
+      "id": "q7518da6d8",
+      "q": "成语\"风声鹤唳\"最早是形容哪个古代将领率军溃退的狼狈状",
+      "options": [
+        "苻坚",
+        "诸葛亮",
+        "赵子龙"
+      ],
+      "answer": "苻坚",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-29"
+    },
+    {
+      "id": "q66b2ec5d6",
+      "q": "清朝康熙的儿子里面，哪位阿哥最终继承了皇位?",
+      "options": [
+        "十四阿哥胤祯",
+        "八阿哥胤禊",
+        "四阿哥胤禛"
+      ],
+      "answer": "四阿哥胤禛",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-29"
+    },
+    {
+      "id": "qc8ce2e048",
+      "q": "代表作为亚威农少女》的现代艺术创始人是？",
+      "options": [
+        "蒙克",
+        "毕加索",
+        "梵高"
+      ],
+      "answer": "毕加索",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-29"
+    },
+    {
+      "id": "q177764e93",
+      "q": "选鱼竿时要注意，好的鱼竿的重量一般集中在哪个部分？",
+      "options": [
+        "顶端",
+        "尾部",
+        "中部"
+      ],
+      "answer": "尾部",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-29"
+    },
+    {
+      "id": "q003f9b7c3",
+      "q": "山海经》分为山经和什么?",
+      "options": [
+        "人经",
+        "海经",
+        "地经"
+      ],
+      "answer": "海经",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-29"
+    },
+    {
+      "id": "q4a210bba1",
+      "q": "莎士比亚的四大悲剧：哈姆雷特》、奥塞罗》、李尔王》还有哪一个？",
+      "options": [
+        "麦克白",
+        "仲夏夜之梦",
+        "罗密欧和朱丽叶"
+      ],
+      "answer": "麦克白",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-29"
     }
   ]
 }
