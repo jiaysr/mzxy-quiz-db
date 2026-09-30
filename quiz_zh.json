@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "questions": [
     {
       "id": "q608767df5",
@@ -173,10 +173,10 @@
       "answer": "扬州",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q8631ee176",
@@ -221,10 +221,10 @@
       "answer": "普罗米修斯",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q1bffd1b32",
@@ -329,10 +329,10 @@
       "answer": "能够增加属性值",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q004f147a9",
@@ -827,10 +827,10 @@
       "wrong": [
         "活火山"
       ],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q389216765",
@@ -1073,10 +1073,10 @@
       "answer": "榴莲",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q95701371d",
@@ -1497,8 +1497,8 @@
       "answer": "春风吹又生",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -1864,8 +1864,8 @@
       "answer": "普陀山",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2224,7 +2224,7 @@
       "wrong": [
         "5个"
       ],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
       "updated": "2026-09-26"
@@ -2337,8 +2337,8 @@
       "answer": "赵匡胤",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2417,8 +2417,8 @@
       "answer": "野外捕捉",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -3235,8 +3235,8 @@
       "answer": "湖南",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3364,8 +3364,8 @@
       "answer": "距离杆顶1/3处",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -3588,10 +3588,10 @@
       "answer": "情侣",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
     },
     {
       "id": "qe2edcfbbc",
@@ -3700,10 +3700,105 @@
       "answer": "麦克白",
       "verified": true,
       "wrong": [],
+      "hits": 2,
+      "correct": 2,
+      "source": "llm",
+      "updated": "2026-09-29"
+    },
+    {
+      "id": "qed29172c2",
+      "q": "轩辕中共有几大技能系?",
+      "options": [
+        "5",
+        "10"
+      ],
+      "answer": "8",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "q9a7247aed",
+      "q": "从你生下来到现在，是睁眼的次数多还是闭眼的次数多？",
+      "options": [
+        "一样多",
+        "睁眼",
+        "闭眼"
+      ],
+      "answer": "一样多",
+      "verified": true,
+      "wrong": [],
       "hits": 1,
       "correct": 1,
       "source": "llm",
-      "updated": "2026-09-29"
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "q5ca66a7c7",
+      "q": "四大家鱼指人工饲养的青鱼、鳙鱼、鲢鱼和什么鱼?",
+      "options": [
+        "草鱼",
+        "鲫鱼",
+        "鲤鱼"
+      ],
+      "answer": "草鱼",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "q4d3bcb4cc",
+      "q": "宠物小精灵》中皮卡丘的特技是？",
+      "options": [
+        "喷水",
+        "喷火",
+        "放电"
+      ],
+      "answer": "放电",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "q417cea9c5",
+      "q": "魔戒中一共有几个戒灵？",
+      "options": [
+        "三个",
+        "五个",
+        "九个"
+      ],
+      "answer": "九个",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "q9dd74a109",
+      "q": "“知己知彼，百战不殆”出自哪里？",
+      "options": [
+        "论语",
+        "孙子兵法",
+        "史记"
+      ],
+      "answer": "孙子兵法",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-09-30"
     }
   ]
 }
