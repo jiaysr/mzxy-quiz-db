@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "questions": [
     {
       "id": "q608767df5",
@@ -2838,7 +2838,7 @@
       "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-29"
+      "updated": "2026-10-01"
     },
     {
       "id": "q6d731bc1f",
@@ -3409,13 +3409,13 @@
         "服用洗髓丹",
         "请求炎帝更改"
       ],
-      "answer": "服用洗髓丹",
-      "verified": false,
+      "answer": "服用经络丹",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-27"
+      "updated": "2026-10-01"
     },
     {
       "id": "q2ac775ed4",
@@ -3425,13 +3425,13 @@
         "铜贝",
         "五彩泥"
       ],
-      "answer": "铜贝",
-      "verified": false,
+      "answer": "什么都不需要",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-28"
+      "updated": "2026-10-01"
     },
     {
       "id": "q06b2e1527",
@@ -3569,13 +3569,13 @@
         "饕餮",
         "凤凰"
       ],
-      "answer": "凤凰",
-      "verified": false,
+      "answer": "穷奇",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-29"
+      "updated": "2026-10-01"
     },
     {
       "id": "q974c8e9f3",
@@ -3585,13 +3585,13 @@
         "父女",
         "敌人"
       ],
-      "answer": "情侣",
-      "verified": false,
+      "answer": "敌人",
+      "verified": true,
       "wrong": [],
       "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-30"
+      "updated": "2026-10-01"
     },
     {
       "id": "qe2edcfbbc",
@@ -3712,13 +3712,13 @@
         "5",
         "10"
       ],
-      "answer": "8",
-      "verified": false,
+      "answer": "5",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-30"
+      "updated": "2026-10-01"
     },
     {
       "id": "q9a7247aed",
