@@ -546,9 +546,9 @@
       "id": "q5d2206479",
       "q": "中国的国鸟是什么？",
       "options": [
-        "梅花",
-        "牡丹",
-        "荷花"
+        "丹顶鹤",
+        "短尾信天翁",
+        "黄嘴白鹭"
       ],
       "answer": "牡丹",
       "verified": true,
@@ -556,8 +556,8 @@
       "hits": 4,
       "source": "llm",
       "updated": "2026-09-28",
-      "correct": 2,
-      "conflict": true
+      "conflict": true,
+      "correct": 2
     },
     {
       "id": "q167cf8b2a",
@@ -859,10 +859,10 @@
       "answer": "1099个",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qc96a227f2",
@@ -1817,8 +1817,8 @@
       "answer": "曹操",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -3316,10 +3316,10 @@
       "answer": "3个",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-27"
+      "updated": "2026-10-01"
     },
     {
       "id": "q433b40529",
@@ -3332,8 +3332,8 @@
       "answer": "毛利兰",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -3779,8 +3779,8 @@
       "answer": "九个",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-30"
     },
@@ -3799,6 +3799,245 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-09-30"
+    },
+    {
+      "id": "q310dcc573",
+      "q": "角斗场胜利的次数排在前十名玩家不会获得什么奖励?",
+      "options": [
+        "免费有求必应罐",
+        "五彩泥",
+        "墨雀金身"
+      ],
+      "answer": "免费有求必应罐",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "q699d98e05",
+      "q": "“域外灵岛\"在什么地方?",
+      "options": [
+        "天上",
+        "地上",
+        "海里"
+      ],
+      "answer": "天上",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "q6ab169ef2",
+      "q": "万剑冢的冰啼背后有几把剑?",
+      "options": [
+        "6把",
+        "5把",
+        "9把"
+      ],
+      "answer": "6把",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "qb0d4cd3fb",
+      "q": "妖化人鱼拿的武器是什么？",
+      "options": [
+        "溜溜球",
+        "三叉戟",
+        "矛"
+      ],
+      "answer": "三叉戟",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "qe15766526",
+      "q": "美国科罗拉多州科罗拉多温泉附近的一个地标性的国家级的自然保护区内有一块很奇特的平衡石，这个公园被成为？",
+      "options": [
+        "众神之园",
+        "平衡之墓",
+        "神石之源"
+      ],
+      "answer": "众神之园",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "q44dec7ab5",
+      "q": "世界上最毒的物质是?",
+      "options": [
+        "鹤顶红",
+        "神经毒素"
+      ],
+      "answer": "神经毒素",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "qdae61d069",
+      "q": "七夕起源于什么时候?",
+      "options": [
+        "汉代",
+        "唐代",
+        "宋代"
+      ],
+      "answer": "汉代",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "qd9a2e823b",
+      "q": "被称为“书圣”的古代书法家为？",
+      "options": [
+        "王羲之",
+        "颜真卿",
+        "王献之"
+      ],
+      "answer": "王羲之",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "qabfe0889e",
+      "q": "瓦特发明了什么?",
+      "options": [
+        "汽车",
+        "蒸汽机",
+        "飞机"
+      ],
+      "answer": "蒸汽机",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "q4354386ed",
+      "q": "我国古代“十恶不赦\"中的首恶是什么？",
+      "options": [
+        "谋反",
+        "不孝",
+        "不义"
+      ],
+      "answer": "谋反",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "q8e700867b",
+      "q": "中国考古学的前身是北宋以来的什么学?",
+      "options": [
+        "金石学",
+        "风水学",
+        "盗墓学"
+      ],
+      "answer": "金石学",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "qb023f028e",
+      "q": "\"地震仪\"是谁发明的?",
+      "options": [
+        "刘衡",
+        "李衡",
+        "张衡"
+      ],
+      "answer": "张衡",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "qd9cc51bb5",
+      "q": "“背水列阵”是中国古代哪一位名将的兵法？",
+      "options": [
+        "韩信",
+        "霍去病",
+        "李广"
+      ],
+      "answer": "韩信",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "qd698fa216",
+      "q": "哪位华人被国际权威杂志黑带》所列为世界七大武术名家?",
+      "options": [
+        "李小龙",
+        "成龙",
+        "李连傑"
+      ],
+      "answer": "李小龙",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
+    },
+    {
+      "id": "q0844948fa",
+      "q": "红细胞中含有什么，因而使精华呈红色？",
+      "options": [
+        "红色素",
+        "血红蛋白",
+        "铁元素"
+      ],
+      "answer": "血红蛋白",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-01"
     }
   ]
 }
