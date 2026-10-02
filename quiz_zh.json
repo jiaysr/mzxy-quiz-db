@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "questions": [
     {
       "id": "q608767df5",
@@ -474,9 +474,9 @@
       "answer": "蓝色",
       "verified": false,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
-      "updated": "2026-09-26",
+      "updated": "2026-10-02",
       "correct": 0
     },
     {
@@ -698,10 +698,10 @@
       "answer": "耳聋",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qcddd12b96",
@@ -2256,8 +2256,8 @@
       "answer": "唐代",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2819,8 +2819,8 @@
       "answer": "十月初一",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2899,8 +2899,8 @@
       "answer": "玄鹿",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3059,8 +3059,8 @@
       "answer": "破釜沉舟",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3508,8 +3508,8 @@
       "answer": "集",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -3843,10 +3843,10 @@
       "answer": "6把",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-01"
+      "updated": "2026-10-02"
     },
     {
       "id": "qb0d4cd3fb",
@@ -4038,6 +4038,198 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-01"
+    },
+    {
+      "id": "qd4915ad01",
+      "q": "下面所列的哪个场景有莲花",
+      "options": [
+        "虹莲阁",
+        "断铭岭",
+        "中皇山"
+      ],
+      "answer": "虹莲阁",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "q29f40ce8e",
+      "q": "每周战车战排行榜排名为多少的玩家可以获得奖励",
+      "options": [
+        "前十名",
+        "前五名",
+        "前十五名"
+      ],
+      "answer": "前十名",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "qb103a3a98",
+      "q": "每件装备可进行多少次资质鉴定?",
+      "options": [
+        "1次",
+        "无数次",
+        "10次"
+      ],
+      "answer": "无数次",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "q94b43095c",
+      "q": "世界三大古茶分别是仙液，葡萄茶和什么？",
+      "options": [
+        "汾酒",
+        "绿茶",
+        "菊花茶"
+      ],
+      "answer": "菊花茶",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "q04bd81a77",
+      "q": "维纳斯是罗马神话中的？",
+      "options": [
+        "爱与美之神",
+        "爱情的象征",
+        "战争女神"
+      ],
+      "answer": "爱与美之神",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "qb6ea6b3be",
+      "q": "为了表演的需要，芭蕾鞋的鞋尖内塞有一小块？",
+      "options": [
+        "橡胶",
+        "海绵",
+        "木头"
+      ],
+      "answer": "木头",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "q02c7fc5e9",
+      "q": "孙膑和庞涓曾同在何人门下学习？",
+      "options": [
+        "鬼谷子",
+        "孔子",
+        "韩非子"
+      ],
+      "answer": "鬼谷子",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "qbd02330d6",
+      "q": "初唐风尘三侠是李靖，红拂女和谁?",
+      "options": [
+        "虬髯客",
+        "寇准",
+        "徐子陵"
+      ],
+      "answer": "虬髯客",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "q82c063a46",
+      "q": "典故名落孙山中的孙山是什么人？",
+      "options": [
+        "主考官",
+        "中榜人的名字",
+        "发榜的人"
+      ],
+      "answer": "中榜人的名字",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "q08447d86d",
+      "q": "什么动物天天熬夜?",
+      "options": [
+        "熊猫",
+        "画眉鸟",
+        "马"
+      ],
+      "answer": "熊猫",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "q54ff8019a",
+      "q": "关羽为什么比张飞死得早",
+      "options": [
+        "因为关羽身体虚弱",
+        "因为关羽奋战沙场",
+        "因为红颜薄命"
+      ],
+      "answer": "因为红颜薄命",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "q689955f20",
+      "q": "\"多情自古空余恨\"下一句是?",
+      "options": [
+        "多情总被无情伤",
+        "好梦由来最易醒",
+        "此恨绵绵无绝期"
+      ],
+      "answer": "好梦由来最易醒",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-02"
     }
   ]
 }
