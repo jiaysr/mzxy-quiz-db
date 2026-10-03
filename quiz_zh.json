@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "questions": [
     {
       "id": "q608767df5",
@@ -61,10 +61,10 @@
       "answer": "昆仑山",
       "verified": true,
       "wrong": [],
-      "hits": 0,
+      "hits": 1,
       "source": "pending",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qf43fab533",
@@ -109,10 +109,10 @@
       "answer": "星回节",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q0289af07a",
@@ -361,10 +361,10 @@
       "answer": "7魄",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qb2eab6c07",
@@ -777,10 +777,10 @@
       "answer": "云海",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q6ba31dcc3",
@@ -891,10 +891,10 @@
       "answer": "西厢记",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q247e73f96",
@@ -1817,8 +1817,8 @@
       "answer": "曹操",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2122,8 +2122,8 @@
       "answer": "西安",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2787,8 +2787,8 @@
       "answer": "打瞌睡",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3123,8 +3123,8 @@
       "answer": "增加形象的美观度，还能增加移动速度",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3938,8 +3938,8 @@
       "answer": "蒸汽机",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4230,6 +4230,166 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-02"
+    },
+    {
+      "id": "qc3c513572",
+      "q": "荣誉指挥官在哪个地图?",
+      "options": [
+        "牧野",
+        "骨牢",
+        "万剑冢"
+      ],
+      "answer": "万剑冢",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-03"
+    },
+    {
+      "id": "q26c0ea184",
+      "q": "万剑冢的刀客是哪只手拿着武器的？",
+      "options": [
+        "左手",
+        "右手",
+        "双手"
+      ],
+      "answer": "右手",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-03"
+    },
+    {
+      "id": "q3f8c8e2bd",
+      "q": "三师指太师太傅跟什么?",
+      "options": [
+        "太保",
+        "少保",
+        "太尉"
+      ],
+      "answer": "太保",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-03"
+    },
+    {
+      "id": "q68b2736d4",
+      "q": "中国春节时，传说百姓们用爆竹来驱赶的怪兽是什么？",
+      "options": [
+        "混沌",
+        "年兽",
+        "饕餮"
+      ],
+      "answer": "年兽",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-03"
+    },
+    {
+      "id": "qfe9c273dc",
+      "q": "传说中斩白蛇显帝相的枭雄是谁?",
+      "options": [
+        "刘邦",
+        "项羽",
+        "刘伯温"
+      ],
+      "answer": "刘邦",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-03"
+    },
+    {
+      "id": "q7690365da",
+      "q": "本世纪最畅销的家用游戏机是？",
+      "options": [
+        "XBOX360",
+        "PlayStation",
+        "gameboy"
+      ],
+      "answer": "PlayStation",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-03"
+    },
+    {
+      "id": "q0203b1b17",
+      "q": "20世纪拥有歌迷俱乐部最多的歌手是谁?",
+      "options": [
+        "迈克尔·杰克逊",
+        "猫王",
+        "麦当娜"
+      ],
+      "answer": "迈克尔·杰克逊",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-03"
+    },
+    {
+      "id": "q4b08822e5",
+      "q": "中华民族的人文始祖是谁？",
+      "options": [
+        "女娲",
+        "伏羲",
+        "黄帝"
+      ],
+      "answer": "黄帝",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-03"
+    },
+    {
+      "id": "q710efafcc",
+      "q": "有一种零食对狗是致命的，是什么？",
+      "options": [
+        "巧克力",
+        "苏打饼干",
+        "雪饼"
+      ],
+      "answer": "巧克力",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-03"
+    },
+    {
+      "id": "q56eafbe9c",
+      "q": "中华传统医学的鼻祖?",
+      "options": [
+        "扁鹊",
+        "华佗",
+        "神农"
+      ],
+      "answer": "扁鹊",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-03"
     }
   ]
 }
