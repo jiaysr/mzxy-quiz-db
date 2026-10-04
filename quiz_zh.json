@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "questions": [
     {
       "id": "q608767df5",
@@ -45,10 +45,10 @@
       "answer": "每日任务的完成度",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q0a777417c",
@@ -205,10 +205,10 @@
       "answer": "巴西",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q3cb227e32",
@@ -859,10 +859,10 @@
       "answer": "1099个",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qc96a227f2",
@@ -925,10 +925,10 @@
       "answer": "五彩泥",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q0e6ed59d1",
@@ -2353,8 +2353,8 @@
       "answer": "众人皆醉我独醒",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2675,8 +2675,8 @@
       "answer": "不需要",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2883,8 +2883,8 @@
       "answer": "蟋蟀",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3171,8 +3171,8 @@
       "answer": "书中香草发出的香气",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3380,8 +3380,8 @@
       "answer": "红细胞",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -4390,6 +4390,182 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-03"
+    },
+    {
+      "id": "qf6c8e2141",
+      "q": "赢土的标志是哪种动物?",
+      "options": [
+        "狼",
+        "虎",
+        "熊"
+      ],
+      "answer": "虎",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-04"
+    },
+    {
+      "id": "q39dd1ed4d",
+      "q": "荣誉装备一共有几个部件?",
+      "options": [
+        "5件",
+        "6件",
+        "7件"
+      ],
+      "answer": "6件",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-04"
+    },
+    {
+      "id": "qa37433009",
+      "q": "普洱茶亦称什么?",
+      "options": [
+        "滇青茶",
+        "红茶",
+        "七彩云南"
+      ],
+      "answer": "滇青茶",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-04"
+    },
+    {
+      "id": "q1aa9e03dd",
+      "q": "曹植是曹操的第几子？",
+      "options": [
+        "第一子",
+        "第三子",
+        "第七子"
+      ],
+      "answer": "第三子",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-04"
+    },
+    {
+      "id": "q27ba5acc1",
+      "q": "被称为“乐圣”的外国音乐家是?",
+      "options": [
+        "巴赫",
+        "贝多芬",
+        "肖邦"
+      ],
+      "answer": "贝多芬",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-04"
+    },
+    {
+      "id": "qcc45559dd",
+      "q": "\"七月流火\"指天气?",
+      "options": [
+        "转热",
+        "转凉",
+        "下火雨"
+      ],
+      "answer": "转凉",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-04"
+    },
+    {
+      "id": "qf06a08787",
+      "q": "伟大诗人屈原生于?",
+      "options": [
+        "唐朝",
+        "战国初期",
+        "宋朝"
+      ],
+      "answer": "战国初期",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-04"
+    },
+    {
+      "id": "qaa07f4af2",
+      "q": "古人称为“手谈”的是指?",
+      "options": [
+        "象棋",
+        "围棋",
+        "写诗"
+      ],
+      "answer": "围棋",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-04"
+    },
+    {
+      "id": "qa4bf9a0b1",
+      "q": "下列哪一本书不是金庸的作品？",
+      "options": [
+        "碧血剑",
+        "诛仙",
+        "雪山飞狐"
+      ],
+      "answer": "诛仙",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-04"
+    },
+    {
+      "id": "qb53767343",
+      "q": "\"问世间，情是何物，直教生死相许\"语出？",
+      "options": [
+        "李商隐",
+        "白居易",
+        "元好问"
+      ],
+      "answer": "元好问",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-04"
+    },
+    {
+      "id": "qaee36bd68",
+      "q": "在中秋节的传统食品是什么？",
+      "options": [
+        "西瓜",
+        "月饼",
+        "汤圆"
+      ],
+      "answer": "月饼",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-04"
     }
   ]
 }
