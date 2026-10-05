@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "questions": [
     {
       "id": "q608767df5",
@@ -345,10 +345,10 @@
       "answer": "无数个",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q35a7ccb7d",
@@ -936,15 +936,16 @@
       "options": [
         "大自然",
         "小白兔",
-        "萤尤部族"
+        "蚩尤部族"
       ],
-      "answer": "萤尤部族",
+      "answer": "蚩尤部族",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
-      "updated": "2026-09-20",
-      "correct": 0
+      "updated": "2026-10-05",
+      "correct": 1,
+      "conflict": true
     },
     {
       "id": "q8d9416d43",
@@ -1513,8 +1514,8 @@
       "answer": "不会掉下来",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -1641,8 +1642,8 @@
       "answer": "塞车",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -2154,8 +2155,8 @@
       "answer": "小马驹",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2819,8 +2820,8 @@
       "answer": "十月初一",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2931,8 +2932,8 @@
       "answer": "灵气",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3155,8 +3156,8 @@
       "answer": "精忠报国",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3219,8 +3220,8 @@
       "answer": "上海",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3428,8 +3429,8 @@
       "answer": "什么都不需要",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4482,8 +4483,8 @@
       "answer": "转凉",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4562,10 +4563,138 @@
       "answer": "月饼",
       "verified": true,
       "wrong": [],
+      "hits": 2,
+      "correct": 2,
+      "source": "llm",
+      "updated": "2026-10-04"
+    },
+    {
+      "id": "qe30382357",
+      "q": "三国时期被称为“乱世奸雄”的是？",
+      "options": [
+        "曹操",
+        "张辽",
+        "司马懿"
+      ],
+      "answer": "曹操",
+      "verified": true,
+      "wrong": [],
       "hits": 1,
       "correct": 1,
       "source": "llm",
-      "updated": "2026-10-04"
+      "updated": "2026-10-05"
+    },
+    {
+      "id": "q523244502",
+      "q": "传说中在月亮上砍桂树的是谁?",
+      "options": [
+        "后裔",
+        "猪八戒",
+        "吴刚"
+      ],
+      "answer": "吴刚",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-05"
+    },
+    {
+      "id": "qd73d3290c",
+      "q": "阿波罗是希腊神话中的什么神",
+      "options": [
+        "爱神",
+        "太阳神",
+        "海神"
+      ],
+      "answer": "太阳神",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-05"
+    },
+    {
+      "id": "q343374f14",
+      "q": "以下不是古龙笔下的人物的是？",
+      "options": [
+        "金世遗",
+        "楚留香",
+        "慕容秋荻"
+      ],
+      "answer": "金世遗",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-05"
+    },
+    {
+      "id": "q02291d4e6",
+      "q": "中国古代传说中，为帮百姓治病而尝百草的人是谁？",
+      "options": [
+        "神农",
+        "李时珍",
+        "扁鹊"
+      ],
+      "answer": "神农",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-05"
+    },
+    {
+      "id": "qac2c05923",
+      "q": "海象妈妈根据什么辨别孩子",
+      "options": [
+        "气味",
+        "容貌",
+        "眼睛"
+      ],
+      "answer": "气味",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-05"
+    },
+    {
+      "id": "qec8ff3ce5",
+      "q": "电影佐罗的故事发生在哪个国家?",
+      "options": [
+        "哥伦比亚",
+        "墨西哥",
+        "西班牙"
+      ],
+      "answer": "墨西哥",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-05"
+    },
+    {
+      "id": "q2980018c2",
+      "q": "三藏是佛教典籍的三种形态，分别是经藏，律藏和什么？",
+      "options": [
+        "法藏",
+        "论藏",
+        "道藏"
+      ],
+      "answer": "论藏",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-05"
     }
   ]
 }
