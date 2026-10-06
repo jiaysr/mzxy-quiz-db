@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "questions": [
     {
       "id": "q608767df5",
@@ -634,10 +634,10 @@
       "answer": "无限制",
       "verified": true,
       "wrong": [],
-      "hits": 0,
+      "hits": 1,
       "source": "pending",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q0ba086159",
@@ -714,10 +714,10 @@
       "answer": "杨业",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qb8c7c2de3",
@@ -843,10 +843,10 @@
       "answer": "浙江",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qf9370c733",
@@ -936,7 +936,7 @@
       "options": [
         "大自然",
         "小白兔",
-        "蚩尤部族"
+        "萤尤部族"
       ],
       "answer": "蚩尤部族",
       "verified": true,
@@ -944,8 +944,8 @@
       "hits": 2,
       "source": "llm",
       "updated": "2026-10-05",
-      "correct": 1,
-      "conflict": true
+      "conflict": true,
+      "correct": 1
     },
     {
       "id": "q8d9416d43",
@@ -1226,10 +1226,10 @@
       "answer": "牧野",
       "verified": true,
       "wrong": [],
-      "hits": 0,
+      "hits": 1,
       "source": "pending",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q5ed7f3745",
@@ -1514,8 +1514,8 @@
       "answer": "不会掉下来",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -2289,7 +2289,7 @@
       "answer": "诸葛亮",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "correct": 2,
       "source": "llm",
       "updated": "2026-09-26",
@@ -2884,8 +2884,8 @@
       "answer": "蟋蟀",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3637,8 +3637,8 @@
       "answer": "四阿哥胤禛",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -3780,8 +3780,8 @@
       "answer": "九个",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-30"
     },
@@ -4483,8 +4483,8 @@
       "answer": "转凉",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4695,6 +4695,166 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-05"
+    },
+    {
+      "id": "qc6e9441bd",
+      "q": "修真的第四个境界叫什么?",
+      "options": [
+        "元婴",
+        "灵丹",
+        "丹婴"
+      ],
+      "answer": "元婴",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "q685799066",
+      "q": "下列属性哪个关系到角色体力成长?",
+      "options": [
+        "力",
+        "智",
+        "体"
+      ],
+      "answer": "体",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "qd26e920ea",
+      "q": "万剑冢中女娲的裙子是什么颜色的?",
+      "options": [
+        "白色",
+        "蓝色",
+        "绿色"
+      ],
+      "answer": "白色",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "q831fe1e81",
+      "q": "左传》原名是什么?",
+      "options": [
+        "左史列传",
+        "左氏春秋",
+        "左氏通鉴"
+      ],
+      "answer": "左氏春秋",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "qbc08a8d3a",
+      "q": "胡夫金字塔位于哪个国家?",
+      "options": [
+        "墨西哥",
+        "阿拉伯",
+        "埃及"
+      ],
+      "answer": "埃及",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "q0b9cfff0e",
+      "q": "被称为“黑人的故乡”的是非洲哪个国家?",
+      "options": [
+        "津巴布韦",
+        "苏丹",
+        "肯尼亚"
+      ],
+      "answer": "苏丹",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "q7ca46385c",
+      "q": "著名的绍兴“花雕茶\"又名什么?",
+      "options": [
+        "鹧鸪茶",
+        "香雪茶",
+        "菊花茶"
+      ],
+      "answer": "香雪茶",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "q90e6d6853",
+      "q": "你只要叫它的名字就会把他破坏，它是什么？",
+      "options": [
+        "沉默",
+        "火药",
+        "原子弹"
+      ],
+      "answer": "沉默",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "qdd4e4b53a",
+      "q": "我国北方的长城,开始于战国时期秦国.赵国和什么国?",
+      "options": [
+        "燕国",
+        "魏国",
+        "韩国"
+      ],
+      "answer": "燕国",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "qc61fb8e2b",
+      "q": "黃帝姓什么?",
+      "options": [
+        "姬",
+        "黄",
+        "轩辕"
+      ],
+      "answer": "姬",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-06"
     }
   ]
 }
