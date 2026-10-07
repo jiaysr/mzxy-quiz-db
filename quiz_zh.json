@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "questions": [
     {
       "id": "q608767df5",
@@ -61,10 +61,10 @@
       "answer": "昆仑山",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "pending",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qf43fab533",
@@ -1674,8 +1674,8 @@
       "answer": "大刀",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2139,8 +2139,8 @@
       "answer": "甲壳虫乐队",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2370,8 +2370,8 @@
       "answer": "平行线",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2788,8 +2788,8 @@
       "answer": "打瞌睡",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2884,8 +2884,8 @@
       "answer": "蟋蟀",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3108,8 +3108,8 @@
       "answer": "将拥有特殊的帝王效果",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3493,8 +3493,8 @@
       "answer": "3个",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -3637,8 +3637,8 @@
       "answer": "四阿哥胤禛",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -4067,8 +4067,8 @@
       "answer": "前十名",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4855,6 +4855,166 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-06"
+    },
+    {
+      "id": "qbdeee852f",
+      "q": "轩辕世界中谁能降伏赤色蝎王?",
+      "options": [
+        "玉皇大帝",
+        "齐天大圣",
+        "姬霜"
+      ],
+      "answer": "齐天大圣",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-07"
+    },
+    {
+      "id": "qd89f30de0",
+      "q": "以下哪种敌人的形象属于蛇类?",
+      "options": [
+        "战魂",
+        "凌雪",
+        "竹叶青"
+      ],
+      "answer": "竹叶青",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-07"
+    },
+    {
+      "id": "qafdc0f6bc",
+      "q": "天主教教徒将哪个地方看作是他们的精神领导中心?",
+      "options": [
+        "罗马的梵蒂冈",
+        "希腊雅典",
+        "沙特麦加"
+      ],
+      "answer": "罗马的梵蒂冈",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-07"
+    },
+    {
+      "id": "qb028d54db",
+      "q": "春联起源于?",
+      "options": [
+        "红纸",
+        "桃符",
+        "婚嫁"
+      ],
+      "answer": "桃符",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-07"
+    },
+    {
+      "id": "q3e10ab833",
+      "q": "哪个火山的爆发毁灭了古罗马帝国的庞贝城?",
+      "options": [
+        "火焰山",
+        "富士山",
+        "维苏威火山"
+      ],
+      "answer": "维苏威火山",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-07"
+    },
+    {
+      "id": "qa1deab79b",
+      "q": "著名影片魂断蓝桥》的桥是哪座桥?",
+      "options": [
+        "金门大桥",
+        "伦敦塔桥",
+        "滑铁卢桥"
+      ],
+      "answer": "滑铁卢桥",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-07"
+    },
+    {
+      "id": "q761a0bb32",
+      "q": "来自于宇宙中的一种具有相当大能量的带电粒子流称为什么?",
+      "options": [
+        "宇宙射线",
+        "光",
+        "太空辐射"
+      ],
+      "answer": "宇宙射线",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-07"
+    },
+    {
+      "id": "q3f554907f",
+      "q": "战国策》主要记述了战国时期的什么家的政绩主张和策略",
+      "options": [
+        "纵横家",
+        "墨家",
+        "法家"
+      ],
+      "answer": "纵横家",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-07"
+    },
+    {
+      "id": "q03e1dd032",
+      "q": "80厘米的红螃蟹和30厘米的黑螃蟹赛跑，谁会赢？",
+      "options": [
+        "一样快",
+        "红螃蟹",
+        "黑螃蟹"
+      ],
+      "answer": "黑螃蟹",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-07"
+    },
+    {
+      "id": "q058ca4185",
+      "q": "琵琶中的“琵\"和“琶\"最初指的是?",
+      "options": [
+        "两种样式",
+        "两种琴弦",
+        "两种弹奏手法"
+      ],
+      "answer": "两种弹奏手法",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-07"
     }
   ]
 }
