@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "questions": [
     {
       "id": "q608767df5",
@@ -189,10 +189,10 @@
       "answer": "马其顿",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qcc0d59302",
@@ -329,10 +329,10 @@
       "answer": "能够增加属性值",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q004f147a9",
@@ -1674,8 +1674,8 @@
       "answer": "大刀",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2107,8 +2107,8 @@
       "answer": "法国",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2173,8 +2173,8 @@
       "wrong": [
         "牧野"
       ],
-      "hits": 3,
-      "correct": 2,
+      "hits": 4,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2788,8 +2788,8 @@
       "answer": "打瞌睡",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3060,8 +3060,8 @@
       "answer": "破釜沉舟",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3365,8 +3365,8 @@
       "answer": "距离杆顶1/3处",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -3381,8 +3381,8 @@
       "answer": "红细胞",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -3637,8 +3637,8 @@
       "answer": "四阿哥胤禛",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -4067,8 +4067,8 @@
       "answer": "前十名",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4547,8 +4547,8 @@
       "answer": "元好问",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4787,10 +4787,10 @@
       "answer": "苏丹",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-06"
+      "updated": "2026-10-08"
     },
     {
       "id": "q7ca46385c",
@@ -5015,6 +5015,118 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-07"
+    },
+    {
+      "id": "q3825e0fe4",
+      "q": "每天可以免费修心几次?",
+      "options": [
+        "3次",
+        "5次",
+        "1次"
+      ],
+      "answer": "3次",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-08"
+    },
+    {
+      "id": "q26f99f6f8",
+      "q": "最能体现中国茶文化特色、中国茶的代表是什么茶?",
+      "options": [
+        "茉莉花茶",
+        "乌龙茶",
+        "红茶"
+      ],
+      "answer": "乌龙茶",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-08"
+    },
+    {
+      "id": "qd2da718d0",
+      "q": "达尔文进化理论的中心内容是？",
+      "options": [
+        "自然选择",
+        "上帝创造",
+        "基因突变"
+      ],
+      "answer": "自然选择",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-08"
+    },
+    {
+      "id": "qf3ea86ad8",
+      "q": "六弦琴是什么乐器的別称?",
+      "options": [
+        "小提琴",
+        "吉他",
+        "琵琶"
+      ],
+      "answer": "吉他",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-08"
+    },
+    {
+      "id": "qf42e788ab",
+      "q": "中国古代神话中，与颛顼争为帝，一怒之下撞到了不周山的古神是谁？",
+      "options": [
+        "祝融",
+        "共工",
+        "少昊"
+      ],
+      "answer": "共工",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-08"
+    },
+    {
+      "id": "qc054a025d",
+      "q": "白求恩是哪国人?",
+      "options": [
+        "加拿大",
+        "美国",
+        "前苏联"
+      ],
+      "answer": "加拿大",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-08"
+    },
+    {
+      "id": "q41478bab9",
+      "q": "世界上最大的平原叫什么?",
+      "options": [
+        "北美大平原",
+        "西西伯利亚平原",
+        "亚马逊平原"
+      ],
+      "answer": "亚马逊平原",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-08"
     }
   ]
 }
