@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "questions": [
     {
       "id": "q608767df5",
@@ -141,10 +141,10 @@
       "answer": "文天祥",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "qa5649cfb3",
@@ -237,7 +237,7 @@
       "answer": "玑衡辅辰仪",
       "verified": true,
       "wrong": [],
-      "hits": 0,
+      "hits": 1,
       "source": "pending",
       "updated": "2026-09-26",
       "correct": 0
@@ -618,10 +618,10 @@
       "answer": "金钱",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q622ffd940",
@@ -1174,10 +1174,10 @@
       "wrong": [
         "生命"
       ],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q2df3c7178",
@@ -1226,10 +1226,10 @@
       "answer": "牧野",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "pending",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q5ed7f3745",
@@ -1466,8 +1466,8 @@
       "answer": "回复生命和灵力",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -1913,8 +1913,8 @@
       "answer": "聊斋先生",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2370,8 +2370,8 @@
       "answer": "平行线",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -4355,10 +4355,10 @@
       "answer": "黄帝",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-03"
+      "updated": "2026-10-09"
     },
     {
       "id": "q710efafcc",
@@ -4579,8 +4579,8 @@
       "answer": "曹操",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -4723,8 +4723,8 @@
       "answer": "体",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-06"
     },
@@ -4883,8 +4883,8 @@
       "answer": "竹叶青",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5127,6 +5127,134 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-08"
+    },
+    {
+      "id": "q5269ec236",
+      "q": "相传八卦是谁所造?",
+      "options": [
+        "伏羲",
+        "女娲",
+        "姬昌"
+      ],
+      "answer": "伏羲",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-09"
+    },
+    {
+      "id": "qaa06cd139",
+      "q": "著名景点“象鼻山”位于我国哪里?",
+      "options": [
+        "桂林",
+        "香格里拉",
+        "大理"
+      ],
+      "answer": "桂林",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-09"
+    },
+    {
+      "id": "q436204040",
+      "q": "陕西兵马俑是哪个皇帝的?",
+      "options": [
+        "秦始皇",
+        "武则天",
+        "汉武帝"
+      ],
+      "answer": "秦始皇",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-09"
+    },
+    {
+      "id": "q3ff28cfb6",
+      "q": "烹调东坡肉最好选用什么猪肉?",
+      "options": [
+        "里脊肉",
+        "五花肉",
+        "猪后腿"
+      ],
+      "answer": "五花肉",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-09"
+    },
+    {
+      "id": "q919fb3028",
+      "q": "依照西方习俗，订婚戒指戴在左手哪根手指上？",
+      "options": [
+        "中指",
+        "无名指",
+        "小拇指"
+      ],
+      "answer": "无名指",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-09"
+    },
+    {
+      "id": "q224144617",
+      "q": "嘎达梅林》是哪个民族的叙事歌曲？",
+      "options": [
+        "藏族",
+        "蒙古族",
+        "满族"
+      ],
+      "answer": "蒙古族",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-09"
+    },
+    {
+      "id": "q905ef3aaa",
+      "q": "最早的契形文字使用者是?",
+      "options": [
+        "苏美尔",
+        "古巴比伦",
+        "玛雅"
+      ],
+      "answer": "苏美尔",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-09"
+    },
+    {
+      "id": "q51e4a4664",
+      "q": "在三国演义里，被诸葛亮气死的人没有下面的谁?",
+      "options": [
+        "曹真",
+        "周瑜",
+        "司马懿"
+      ],
+      "answer": "司马懿",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-09"
     }
   ]
 }
