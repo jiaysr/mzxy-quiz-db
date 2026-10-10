@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "questions": [
     {
       "id": "q608767df5",
@@ -634,10 +634,10 @@
       "answer": "无限制",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "pending",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q0ba086159",
@@ -1074,10 +1074,10 @@
       "answer": "榴莲",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q95701371d",
@@ -1210,10 +1210,10 @@
       "wrong": [
         "铜贝100"
       ],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qdc22de344",
@@ -1658,8 +1658,8 @@
       "answer": "冶炼石",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 0,
+      "hits": 3,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2189,8 +2189,8 @@
       "answer": "查看对手列表",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -3060,8 +3060,8 @@
       "answer": "破釜沉舟",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -4931,8 +4931,8 @@
       "answer": "维苏威火山",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -4963,8 +4963,8 @@
       "answer": "宇宙射线",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -4995,8 +4995,8 @@
       "answer": "黑螃蟹",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5171,8 +5171,8 @@
       "answer": "秦始皇",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -5203,8 +5203,8 @@
       "answer": "无名指",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -5255,6 +5255,150 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-09"
+    },
+    {
+      "id": "q3af1f2b6d",
+      "q": "下面哪个不是中立地区？",
+      "options": [
+        "万剑冢",
+        "忘川",
+        "古碑林"
+      ],
+      "answer": "忘川",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "qaedd6cb21",
+      "q": "红楼梦》的作者是谁?",
+      "options": [
+        "林黛玉",
+        "曹雪芹",
+        "李少红"
+      ],
+      "answer": "曹雪芹",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "q4f4030b56",
+      "q": "“古希腊悲剧之父\"埃斯库罗斯的死因是?",
+      "options": [
+        "活活笑死",
+        "被乌龟砸死",
+        "内脏流尽而亡"
+      ],
+      "answer": "被乌龟砸死",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "qbe72ce6a3",
+      "q": "中国最具特色的四大民间故事分别是孟姜女哭长城》，梁山伯与祝英台》，牛郎织女》和什么？",
+      "options": [
+        "白蛇传",
+        "柳毅传",
+        "董永和七仙女"
+      ],
+      "answer": "白蛇传",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "q2da357c4f",
+      "q": "四书五经属于哪家的经典学说?",
+      "options": [
+        "法家",
+        "墨家",
+        "儒家"
+      ],
+      "answer": "儒家",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "q3497112da",
+      "q": "\"绝对零度\"是多少摄氏度?",
+      "options": [
+        "-237.51摄氏度",
+        "0摄氏度",
+        "237.51摄氏度"
+      ],
+      "answer": "-237.51摄氏度",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "q314ea408d",
+      "q": "被称为“无肠公子”的生物的是?",
+      "options": [
+        "螃蟹",
+        "虾",
+        "鲨鱼"
+      ],
+      "answer": "螃蟹",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "q7a4393096",
+      "q": "我国四大名砚之冠一一端砚产自哪里?",
+      "options": [
+        "苏州",
+        "广东",
+        "桂林"
+      ],
+      "answer": "广东",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-10"
+    },
+    {
+      "id": "q8573596b3",
+      "q": "小华的爷爷有7个儿子，每一个儿子又各有一个妹妹，请问：小华的爷爷有多少个儿女?",
+      "options": [
+        "7个",
+        "8个",
+        "14个"
+      ],
+      "answer": "8个",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-10"
     }
   ]
 }
