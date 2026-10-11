@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "questions": [
     {
       "id": "q608767df5",
@@ -666,10 +666,10 @@
       "answer": "月老祠",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q04ed4a3ce",
@@ -698,10 +698,10 @@
       "answer": "耳聋",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "qcddd12b96",
@@ -1074,10 +1074,10 @@
       "answer": "榴莲",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q95701371d",
@@ -1354,10 +1354,10 @@
       "answer": "雅典",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qce9603144",
@@ -1865,8 +1865,8 @@
       "answer": "普陀山",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2241,8 +2241,8 @@
       "answer": "关汉卿",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -3124,8 +3124,8 @@
       "answer": "增加形象的美观度，还能增加移动速度",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3573,8 +3573,8 @@
       "answer": "穷奇",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4067,8 +4067,8 @@
       "answer": "前十名",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4163,8 +4163,8 @@
       "answer": "虬髯客",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4403,10 +4403,10 @@
       "answer": "虎",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-04"
+      "updated": "2026-10-11"
     },
     {
       "id": "q39dd1ed4d",
@@ -4995,8 +4995,8 @@
       "answer": "黑螃蟹",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5399,6 +5399,134 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-10"
+    },
+    {
+      "id": "q37fe6b708",
+      "q": "第一位进入太空的女宇航员是哪国人?",
+      "options": [
+        "中国",
+        "美国",
+        "前苏联"
+      ],
+      "answer": "前苏联",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-11"
+    },
+    {
+      "id": "qb6abddfef",
+      "q": "十面埋伏》是?",
+      "options": [
+        "古筝曲",
+        "琵琶曲",
+        "二胡曲"
+      ],
+      "answer": "琵琶曲",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-11"
+    },
+    {
+      "id": "qffe32572f",
+      "q": "彗星的轨道有三种分别是椭圆，拋物线和什么？",
+      "options": [
+        "双曲线",
+        "正圆",
+        "直线"
+      ],
+      "answer": "双曲线",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-11"
+    },
+    {
+      "id": "q5f7e28848",
+      "q": "把苹果皮削下来，不要弄断苹果皮，把这一条苹果皮顺其自然地放在桌面上，是什么形状？",
+      "options": [
+        "S型",
+        "0型",
+        "型"
+      ],
+      "answer": "S型",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-11"
+    },
+    {
+      "id": "q5f618b609",
+      "q": "不属于儒家经典的是?",
+      "options": [
+        "论语",
+        "道德经",
+        "春秋"
+      ],
+      "answer": "道德经",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-11"
+    },
+    {
+      "id": "q6d8c21ed8",
+      "q": "据统计我国哪个节日的名称在所有传统节日中叫法最多，达二十多个?",
+      "options": [
+        "春节",
+        "清明节",
+        "端午节"
+      ],
+      "answer": "春节",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-11"
+    },
+    {
+      "id": "qf75556a0c",
+      "q": "色光三原色分别是红色、绿色和什么？",
+      "options": [
+        "蓝色",
+        "紫色",
+        "黄色"
+      ],
+      "answer": "蓝色",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-11"
+    },
+    {
+      "id": "qde3fa6b78",
+      "q": "中秋节是合家团圆的节日，它是农历的几月几日呢？",
+      "options": [
+        "九月初一",
+        "八月十五",
+        "正月十五"
+      ],
+      "answer": "八月十五",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-11"
     }
   ]
 }
