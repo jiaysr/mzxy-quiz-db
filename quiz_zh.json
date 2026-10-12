@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "questions": [
     {
       "id": "q608767df5",
@@ -205,10 +205,10 @@
       "answer": "巴西",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q3cb227e32",
@@ -377,10 +377,10 @@
       "answer": "蜈蚣还在门口穿鞋",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q6591b317a",
@@ -618,10 +618,10 @@
       "answer": "金钱",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q622ffd940",
@@ -634,10 +634,10 @@
       "answer": "无限制",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "pending",
       "updated": "2026-09-19",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q0ba086159",
@@ -698,10 +698,10 @@
       "answer": "耳聋",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "qcddd12b96",
@@ -1226,10 +1226,10 @@
       "answer": "牧野",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "pending",
       "updated": "2026-09-21",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q5ed7f3745",
@@ -1642,8 +1642,8 @@
       "answer": "塞车",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -2322,8 +2322,8 @@
       "answer": "春秋",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2628,8 +2628,8 @@
       "wrong": [
         "3条"
       ],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -4611,8 +4611,8 @@
       "answer": "太阳神",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -4643,8 +4643,8 @@
       "answer": "神农",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -5527,6 +5527,150 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-11"
+    },
+    {
+      "id": "qbc36c7a90",
+      "q": "幻化部件的最高强化等级是？",
+      "options": [
+        "10级",
+        "20级",
+        "5级"
+      ],
+      "answer": "10级",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-12"
+    },
+    {
+      "id": "qc892dfd21",
+      "q": "中国著名的布达拉宫位于?",
+      "options": [
+        "西藏",
+        "青海",
+        "香格里拉"
+      ],
+      "answer": "西藏",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-12"
+    },
+    {
+      "id": "q1dc2770be",
+      "q": "北京大学的曾用名是什么？",
+      "options": [
+        "京师大学堂",
+        "北京市第一大学",
+        "京都学院"
+      ],
+      "answer": "京师大学堂",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-12"
+    },
+    {
+      "id": "qe8923fcba",
+      "q": "万圣节是每年的几月几日？",
+      "options": [
+        "11月1日",
+        "12月1日",
+        "12月12日"
+      ],
+      "answer": "11月1日",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-12"
+    },
+    {
+      "id": "q0b2150afa",
+      "q": "有兄妹俩，1993年的时候，哥哥21岁，妹妹的年龄当时是7岁，请问到什么时候，哥哥的年龄才会是妹妹年龄的两倍？",
+      "options": [
+        "2000年",
+        "2001年",
+        "1997年"
+      ],
+      "answer": "2000年",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-12"
+    },
+    {
+      "id": "q0ce79af13",
+      "q": "人身体一共有多少块骨头?",
+      "options": [
+        "206",
+        "207",
+        "216"
+      ],
+      "answer": "206",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-12"
+    },
+    {
+      "id": "q9ec71a6bc",
+      "q": "海贼王》里草帽海贼团的团长叫什么?",
+      "options": [
+        "香克斯",
+        "路飞",
+        "罗杰"
+      ],
+      "answer": "路飞",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-12"
+    },
+    {
+      "id": "q669fb994c",
+      "q": "“圆明园”是由哪位皇帝命名的?",
+      "options": [
+        "康熙",
+        "雍正",
+        "乾隆"
+      ],
+      "answer": "康熙",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-12"
+    },
+    {
+      "id": "qb5f309cbb",
+      "q": "世界上第一部较为完整成文法典是什么？",
+      "options": [
+        "汉谟拉比法典",
+        "乌尔纳姆法典",
+        "十二铜表法"
+      ],
+      "answer": "汉谟拉比法典",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-12"
     }
   ]
 }
