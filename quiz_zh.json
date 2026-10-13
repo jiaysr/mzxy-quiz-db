@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "questions": [
     {
       "id": "q608767df5",
@@ -221,10 +221,10 @@
       "answer": "普罗米修斯",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q1bffd1b32",
@@ -1338,10 +1338,10 @@
       "answer": "英国",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q66bb87fe1",
@@ -1690,8 +1690,8 @@
       "answer": "天池",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -1834,8 +1834,8 @@
       "answer": "哈姆雷特",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2562,8 +2562,8 @@
       "answer": "鱼肠剑",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2628,8 +2628,8 @@
       "wrong": [
         "3条"
       ],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2717,17 +2717,18 @@
       "id": "qd12a856e4",
       "q": "世界上最大的半岛是什么？",
       "options": [
-        "阿拉伯半岛",
-        "印度半岛",
-        "朝鲜半岛"
+        "南沙群岛",
+        "马来群岛",
+        "夏威夷群岛"
       ],
-      "answer": "阿拉伯半岛",
+      "answer": "马来群岛",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
-      "updated": "2026-09-26"
+      "updated": "2026-10-13",
+      "conflict": true
     },
     {
       "id": "q18e07e3f3",
@@ -3301,10 +3302,10 @@
       "answer": "仙",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-27"
+      "updated": "2026-10-13"
     },
     {
       "id": "q1755742e4",
@@ -3971,8 +3972,8 @@
       "answer": "金石学",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4672,13 +4673,13 @@
         "墨西哥",
         "西班牙"
       ],
-      "answer": "墨西哥",
+      "answer": "西班牙",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-05"
+      "updated": "2026-10-13"
     },
     {
       "id": "q2980018c2",
@@ -4995,8 +4996,8 @@
       "answer": "黑螃蟹",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5671,6 +5672,150 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-12"
+    },
+    {
+      "id": "qa4188ef20",
+      "q": "域外灵岛中央池塘里的鱼是什么鱼？",
+      "options": [
+        "赢鱼",
+        "霸王鱼",
+        "陵鱼"
+      ],
+      "answer": "赢鱼",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "q609a69d92",
+      "q": "域外灵岛有几棵仙木?",
+      "options": [
+        "三棵",
+        "四棵",
+        "五棵"
+      ],
+      "answer": "五棵",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "q863124ca5",
+      "q": "潮起潮落主要与下列哪项有关?",
+      "options": [
+        "太阳",
+        "月亮",
+        "北极星"
+      ],
+      "answer": "月亮",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "q71155654d",
+      "q": "围棋起源于哪个国家?",
+      "options": [
+        "日本",
+        "韩国",
+        "中国"
+      ],
+      "answer": "中国",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "qc78292ee2",
+      "q": "目前国内第一高塔是?",
+      "options": [
+        "中央电视塔",
+        "上海东方明珠塔",
+        "广州电视塔"
+      ],
+      "answer": "广州电视塔",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "q4d9a5c5f1",
+      "q": "古代传说可以“掌上舞”的是哪位美人？",
+      "options": [
+        "赵飞燕",
+        "赵合德",
+        "杨贵妃"
+      ],
+      "answer": "赵飞燕",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "qd6f060a03",
+      "q": "四大名茶之一的龙井茶产地是？",
+      "options": [
+        "苏州",
+        "杭州",
+        "龙岩"
+      ],
+      "answer": "杭州",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "q4343b2660",
+      "q": "明朝永乐年间，从西洋归来的郑和船队带回了一只西方异域兽“麒麟”，就是现在我们所知的",
+      "options": [
+        "狮子",
+        "金钱豹",
+        "长颈鹿"
+      ],
+      "answer": "长颈鹿",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "q44dd356fe",
+      "q": "中国最早的文言志怪小说是?",
+      "options": [
+        "搜神记",
+        "聊斋志異",
+        "阅微草堂笔记"
+      ],
+      "answer": "搜神记",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-13"
     }
   ]
 }
