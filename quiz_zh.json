@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "questions": [
     {
       "id": "q608767df5",
@@ -377,10 +377,10 @@
       "answer": "蜈蚣还在门口穿鞋",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q6591b317a",
@@ -474,9 +474,9 @@
       "answer": "蓝色",
       "verified": false,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
-      "updated": "2026-10-02",
+      "updated": "2026-10-14",
       "correct": 0
     },
     {
@@ -550,14 +550,14 @@
         "短尾信天翁",
         "黄嘴白鹭"
       ],
-      "answer": "牡丹",
+      "answer": "丹顶鹤",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
-      "updated": "2026-09-28",
+      "updated": "2026-10-14",
       "conflict": true,
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q167cf8b2a",
@@ -1786,8 +1786,8 @@
       "answer": "淡盐水",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -1802,8 +1802,8 @@
       "answer": "醒世恒言",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2189,8 +2189,8 @@
       "answer": "查看对手列表",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2322,8 +2322,8 @@
       "answer": "春秋",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2402,8 +2402,8 @@
       "answer": "春秋",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2530,8 +2530,8 @@
       "answer": "3次",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2821,8 +2821,8 @@
       "answer": "十月初一",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2885,8 +2885,8 @@
       "answer": "蟋蟀",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3382,8 +3382,8 @@
       "answer": "红细胞",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -3574,8 +3574,8 @@
       "answer": "穷奇",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3670,10 +3670,10 @@
       "answer": "尾部",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-09-29"
+      "updated": "2026-10-14"
     },
     {
       "id": "q003f9b7c3",
@@ -3829,8 +3829,8 @@
       "answer": "天上",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -5816,6 +5816,86 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-13"
+    },
+    {
+      "id": "q47db9212d",
+      "q": "灵身中的元气可以增加哪一项本属性?",
+      "options": [
+        "力量",
+        "敏捷",
+        "智力"
+      ],
+      "answer": "智力",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-14"
+    },
+    {
+      "id": "q20baffb4b",
+      "q": "坐骑和金身的栏位是否可以进行扩充?",
+      "options": [
+        "金身可以",
+        "坐骑可以",
+        "都可以"
+      ],
+      "answer": "坐骑可以",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-14"
+    },
+    {
+      "id": "q0972e2834",
+      "q": "中国会说英语的人多还是美国会说英语的人多？",
+      "options": [
+        "样多",
+        "中国",
+        "美国"
+      ],
+      "answer": "中国",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-14"
+    },
+    {
+      "id": "q2430ff6b8",
+      "q": "释迦牟尼的父亲净饭王有三个兄弟分别叫斛饭，甘露饭和什么？",
+      "options": [
+        "红饭",
+        "白饭",
+        "天津饭"
+      ],
+      "answer": "白饭",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-14"
+    },
+    {
+      "id": "q0aeb62e16",
+      "q": "万圣节的晚上小孩子会干什么？",
+      "options": [
+        "打扫卫生",
+        "体育锻炼",
+        "收集糖果"
+      ],
+      "answer": "收集糖果",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-14"
     }
   ]
 }
