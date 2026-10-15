@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "questions": [
     {
       "id": "q608767df5",
@@ -45,10 +45,10 @@
       "answer": "每日任务的完成度",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q0a777417c",
@@ -435,17 +435,19 @@
       "q": "爆竹声中一岁除，春风送暖入屠苏\"，这里的\"屠苏\"指的是",
       "options": [
         "苏州",
-        "房屋"
+        "房屋",
+        "茶"
       ],
-      "answer": "屠苏酒",
+      "answer": "茶",
       "verified": true,
       "wrong": [
         "房屋"
       ],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1,
+      "conflict": true
     },
     {
       "id": "q016d68233",
@@ -546,17 +548,18 @@
       "id": "q5d2206479",
       "q": "中国的国鸟是什么？",
       "options": [
-        "丹顶鹤",
-        "短尾信天翁",
-        "黄嘴白鹭"
+        "梅花",
+        "牡丹",
+        "荷花"
       ],
       "answer": "丹顶鹤",
       "verified": true,
-      "wrong": [],
-      "hits": 5,
+      "wrong": [
+        "梅花"
+      ],
+      "hits": 6,
       "source": "llm",
       "updated": "2026-10-14",
-      "conflict": true,
       "correct": 3
     },
     {
@@ -1498,8 +1501,8 @@
       "answer": "春风吹又生",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -1594,8 +1597,8 @@
       "answer": "紫色",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -1963,8 +1966,8 @@
       "answer": "可以食用",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2139,8 +2142,8 @@
       "answer": "甲壳虫乐队",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2741,8 +2744,8 @@
       "answer": "荆轲",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -4516,8 +4519,8 @@
       "answer": "围棋",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4884,8 +4887,8 @@
       "answer": "竹叶青",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5460,8 +5463,8 @@
       "answer": "S型",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-11"
     },
@@ -5682,10 +5685,10 @@
         "陵鱼"
       ],
       "answer": "赢鱼",
-      "verified": false,
+      "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-10-13"
     },
@@ -5896,6 +5899,102 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-14"
+    },
+    {
+      "id": "q2b0a881e8",
+      "q": "以下哪个可以采集?",
+      "options": [
+        "五彩泥",
+        "金身",
+        "冰草"
+      ],
+      "answer": "",
+      "verified": false,
+      "wrong": [],
+      "hits": 0,
+      "correct": 0,
+      "source": "pending",
+      "updated": "2026-10-15"
+    },
+    {
+      "id": "q963f9ab99",
+      "q": "花茶的种类是根据什么命名？",
+      "options": [
+        "产地",
+        "加入的鲜花",
+        "花茶生长环境"
+      ],
+      "answer": "",
+      "verified": false,
+      "wrong": [],
+      "hits": 0,
+      "correct": 0,
+      "source": "pending",
+      "updated": "2026-10-15"
+    },
+    {
+      "id": "qb88fa7794",
+      "q": "“子子”是那种动物的幼虫？",
+      "options": [
+        "蚊子",
+        "苍蝇",
+        "蜻蜓"
+      ],
+      "answer": "",
+      "verified": false,
+      "wrong": [],
+      "hits": 0,
+      "correct": 0,
+      "source": "pending",
+      "updated": "2026-10-15"
+    },
+    {
+      "id": "q1ca0b02c6",
+      "q": "哪座石窟又被称做千佛洞?",
+      "options": [
+        "敦煌莫高窟",
+        "龙门石窟",
+        "云冈石窟"
+      ],
+      "answer": "",
+      "verified": false,
+      "wrong": [],
+      "hits": 0,
+      "correct": 0,
+      "source": "pending",
+      "updated": "2026-10-15"
+    },
+    {
+      "id": "q91348710a",
+      "q": "中国和朝鲜两国的界河是",
+      "options": [
+        "松花江",
+        "图们江",
+        "鸭绿江"
+      ],
+      "answer": "",
+      "verified": false,
+      "wrong": [],
+      "hits": 0,
+      "correct": 0,
+      "source": "pending",
+      "updated": "2026-10-15"
+    },
+    {
+      "id": "qcceb61417",
+      "q": "碧螺春属于什么茶?",
+      "options": [
+        "绿茶",
+        "红茶",
+        "花茶"
+      ],
+      "answer": "",
+      "verified": false,
+      "wrong": [],
+      "hits": 0,
+      "correct": 0,
+      "source": "pending",
+      "updated": "2026-10-15"
     }
   ]
 }
