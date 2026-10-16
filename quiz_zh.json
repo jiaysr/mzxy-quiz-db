@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "questions": [
     {
       "id": "q608767df5",
@@ -446,8 +446,8 @@
       "hits": 4,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1,
-      "conflict": true
+      "conflict": true,
+      "correct": 1
     },
     {
       "id": "q016d68233",
@@ -460,10 +460,10 @@
       "answer": "爱因斯坦",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q95fb3df0f",
@@ -548,9 +548,9 @@
       "id": "q5d2206479",
       "q": "中国的国鸟是什么？",
       "options": [
-        "梅花",
-        "牡丹",
-        "荷花"
+        "丹顶鹤",
+        "短尾信天翁",
+        "黄嘴白鹭"
       ],
       "answer": "丹顶鹤",
       "verified": true,
@@ -796,10 +796,10 @@
       "answer": "浮元子",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q5b74f1b3e",
@@ -1357,10 +1357,10 @@
       "answer": "雅典",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qce9603144",
@@ -2142,8 +2142,8 @@
       "answer": "甲壳虫乐队",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2776,8 +2776,8 @@
       "answer": "SOS团",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3160,8 +3160,8 @@
       "answer": "精忠报国",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3321,10 +3321,10 @@
       "answer": "3个",
       "verified": false,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-01"
+      "updated": "2026-10-16"
     },
     {
       "id": "q433b40529",
@@ -3545,8 +3545,8 @@
       "answer": "王维",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -3593,8 +3593,8 @@
       "answer": "敌人",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 0,
+      "hits": 3,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3609,8 +3609,8 @@
       "answer": "每天洗一次",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -5607,8 +5607,8 @@
       "answer": "2000年",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-12"
     },
@@ -5700,13 +5700,15 @@
         "四棵",
         "五棵"
       ],
-      "answer": "五棵",
-      "verified": false,
-      "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "answer": "三棵",
+      "verified": true,
+      "wrong": [
+        "五棵"
+      ],
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-10-13"
+      "updated": "2026-10-16"
     },
     {
       "id": "q863124ca5",
@@ -5815,8 +5817,8 @@
       "answer": "搜神记",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-13"
     },
@@ -5995,6 +5997,118 @@
       "correct": 0,
       "source": "pending",
       "updated": "2026-10-15"
+    },
+    {
+      "id": "q678b8c707",
+      "q": "骨牢的囚徒身上最明显的标记是？",
+      "options": [
+        "囚徒骑着马",
+        "囚徒的眼睛是红色的",
+        "囚徒行走时带着铁球"
+      ],
+      "answer": "囚徒行走时带着铁球",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "q70db5c809",
+      "q": "地球上出现的潮汐是由于？",
+      "options": [
+        "地月吸引力",
+        "火山喷发",
+        "地壳运动"
+      ],
+      "answer": "地月吸引力",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "q46d957ea3",
+      "q": "孙子兵法》的作者是？",
+      "options": [
+        "孙膑",
+        "孙武",
+        "庞涓"
+      ],
+      "answer": "孙武",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "q72fcb313d",
+      "q": "“不知天上宫阙”的下一句是什么？",
+      "options": [
+        "今夕是何年",
+        "我欲乘风归去",
+        "把酒问青天"
+      ],
+      "answer": "今夕是何年",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "q66f1cf008",
+      "q": "东晋大诗人陶渊明被称为五柳先生是因为他？",
+      "options": [
+        "喜欢柳树",
+        "家门前有五株柳树",
+        "喜欢在瓶子里上插5根柳条"
+      ],
+      "answer": "家门前有五株柳树",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "qb2a4fccb2",
+      "q": "被称为“枫叶之国”，在国旗中央有一枚巨大枫叶的国家是？",
+      "options": [
+        "墨西哥",
+        "加拿大",
+        "苏格兰"
+      ],
+      "answer": "加拿大",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "q303699db7",
+      "q": "人体缺少哪种元素会造成甲状腺肿大?",
+      "options": [
+        "锌",
+        "碘",
+        "钙"
+      ],
+      "answer": "碘",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-16"
     }
   ]
 }
