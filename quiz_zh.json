@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "questions": [
     {
       "id": "q608767df5",
@@ -548,19 +548,20 @@
       "id": "q5d2206479",
       "q": "中国的国鸟是什么？",
       "options": [
-        "丹顶鹤",
-        "短尾信天翁",
-        "黄嘴白鹭"
+        "梅花",
+        "牡丹",
+        "荷花"
       ],
-      "answer": "丹顶鹤",
+      "answer": "牡丹",
       "verified": true,
       "wrong": [
         "梅花"
       ],
-      "hits": 6,
+      "hits": 7,
       "source": "llm",
-      "updated": "2026-10-14",
-      "correct": 3
+      "updated": "2026-10-17",
+      "correct": 4,
+      "conflict": true
     },
     {
       "id": "q167cf8b2a",
@@ -1453,8 +1454,8 @@
       "answer": "火焰",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -1597,8 +1598,8 @@
       "answer": "紫色",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -1789,8 +1790,8 @@
       "answer": "淡盐水",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -3481,8 +3482,8 @@
       "answer": "阿拉伯数字",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -3561,8 +3562,8 @@
       "answer": "北方",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -3880,8 +3881,8 @@
       "answer": "众神之园",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4871,10 +4872,10 @@
       "answer": "齐天大圣",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-07"
+      "updated": "2026-10-17"
     },
     {
       "id": "qd89f30de0",
@@ -5015,8 +5016,8 @@
       "answer": "两种弹奏手法",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -6109,6 +6110,182 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-16"
+    },
+    {
+      "id": "q9fd568fff",
+      "q": "忘川的角色鱼人名字叫？?",
+      "options": [
+        "乌鲁姆",
+        "乌鲁鲁",
+        "鸟鲁姆"
+      ],
+      "answer": "乌鲁姆",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-17"
+    },
+    {
+      "id": "q8dbfadba7",
+      "q": "“帝玉岭”中的两个首领分别叫什么？",
+      "options": [
+        "沙王和幽怪",
+        "皮皮鲁和鲁西西",
+        "曾哥和春哥"
+      ],
+      "answer": "沙王和幽怪",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-17"
+    },
+    {
+      "id": "qc46b214a1",
+      "q": "哪种动物能代表“白原”势力的精神?",
+      "options": [
+        "奥特曼",
+        "皮卡丘",
+        "虎"
+      ],
+      "answer": "虎",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-17"
+    },
+    {
+      "id": "q88f6cd374",
+      "q": "中国史上第一篇白话小说是鲁迅先生的什么？",
+      "options": [
+        "狂人日记",
+        "彷徨",
+        "呐喊"
+      ],
+      "answer": "狂人日记",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-17"
+    },
+    {
+      "id": "qc6e9f0c49",
+      "q": "现在的世界杯足球赛的冠军奖杯定名为什么？",
+      "options": [
+        "大力神杯",
+        "雷米特杯",
+        "胜利女神像"
+      ],
+      "answer": "大力神杯",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-17"
+    },
+    {
+      "id": "q681173ad8",
+      "q": "下面哪一个不是日本公司？",
+      "options": [
+        "世嘉",
+        "任天堂",
+        "育碧"
+      ],
+      "answer": "育碧",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-17"
+    },
+    {
+      "id": "qe3b8f1df2",
+      "q": "在先秦思想中，庄子的思想具有一种什么主义色彩？",
+      "options": [
+        "虚无主义",
+        "资本主义",
+        "爱国主义"
+      ],
+      "answer": "虚无主义",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-17"
+    },
+    {
+      "id": "q57af99b26",
+      "q": "“黄梅戏”是哪个省的地方戏？",
+      "options": [
+        "山东",
+        "安徽",
+        "福建"
+      ],
+      "answer": "安徽",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-17"
+    },
+    {
+      "id": "q427799970",
+      "q": "“食不厌精，脍不厌细'出自古时哪本着作?",
+      "options": [
+        "论语",
+        "食珍录",
+        "饮食须知"
+      ],
+      "answer": "论语",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-17"
+    },
+    {
+      "id": "qf31bc7dfb",
+      "q": "泥娃娃“大阿福”的老家是？",
+      "options": [
+        "无锡",
+        "苏州",
+        "杭州"
+      ],
+      "answer": "无锡",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-17"
+    },
+    {
+      "id": "qebddd8c34",
+      "q": "金身最多能装备几个技能?",
+      "options": [
+        "1个",
+        "3个",
+        "5个"
+      ],
+      "answer": "1个",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-17"
     }
   ]
 }
