@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "questions": [
     {
       "id": "q608767df5",
@@ -548,9 +548,9 @@
       "id": "q5d2206479",
       "q": "中国的国鸟是什么？",
       "options": [
-        "梅花",
-        "牡丹",
-        "荷花"
+        "丹顶鹤",
+        "短尾信天翁",
+        "黄嘴白鹭"
       ],
       "answer": "牡丹",
       "verified": true,
@@ -560,8 +560,8 @@
       "hits": 7,
       "source": "llm",
       "updated": "2026-10-17",
-      "correct": 4,
-      "conflict": true
+      "conflict": true,
+      "correct": 4
     },
     {
       "id": "q167cf8b2a",
