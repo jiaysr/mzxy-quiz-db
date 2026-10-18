@@ -553,15 +553,15 @@
         "黄嘴白鹭"
       ],
       "answer": "牡丹",
-      "verified": true,
+      "verified": false,
       "wrong": [
-        "梅花"
+        "牡丹"
       ],
       "hits": 7,
       "source": "llm",
       "updated": "2026-10-17",
       "conflict": true,
-      "correct": 4
+      "correct": 0
     },
     {
       "id": "q167cf8b2a",
@@ -943,13 +943,15 @@
         "萤尤部族"
       ],
       "answer": "蚩尤部族",
-      "verified": true,
-      "wrong": [],
+      "verified": false,
+      "wrong": [
+        "蚩尤部族"
+      ],
       "hits": 2,
       "source": "llm",
       "updated": "2026-10-05",
       "conflict": true,
-      "correct": 1
+      "correct": 0
     },
     {
       "id": "q8d9416d43",
@@ -994,8 +996,10 @@
         "6艘"
       ],
       "answer": "4艘",
-      "verified": true,
-      "wrong": [],
+      "verified": false,
+      "wrong": [
+        "4艘"
+      ],
       "hits": 1,
       "source": "llm",
       "updated": "2026-09-20",
