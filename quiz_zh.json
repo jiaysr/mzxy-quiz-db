@@ -77,10 +77,10 @@
       "answer": "杨过和小龙女",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q286d55808",
@@ -1182,10 +1182,10 @@
       "wrong": [
         "生命"
       ],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q2df3c7178",
@@ -2618,8 +2618,8 @@
       "answer": "正月十五",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -3021,8 +3021,8 @@
       "answer": "爱丽斯漫游仙境",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3342,8 +3342,8 @@
       "answer": "毛利兰",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -3390,8 +3390,8 @@
       "answer": "红细胞",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -3662,8 +3662,8 @@
       "answer": "毕加索",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -3710,8 +3710,8 @@
       "answer": "麦克白",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -4124,8 +4124,8 @@
       "answer": "爱与美之神",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4428,8 +4428,8 @@
       "answer": "6件",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4604,8 +4604,8 @@
       "answer": "吴刚",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -5036,8 +5036,8 @@
       "answer": "3次",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-08"
     },
@@ -6290,6 +6290,134 @@
       "correct": 0,
       "source": "llm",
       "updated": "2026-10-17"
+    },
+    {
+      "id": "qddcef253e",
+      "q": "修真境界的进度达到100%后需要才能继续修炼?",
+      "options": [
+        "向上天祈祷",
+        "渡劫",
+        "给太虚真人说好话"
+      ],
+      "answer": "渡劫",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-18"
+    },
+    {
+      "id": "q7c3d20d09",
+      "q": "装备最多能升到多少星？",
+      "options": [
+        "18星",
+        "9星",
+        "5星"
+      ],
+      "answer": "18星",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-18"
+    },
+    {
+      "id": "qa744512c9",
+      "q": "兔子用腿拍打地面的动作来传递信息,用后腿拍打地面的大多数是?",
+      "options": [
+        "雌兔",
+        "雄兔",
+        "都会拍打"
+      ],
+      "answer": "雄兔",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-18"
+    },
+    {
+      "id": "q7adb9f549",
+      "q": "哪一种水在灭火时比较有用？",
+      "options": [
+        "热水",
+        "冷水",
+        "常温"
+      ],
+      "answer": "冷水",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-18"
+    },
+    {
+      "id": "q35d19b481",
+      "q": "“似花还似非花”下句？",
+      "options": [
+        "似物也非物",
+        "也无人惜从教坠",
+        "不恨此花飞尽"
+      ],
+      "answer": "也无人惜从教坠",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-18"
+    },
+    {
+      "id": "q447a9db6f",
+      "q": "幽山中有几个星盘?",
+      "options": [
+        "无数个",
+        "1个",
+        "9个"
+      ],
+      "answer": "无数个",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-18"
+    },
+    {
+      "id": "q4fc4e3ea9",
+      "q": "唐高宗李治和武则天的合葬陵是什么陵?",
+      "options": [
+        "武平陵",
+        "乾陵",
+        "武王陵"
+      ],
+      "answer": "乾陵",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-18"
+    },
+    {
+      "id": "q793b4c3bc",
+      "q": "孙权字什么？",
+      "options": [
+        "孟德",
+        "仲谋",
+        "子建"
+      ],
+      "answer": "仲谋",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-18"
     }
   ]
 }
