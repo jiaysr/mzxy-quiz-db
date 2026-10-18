@@ -4261,13 +4261,13 @@
         "右手",
         "双手"
       ],
-      "answer": "右手",
-      "verified": false,
+      "answer": "双手",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-03"
+      "updated": "2026-10-18"
     },
     {
       "id": "q3f8c8e2bd",
@@ -4341,13 +4341,13 @@
         "猫王",
         "麦当娜"
       ],
-      "answer": "迈克尔·杰克逊",
-      "verified": false,
+      "answer": "猫王",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-03"
+      "updated": "2026-10-18"
     },
     {
       "id": "q4b08822e5",
@@ -4709,13 +4709,13 @@
         "灵丹",
         "丹婴"
       ],
-      "answer": "元婴",
-      "verified": false,
+      "answer": "丹婴",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-06"
+      "updated": "2026-10-18"
     },
     {
       "id": "q685799066",
@@ -5269,13 +5269,13 @@
         "忘川",
         "古碑林"
       ],
-      "answer": "忘川",
-      "verified": false,
+      "answer": "古碑林",
+      "verified": true,
       "wrong": [],
       "hits": 1,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-10"
+      "updated": "2026-10-18"
     },
     {
       "id": "qaedd6cb21",
