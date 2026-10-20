@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "questions": [
     {
       "id": "q608767df5",
@@ -277,14 +277,18 @@
     {
       "id": "q6e65d28d9",
       "q": "成语”丁解牛\"括号中应该填入什么字？",
-      "options": [],
+      "options": [
+        "庖",
+        "刨",
+        "龅"
+      ],
       "answer": "庖",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
-      "updated": "2026-09-18",
-      "correct": 0
+      "updated": "2026-10-20",
+      "correct": 1
     },
     {
       "id": "q25e44478d",
@@ -460,10 +464,10 @@
       "answer": "爱因斯坦",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q95fb3df0f",
@@ -502,15 +506,16 @@
       "q": "洛神赋图\"是哪位画家所画？",
       "options": [
         "曹植",
-        "顾恺之"
+        "顾恺之",
+        "顾闳中"
       ],
       "answer": "顾恺之",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qdd1a1d56e",
@@ -638,10 +643,10 @@
       "answer": "无限制",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "pending",
       "updated": "2026-09-19",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q0ba086159",
@@ -831,10 +836,10 @@
       "wrong": [
         "活火山"
       ],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q389216765",
@@ -913,10 +918,10 @@
       "wrong": [
         "天策上将"
       ],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q9ab8ad3a2",
@@ -940,16 +945,16 @@
       "options": [
         "大自然",
         "小白兔",
-        "萤尤部族"
+        "蚩尤部族"
       ],
-      "answer": "蚩尤部族",
+      "answer": "大自然",
       "verified": false,
       "wrong": [
         "蚩尤部族"
       ],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
-      "updated": "2026-10-05",
+      "updated": "2026-10-20",
       "conflict": true,
       "correct": 0
     },
@@ -1066,10 +1071,10 @@
       "answer": "小熊星座",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q88ef99414",
@@ -2668,8 +2673,8 @@
       "answer": "天池",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3518,8 +3523,8 @@
       "answer": "集",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -3630,8 +3635,8 @@
       "answer": "苻坚",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -5228,8 +5233,8 @@
       "answer": "蒙古族",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -5644,8 +5649,8 @@
       "answer": "路飞",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-12"
     },
@@ -6548,6 +6553,118 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-19"
+    },
+    {
+      "id": "q770be4e2b",
+      "q": "忘川的方碑位于哪个位置？",
+      "options": [
+        "妖化蟹将附近",
+        "赢土复活点附近",
+        "妖化人鱼附近"
+      ],
+      "answer": "妖化蟹将附近",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-20"
+    },
+    {
+      "id": "q11862c049",
+      "q": "世界上最早的咖啡馆诞在哪个城市?",
+      "options": [
+        "麦加",
+        "米兰",
+        "巴黎"
+      ],
+      "answer": "麦加",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-20"
+    },
+    {
+      "id": "qabb3c78b8",
+      "q": "“开元盛世”是由唐朝哪个皇帝开创的？",
+      "options": [
+        "唐太宗",
+        "唐中宗",
+        "唐玄宗"
+      ],
+      "answer": "唐玄宗",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-20"
+    },
+    {
+      "id": "qa1fe84106",
+      "q": "孔子有多少弟子？",
+      "options": [
+        "三千人",
+        "三人",
+        "三百人"
+      ],
+      "answer": "三千人",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-20"
+    },
+    {
+      "id": "q3f05f90ec",
+      "q": "在哺乳动物中，最长寿的动物是什么？",
+      "options": [
+        "熊猫",
+        "大象",
+        "狗"
+      ],
+      "answer": "大象",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-20"
+    },
+    {
+      "id": "qbb4855a2a",
+      "q": "火影忍者》中我爱罗背上背着什么？",
+      "options": [
+        "葫芦",
+        "九尾",
+        "琴"
+      ],
+      "answer": "葫芦",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-20"
+    },
+    {
+      "id": "q0eeba1e89",
+      "q": "春风又绿江南岸\"的下一句是什么？",
+      "options": [
+        "日出江花红胜火",
+        "二月春风似剪刀",
+        "明月何时照我还"
+      ],
+      "answer": "明月何时照我还",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-20"
     }
   ]
 }
