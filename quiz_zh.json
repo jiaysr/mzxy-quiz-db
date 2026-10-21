@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "questions": [
     {
       "id": "q608767df5",
@@ -952,9 +952,9 @@
       "wrong": [
         "蚩尤部族"
       ],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
-      "updated": "2026-10-20",
+      "updated": "2026-10-21",
       "conflict": true,
       "correct": 0
     },
@@ -1415,10 +1415,10 @@
       "answer": "令堂",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q01f94a1f3",
@@ -1894,8 +1894,8 @@
       "answer": "三字经",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2351,8 +2351,8 @@
       "answer": "赵匡胤",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2463,8 +2463,8 @@
       "answer": "仙人掌",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -3186,8 +3186,8 @@
       "answer": "书中香草发出的香气",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3683,10 +3683,10 @@
       "answer": "尾部",
       "verified": false,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-14"
+      "updated": "2026-10-21"
     },
     {
       "id": "q003f9b7c3",
@@ -4081,8 +4081,8 @@
       "answer": "前十名",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4561,8 +4561,8 @@
       "answer": "元好问",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4593,8 +4593,8 @@
       "answer": "曹操",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -4785,8 +4785,8 @@
       "answer": "埃及",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-06"
     },
@@ -5089,8 +5089,8 @@
       "answer": "吉他",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-08"
     },
@@ -5233,8 +5233,8 @@
       "answer": "蒙古族",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -5665,8 +5665,8 @@
       "answer": "康熙",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-12"
     },
@@ -6083,8 +6083,8 @@
       "answer": "家门前有五株柳树",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-16"
     },
@@ -6665,6 +6665,86 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-20"
+    },
+    {
+      "id": "qbdd67fb9d",
+      "q": "背包中的东西放满了怎么办？",
+      "options": [
+        "把没用的东西吃掉",
+        "捐给灾区",
+        "卖掉或者扩充背包的格数"
+      ],
+      "answer": "卖掉或者扩充背包的格数",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-21"
+    },
+    {
+      "id": "qb599e66a2",
+      "q": "在哪个地图可以对玩家进行膜拜？",
+      "options": [
+        "忘川",
+        "域外灵岛",
+        "蓬莱仙岛"
+      ],
+      "answer": "域外灵岛",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-21"
+    },
+    {
+      "id": "qc16a16b2e",
+      "q": "文艺复兴时期雕塑艺术最高峰的代表是谁?",
+      "options": [
+        "米开朗琪罗",
+        "达芬奇",
+        "大卫"
+      ],
+      "answer": "米开朗琪罗",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-21"
+    },
+    {
+      "id": "qc873c45f8",
+      "q": "一般一个蜂群中有几个蜂王？",
+      "options": [
+        "1个",
+        "10个",
+        "无数个"
+      ],
+      "answer": "1个",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-21"
+    },
+    {
+      "id": "q3149ef2f5",
+      "q": "赤壁之战中，假装投降以接近曹军的吴国将领是？",
+      "options": [
+        "黄忠",
+        "黄盖",
+        "周瑜"
+      ],
+      "answer": "黄盖",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-21"
     }
   ]
 }
