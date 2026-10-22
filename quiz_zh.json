@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "questions": [
     {
       "id": "q608767df5",
@@ -900,10 +900,10 @@
       "answer": "西厢记",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q247e73f96",
@@ -945,7 +945,7 @@
       "options": [
         "大自然",
         "小白兔",
-        "蚩尤部族"
+        "萤尤部族"
       ],
       "answer": "大自然",
       "verified": false,
@@ -1664,14 +1664,14 @@
       "id": "q03018cef1",
       "q": "装备升级需要消耗什么？",
       "options": [
+        "铜币",
         "冶炼石",
-        "星灵宝珠",
-        "铜币"
+        "星灵宝珠"
       ],
       "answer": "冶炼石",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "correct": 1,
       "source": "llm",
       "updated": "2026-09-23"
@@ -1992,8 +1992,8 @@
       "answer": "体天石只能增加体力属性点",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2495,8 +2495,8 @@
       "answer": "南瓜",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2673,8 +2673,8 @@
       "answer": "天池",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2721,8 +2721,8 @@
       "answer": "川菜",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2770,8 +2770,8 @@
       "answer": "50周年",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3135,11 +3135,11 @@
         "增加形象的美观度,还能增加移动速度",
         "看的更远"
       ],
-      "answer": "增加形象的美观度，还能增加移动速度",
+      "answer": "增加形象的美观度,还能增加移动速度",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3523,8 +3523,8 @@
       "answer": "集",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -4609,8 +4609,8 @@
       "answer": "吴刚",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -4625,8 +4625,8 @@
       "answer": "太阳神",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -5409,8 +5409,8 @@
       "answer": "8个",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-10"
     },
@@ -5489,8 +5489,8 @@
       "answer": "道德经",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-11"
     },
@@ -5811,8 +5811,8 @@
       "answer": "长颈鹿",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-13"
     },
@@ -6019,8 +6019,8 @@
       "answer": "囚徒行走时带着铁球",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-16"
     },
@@ -6355,10 +6355,10 @@
       "answer": "冷水",
       "verified": false,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-18"
+      "updated": "2026-10-22"
     },
     {
       "id": "q35d19b481",
@@ -6745,6 +6745,70 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-21"
+    },
+    {
+      "id": "q7d860283b",
+      "q": "世界上生存生物最少的海叫什么？",
+      "options": [
+        "死海",
+        "黑海",
+        "爱琴海"
+      ],
+      "answer": "死海",
+      "verified": false,
+      "wrong": [],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-22"
+    },
+    {
+      "id": "q93da41cd1",
+      "q": "飞人”迈克尔·乔丹曾经是哪支球队的球员",
+      "options": [
+        "芝加哥公牛队",
+        "休斯顿火箭队",
+        "洛杉矶湖人队"
+      ],
+      "answer": "芝加哥公牛队",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-22"
+    },
+    {
+      "id": "q12aeffdbf",
+      "q": "水只有在100摄氏度才会沸腾？",
+      "options": [
+        "不对",
+        "对",
+        "不知道"
+      ],
+      "answer": "不对",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-22"
+    },
+    {
+      "id": "qbea7679c5",
+      "q": "袈裟为什么也叫百纳衣？",
+      "options": [
+        "由许多块布补缀而成",
+        "100个和尚一起做的",
+        "穿袈裟要念经100遍"
+      ],
+      "answer": "由许多块布补缀而成",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-22"
     }
   ]
 }
