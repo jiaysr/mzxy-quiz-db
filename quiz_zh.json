@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "questions": [
     {
       "id": "q608767df5",
@@ -447,11 +447,11 @@
       "wrong": [
         "房屋"
       ],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-21",
       "conflict": true,
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q016d68233",
@@ -643,10 +643,10 @@
       "answer": "无限制",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "pending",
       "updated": "2026-09-19",
-      "correct": 4
+      "correct": 5
     },
     {
       "id": "q0ba086159",
@@ -1187,10 +1187,10 @@
       "wrong": [
         "生命"
       ],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q2df3c7178",
@@ -1664,9 +1664,9 @@
       "id": "q03018cef1",
       "q": "装备升级需要消耗什么？",
       "options": [
-        "铜币",
         "冶炼石",
-        "星灵宝珠"
+        "星灵宝珠",
+        "铜币"
       ],
       "answer": "冶炼石",
       "verified": true,
@@ -2168,8 +2168,8 @@
       "answer": "小马驹",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2399,8 +2399,8 @@
       "answer": "苏格拉底",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -3135,7 +3135,7 @@
         "增加形象的美观度,还能增加移动速度",
         "看的更远"
       ],
-      "answer": "增加形象的美观度,还能增加移动速度",
+      "answer": "增加形象的美观度，还能增加移动速度",
       "verified": true,
       "wrong": [],
       "hits": 4,
@@ -4513,8 +4513,8 @@
       "answer": "战国初期",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4828,13 +4828,13 @@
       "options": [
         "沉默",
         "火药",
-        "原子弹"
+        "原子弾"
       ],
       "answer": "沉默",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-06"
     },
@@ -4878,13 +4878,15 @@
         "齐天大圣",
         "姬霜"
       ],
-      "answer": "齐天大圣",
-      "verified": false,
-      "wrong": [],
-      "hits": 2,
-      "correct": 0,
+      "answer": "姬霜",
+      "verified": true,
+      "wrong": [
+        "齐天大圣"
+      ],
+      "hits": 3,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-10-17"
+      "updated": "2026-10-23"
     },
     {
       "id": "qd89f30de0",
@@ -5489,8 +5491,8 @@
       "answer": "道德经",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-11"
     },
@@ -5649,8 +5651,8 @@
       "answer": "路飞",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-12"
     },
@@ -6354,11 +6356,13 @@
       ],
       "answer": "冷水",
       "verified": false,
-      "wrong": [],
-      "hits": 2,
+      "wrong": [
+        "冷水"
+      ],
+      "hits": 3,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-22"
+      "updated": "2026-10-23"
     },
     {
       "id": "q35d19b481",
@@ -6485,8 +6489,8 @@
       "answer": "马",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-19"
     },
@@ -6789,8 +6793,8 @@
       "answer": "不对",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-22"
     },
@@ -6809,6 +6813,118 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-22"
+    },
+    {
+      "id": "q8b707e9c6",
+      "q": "打副本的好处是什么？",
+      "options": [
+        "能让世界和平",
+        "能够获得众多宝物",
+        "能减肥"
+      ],
+      "answer": "能够获得众多宝物",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-23"
+    },
+    {
+      "id": "q3476384d3",
+      "q": "蚩尤是上古时代什么族的部落的酋长?",
+      "options": [
+        "九黎",
+        "轩辕",
+        "苗疆"
+      ],
+      "answer": "九黎",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-10-23"
+    },
+    {
+      "id": "qe7baf0ae6",
+      "q": "小明的妈妈有3个儿子老大叫李大老二叫李二老三叫什么？",
+      "options": [
+        "李四",
+        "李小四",
+        "李小明"
+      ],
+      "answer": "李小明",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-23"
+    },
+    {
+      "id": "qa9ee4a1c1",
+      "q": "冬季夜空最亮的一颗恒星是？",
+      "options": [
+        "牛郎星",
+        "北极星",
+        "天狼星"
+      ],
+      "answer": "天狼星",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-23"
+    },
+    {
+      "id": "q08c87da4f",
+      "q": "巴黎圣母院》的作者是谁？",
+      "options": [
+        "高尔基",
+        "雨果",
+        "大仲马"
+      ],
+      "answer": "雨果",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-23"
+    },
+    {
+      "id": "qb3ac10410",
+      "q": "“春风拂槛露华浓”的上一句是?",
+      "options": [
+        "会向瑶台月下逢",
+        "名花倾国两相欢",
+        "云想衣裳花想容"
+      ],
+      "answer": "云想衣裳花想容",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-23"
+    },
+    {
+      "id": "q4a58cb07a",
+      "q": "英国博物学家生物学家进化论的奠基人达尔文撰写了轰动了生物学界的著作是?",
+      "options": [
+        "物种起源",
+        "生化危机",
+        "进化论"
+      ],
+      "answer": "物种起源",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-23"
     }
   ]
 }
