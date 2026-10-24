@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "questions": [
     {
       "id": "q608767df5",
@@ -884,10 +884,10 @@
       "answer": "杨贵妃和唐玄宗",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q9f620d43e",
@@ -1119,10 +1119,10 @@
       "answer": "张良",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q7dcf22102",
@@ -2463,8 +2463,8 @@
       "answer": "仙人掌",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2705,8 +2705,8 @@
       "answer": "朝下",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2770,8 +2770,8 @@
       "answer": "50周年",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3135,11 +3135,11 @@
         "增加形象的美观度,还能增加移动速度",
         "看的更远"
       ],
-      "answer": "增加形象的美观度，还能增加移动速度",
+      "answer": "增加形象的美观度,还能增加移动速度",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3266,8 +3266,8 @@
       "answer": "斗鸡眼",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -4110,13 +4110,15 @@
         "绿茶",
         "菊花茶"
       ],
-      "answer": "菊花茶",
-      "verified": false,
-      "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "answer": "绿茶",
+      "verified": true,
+      "wrong": [
+        "菊花茶"
+      ],
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-10-02"
+      "updated": "2026-10-24"
     },
     {
       "id": "q04bd81a77",
@@ -4800,11 +4802,13 @@
       ],
       "answer": "苏丹",
       "verified": false,
-      "wrong": [],
-      "hits": 2,
+      "wrong": [
+        "苏丹"
+      ],
+      "hits": 3,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-08"
+      "updated": "2026-10-24"
     },
     {
       "id": "q7ca46385c",
@@ -6777,8 +6781,8 @@
       "answer": "芝加哥公牛队",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-22"
     },
@@ -6925,6 +6929,168 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-23"
+    },
+    {
+      "id": "q86dbeecaf",
+      "q": "忘川有几个巨大的海兽雕像？",
+      "options": [
+        "3个",
+        "2个",
+        "6个"
+      ],
+      "answer": "6个",
+      "verified": false,
+      "wrong": [
+        "6个"
+      ],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-24"
+    },
+    {
+      "id": "q2ad86d4a7",
+      "q": "角色出生后，所在的第一个关卡叫什么名字？",
+      "options": [
+        "中皇山",
+        "人猿泰山",
+        "西藏少林寺"
+      ],
+      "answer": "中皇山",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-24"
+    },
+    {
+      "id": "qaab875525",
+      "q": "金身需要什么才能升级？",
+      "options": [
+        "魂气",
+        "用灵力喂养",
+        "天天抚摸"
+      ],
+      "answer": "魂气",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-24"
+    },
+    {
+      "id": "q280b367ab",
+      "q": "古代帝王封禅，郊祀的玉简文书叫什么？",
+      "options": [
+        "诰命",
+        "玉牒",
+        "族谱"
+      ],
+      "answer": "玉牒",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-24"
+    },
+    {
+      "id": "qd0a6ad4d0",
+      "q": "张家界风景区位于我国的哪省份?",
+      "options": [
+        "贵州",
+        "湖南",
+        "四川"
+      ],
+      "answer": "湖南",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-10-24"
+    },
+    {
+      "id": "q5a8ae6960",
+      "q": "古代的巴比伦王国的位置相当于现在的哪个国家？",
+      "options": [
+        "伊拉克",
+        "伊朗",
+        "科威特"
+      ],
+      "answer": "伊拉克",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-24"
+    },
+    {
+      "id": "qe23c99a62",
+      "q": "“床前明月光”是李白的千古名句，其中“床”指的是什么？",
+      "options": [
+        "窗户",
+        "井上的围栏",
+        "卧具"
+      ],
+      "answer": "井上的围栏",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-10-24"
+    },
+    {
+      "id": "qbd64570fa",
+      "q": "普洱茶的产地在哪？",
+      "options": [
+        "广西",
+        "贵州",
+        "云南"
+      ],
+      "answer": "云南",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-24"
+    },
+    {
+      "id": "q9fa4b414a",
+      "q": "屈原所作的中国古代最长的抒情诗是？",
+      "options": [
+        "九歌",
+        "离骚",
+        "长恨歌"
+      ],
+      "answer": "离骚",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-24"
+    },
+    {
+      "id": "q8a45b662f",
+      "q": "代人作文章被称之为“捉刀”，“捉刀”最早说的是谁?",
+      "options": [
+        "曹操",
+        "曹植",
+        "曹丕"
+      ],
+      "answer": "曹操",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-24"
     }
   ]
 }
