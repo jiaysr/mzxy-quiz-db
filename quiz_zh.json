@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "questions": [
     {
       "id": "q608767df5",
@@ -496,10 +496,10 @@
       "answer": "福尔摩斯",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qed215aebb",
@@ -1187,10 +1187,10 @@
       "wrong": [
         "生命"
       ],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q2df3c7178",
@@ -1271,10 +1271,10 @@
       "answer": "撒哈拉沙漠",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q1460b1ebd",
@@ -1425,16 +1425,16 @@
       "q": "相对论主要由哪位科学家创立？",
       "options": [
         "爱因斯坦",
-        "华盛顿",
-        "爱迪生"
+        "爱迪生",
+        "相对"
       ],
       "answer": "爱因斯坦",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
-      "updated": "2026-09-21",
-      "correct": 1
+      "updated": "2026-10-25",
+      "correct": 2
     },
     {
       "id": "qd945bd25b",
@@ -2431,8 +2431,8 @@
       "answer": "野外捕捉",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2607,8 +2607,8 @@
       "answer": "引力",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -4688,13 +4688,15 @@
         "墨西哥",
         "西班牙"
       ],
-      "answer": "西班牙",
+      "answer": "墨西哥",
       "verified": false,
-      "wrong": [],
-      "hits": 2,
+      "wrong": [
+        "墨西哥"
+      ],
+      "hits": 3,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-13"
+      "updated": "2026-10-25"
     },
     {
       "id": "q2980018c2",
@@ -5127,8 +5129,8 @@
       "answer": "加拿大",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-08"
     },
@@ -5239,8 +5241,8 @@
       "answer": "蒙古族",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -5473,14 +5475,14 @@
       "q": "把苹果皮削下来，不要弄断苹果皮，把这一条苹果皮顺其自然地放在桌面上，是什么形状？",
       "options": [
         "S型",
-        "0型",
+        "O型",
         "型"
       ],
       "answer": "S型",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-11"
     },
@@ -5785,8 +5787,8 @@
       "answer": "赵飞燕",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-13"
     },
@@ -6105,8 +6107,8 @@
       "answer": "加拿大",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-16"
     },
@@ -6573,8 +6575,8 @@
       "answer": "妖化蟹将附近",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-20"
     },
@@ -6685,8 +6687,8 @@
       "answer": "卖掉或者扩充背包的格数",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-21"
     },
@@ -6909,8 +6911,8 @@
       "answer": "云想衣裳花想容",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-23"
     },
@@ -7091,6 +7093,86 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-24"
+    },
+    {
+      "id": "qc0c16b817",
+      "q": "牧野蚩尤刀斧手手中拿着的是?",
+      "options": [
+        "大刀",
+        "长枪",
+        "斧头"
+      ],
+      "answer": "大刀",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-10-25"
+    },
+    {
+      "id": "qf8c55d75e",
+      "q": "16世纪西班牙殖民者在南美掠夺的白银到哪去了？",
+      "options": [
+        "通过贸易的形式流入中国",
+        "被海盗攻击了",
+        "皇室成员赌博输光了"
+      ],
+      "answer": "通过贸易的形式流入中国",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-25"
+    },
+    {
+      "id": "q92d3779fe",
+      "q": "我国民间有“夜猫子进宅，无事不来”、“不怕夜猫子叫，就怕夜猫子笑”等俗语，其中的夜猫子指什么？",
+      "options": [
+        "猫头鹰",
+        "猫",
+        "一种传说中的怪兽"
+      ],
+      "answer": "猫头鹰",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-25"
+    },
+    {
+      "id": "q1044d1209",
+      "q": "铸造五铢钱的皇帝是?",
+      "options": [
+        "汉武帝",
+        "秦始皇",
+        "唐太宗"
+      ],
+      "answer": "汉武帝",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-25"
+    },
+    {
+      "id": "q047209d40",
+      "q": "成语“一衣带水”中的“水”原意是指？",
+      "options": [
+        "露水",
+        "长江",
+        "清泉"
+      ],
+      "answer": "长江",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-25"
     }
   ]
 }
