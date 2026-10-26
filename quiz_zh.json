@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "questions": [
     {
       "id": "q608767df5",
@@ -374,17 +374,17 @@
       "id": "qb2eab6c07",
       "q": "蟑螂请蜈蚣和壁虎到家中作客，发现没有油了，蜈蚣要去买，却久久未回，究竟发生了什么事？",
       "options": [
-        "娱蚣还在门口穿鞋",
+        "蜈蚣还在门口穿鞋",
         "蜈蚣身上没钱",
         "蜈蚣在路上碰到了美女"
       ],
       "answer": "蜈蚣还在门口穿鞋",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q6591b317a",
@@ -852,10 +852,10 @@
       "answer": "浙江",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "qf9370c733",
@@ -945,16 +945,17 @@
       "options": [
         "大自然",
         "小白兔",
-        "萤尤部族"
+        "蚩尤部族"
       ],
       "answer": "大自然",
       "verified": false,
       "wrong": [
-        "蚩尤部族"
+        "蚩尤部族",
+        "大自然"
       ],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
-      "updated": "2026-10-21",
+      "updated": "2026-10-26",
       "conflict": true,
       "correct": 0
     },
@@ -1447,10 +1448,10 @@
       "answer": "3天",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q6436fdba9",
@@ -1783,8 +1784,8 @@
       "answer": "古代海底火山爆发而成",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2220,8 +2221,8 @@
       "wrong": [
         "3次"
       ],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2234,11 +2235,12 @@
         "6个"
       ],
       "answer": "6个",
-      "verified": true,
+      "verified": false,
       "wrong": [
-        "5个"
+        "5个",
+        "6个"
       ],
-      "hits": 2,
+      "hits": 3,
       "correct": 0,
       "source": "llm",
       "updated": "2026-09-26"
@@ -2898,8 +2900,8 @@
       "answer": "蟋蟀",
       "verified": true,
       "wrong": [],
-      "hits": 5,
-      "correct": 5,
+      "hits": 6,
+      "correct": 6,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3074,8 +3076,8 @@
       "answer": "破釜沉舟",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3900,15 +3902,18 @@
       "q": "世界上最毒的物质是?",
       "options": [
         "鹤顶红",
+        "神经毒素",
+        "钋"
+      ],
+      "answer": "钋",
+      "verified": true,
+      "wrong": [
         "神经毒素"
       ],
-      "answer": "神经毒素",
-      "verified": false,
-      "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-10-01"
+      "updated": "2026-10-26"
     },
     {
       "id": "qdae61d069",
@@ -4467,8 +4472,8 @@
       "answer": "第三子",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4725,8 +4730,8 @@
       "answer": "丹婴",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-10-18"
     },
@@ -4789,8 +4794,8 @@
       "answer": "埃及",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-06"
     },
@@ -6511,8 +6516,8 @@
       "answer": "英国",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-19"
     },
@@ -6815,8 +6820,8 @@
       "answer": "由许多块布补缀而成",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-22"
     },
@@ -7173,6 +7178,88 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-25"
+    },
+    {
+      "id": "q49f91c074",
+      "q": "牧野炎帝身边有几个亲兵?",
+      "options": [
+        "1个",
+        "2个",
+        "10个"
+      ],
+      "answer": "2个",
+      "verified": false,
+      "wrong": [
+        "2个"
+      ],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-26"
+    },
+    {
+      "id": "q6766aee2d",
+      "q": "书法“瘦金体”由谁所创？",
+      "options": [
+        "唐太宗",
+        "宋徽宗",
+        "宋高宗"
+      ],
+      "answer": "宋徽宗",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-26"
+    },
+    {
+      "id": "qf6e531084",
+      "q": "最安全的交通工具，发生事故几率最小的是",
+      "options": [
+        "飞机",
+        "火车",
+        "轮船"
+      ],
+      "answer": "飞机",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-26"
+    },
+    {
+      "id": "qb467e9508",
+      "q": "年轮气候学是根据树木什么的变化推论过去气候的一门学科？",
+      "options": [
+        "树木生长周期",
+        "树木生长环境",
+        "年轮"
+      ],
+      "answer": "年轮",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-26"
+    },
+    {
+      "id": "qc8eac2a5b",
+      "q": "俗称“四不象”的动物是？",
+      "options": [
+        "麋鹿",
+        "驯鹿",
+        "驼鹿"
+      ],
+      "answer": "麋鹿",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-26"
     }
   ]
 }
