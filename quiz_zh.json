@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "questions": [
     {
       "id": "q608767df5",
@@ -374,7 +374,7 @@
       "id": "qb2eab6c07",
       "q": "蟑螂请蜈蚣和壁虎到家中作客，发现没有油了，蜈蚣要去买，却久久未回，究竟发生了什么事？",
       "options": [
-        "蜈蚣还在门口穿鞋",
+        "娱蚣还在门口穿鞋",
         "蜈蚣身上没钱",
         "蜈蚣在路上碰到了美女"
       ],
@@ -397,10 +397,10 @@
       "answer": "银河系",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q0b9fe8690",
@@ -945,7 +945,7 @@
       "options": [
         "大自然",
         "小白兔",
-        "蚩尤部族"
+        "萤尤部族"
       ],
       "answer": "大自然",
       "verified": false,
@@ -1426,8 +1426,8 @@
       "q": "相对论主要由哪位科学家创立？",
       "options": [
         "爱因斯坦",
-        "爱迪生",
-        "相对"
+        "华盛顿",
+        "爱迪生"
       ],
       "answer": "爱因斯坦",
       "verified": true,
@@ -2643,8 +2643,8 @@
       "wrong": [
         "3条"
       ],
-      "hits": 3,
-      "correct": 2,
+      "hits": 4,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2948,8 +2948,8 @@
       "answer": "灵气",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3076,8 +3076,8 @@
       "answer": "破釜沉舟",
       "verified": true,
       "wrong": [],
-      "hits": 5,
-      "correct": 5,
+      "hits": 6,
+      "correct": 6,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3137,7 +3137,7 @@
         "增加形象的美观度,还能增加移动速度",
         "看的更远"
       ],
-      "answer": "增加形象的美观度,还能增加移动速度",
+      "answer": "增加形象的美观度，还能增加移动速度",
       "verified": true,
       "wrong": [],
       "hits": 5,
@@ -3293,8 +3293,8 @@
       "id": "q7b5fce6bd",
       "q": "八大行星中最靠近太阳的行星是什么？",
       "options": [
-        "水星",
         "金星",
+        "火星",
         "土星"
       ],
       "answer": "金星",
@@ -3743,7 +3743,7 @@
       "id": "q9a7247aed",
       "q": "从你生下来到现在，是睁眼的次数多还是闭眼的次数多？",
       "options": [
-        "样多",
+        "一样多",
         "睁眼",
         "闭眼"
       ],
@@ -4122,8 +4122,8 @@
       "wrong": [
         "菊花茶"
       ],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-24"
     },
@@ -4375,13 +4375,15 @@
         "伏羲",
         "黄帝"
       ],
-      "answer": "黄帝",
-      "verified": false,
-      "wrong": [],
-      "hits": 2,
-      "correct": 0,
+      "answer": "伏羲",
+      "verified": true,
+      "wrong": [
+        "黄帝"
+      ],
+      "hits": 3,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-10-09"
+      "updated": "2026-10-28"
     },
     {
       "id": "q710efafcc",
@@ -4410,8 +4412,8 @@
       "answer": "扁鹊",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-03"
     },
@@ -4474,8 +4476,8 @@
       "answer": "第三子",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4570,8 +4572,8 @@
       "answer": "元好问",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4841,7 +4843,7 @@
       "options": [
         "沉默",
         "火药",
-        "原子弾"
+        "原子弹"
       ],
       "answer": "沉默",
       "verified": true,
@@ -5392,8 +5394,8 @@
       "answer": "螃蟹",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-10"
     },
@@ -5482,7 +5484,7 @@
       "q": "把苹果皮削下来，不要弄断苹果皮，把这一条苹果皮顺其自然地放在桌面上，是什么形状？",
       "options": [
         "S型",
-        "O型",
+        "0型",
         "型"
       ],
       "answer": "S型",
@@ -5600,8 +5602,8 @@
       "answer": "京师大学堂",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-12"
     },
@@ -6082,8 +6084,8 @@
       "answer": "今夕是何年",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-16"
     },
@@ -6984,8 +6986,8 @@
       "answer": "魂气",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-24"
     },
@@ -7016,8 +7018,8 @@
       "answer": "湖南",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "pending",
       "updated": "2026-10-24"
     },
@@ -7144,8 +7146,8 @@
       "answer": "猫头鹰",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-25"
     },
@@ -7176,8 +7178,8 @@
       "answer": "长江",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-25"
     },
@@ -7374,6 +7376,70 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-27"
+    },
+    {
+      "id": "q694ca6cef",
+      "q": "“青丘”势力的首领叫什么？",
+      "options": [
+        "巴洛特利",
+        "孙悟空",
+        "吕绝"
+      ],
+      "answer": "吕绝",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-28"
+    },
+    {
+      "id": "q2e25774d7",
+      "q": "白原势力首领罗毅和赢土势力首领姬霜是什么关系？",
+      "options": [
+        "情侣",
+        "父女",
+        "敌人"
+      ],
+      "answer": "敌人",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-10-28"
+    },
+    {
+      "id": "qb1444ed6b",
+      "q": "八大行星中最靠近地球的行星是什么？",
+      "options": [
+        "金星",
+        "火星",
+        "土星"
+      ],
+      "answer": "金星",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-28"
+    },
+    {
+      "id": "q70c502b34",
+      "q": "围棋棋盘上的九个小圆点被叫做？",
+      "options": [
+        "天元",
+        "星",
+        "点"
+      ],
+      "answer": "星",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-28"
     }
   ]
 }
