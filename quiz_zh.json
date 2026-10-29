@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "questions": [
     {
       "id": "q608767df5",
@@ -77,10 +77,10 @@
       "answer": "杨过和小龙女",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q286d55808",
@@ -675,10 +675,10 @@
       "answer": "月老祠",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q04ed4a3ce",
@@ -1592,8 +1592,8 @@
       "answer": "姬发",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -4056,8 +4056,8 @@
       "answer": "血红蛋白",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4122,8 +4122,8 @@
       "wrong": [
         "菊花茶"
       ],
-      "hits": 3,
-      "correct": 2,
+      "hits": 4,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-24"
     },
@@ -4170,8 +4170,8 @@
       "answer": "鬼谷子",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4362,8 +4362,8 @@
       "answer": "猫王",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-10-18"
     },
@@ -4930,8 +4930,8 @@
       "answer": "罗马的梵蒂冈",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5330,8 +5330,8 @@
       "answer": "被乌龟砸死",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-10"
     },
@@ -5650,8 +5650,8 @@
       "answer": "206",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-12"
     },
@@ -5873,13 +5873,15 @@
         "坐骑可以",
         "都可以"
       ],
-      "answer": "坐骑可以",
-      "verified": false,
-      "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "answer": "都可以",
+      "verified": true,
+      "wrong": [
+        "坐骑可以"
+      ],
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-10-14"
+      "updated": "2026-10-29"
     },
     {
       "id": "q0972e2834",
@@ -5937,13 +5939,13 @@
         "金身",
         "冰草"
       ],
-      "answer": "",
-      "verified": false,
+      "answer": "冰草",
+      "verified": true,
       "wrong": [],
-      "hits": 0,
-      "correct": 0,
-      "source": "pending",
-      "updated": "2026-10-15"
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-29"
     },
     {
       "id": "q963f9ab99",
@@ -6017,13 +6019,13 @@
         "红茶",
         "花茶"
       ],
-      "answer": "",
-      "verified": false,
+      "answer": "绿茶",
+      "verified": true,
       "wrong": [],
-      "hits": 0,
-      "correct": 0,
-      "source": "pending",
-      "updated": "2026-10-15"
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-29"
     },
     {
       "id": "q678b8c707",
@@ -7404,8 +7406,8 @@
       "answer": "敌人",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "pending",
       "updated": "2026-10-28"
     },
@@ -7440,6 +7442,104 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-28"
+    },
+    {
+      "id": "q8d5e145d3",
+      "q": "忘川的蛟龙最喜欢的是谁?",
+      "options": [
+        "蚌仙儿",
+        "精卫",
+        "水灵"
+      ],
+      "answer": "蚌仙儿",
+      "verified": false,
+      "wrong": [
+        "蚌仙儿"
+      ],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-10-29"
+    },
+    {
+      "id": "q9589e0498",
+      "q": "谁最爱说这些话：1.大师兄！师傅被妖怪抓走了！2.二师兄！师傅被妖怪抓走了！",
+      "options": [
+        "孙悟空",
+        "猪八戒",
+        "沙僧"
+      ],
+      "answer": "沙僧",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-29"
+    },
+    {
+      "id": "qccd49d772",
+      "q": "“甲壳虫”系列是一下哪个国家生产的车型？",
+      "options": [
+        "美国",
+        "德国",
+        "日本"
+      ],
+      "answer": "德国",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-29"
+    },
+    {
+      "id": "qf2303544d",
+      "q": "红色彼岸花的学名是什么？",
+      "options": [
+        "曼珠沙华",
+        "芬陀利花",
+        "曼陀罗华"
+      ],
+      "answer": "曼珠沙华",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-29"
+    },
+    {
+      "id": "qf799e51a9",
+      "q": "海洋中最多的生物是哪种?",
+      "options": [
+        "浮游生物",
+        "鱼类",
+        "细菌"
+      ],
+      "answer": "浮游生物",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-29"
+    },
+    {
+      "id": "q10ae995b7",
+      "q": "\"打蛇打七寸”的七寸是指",
+      "options": [
+        "心脏",
+        "脖子",
+        "头部"
+      ],
+      "answer": "心脏",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-29"
     }
   ]
 }
