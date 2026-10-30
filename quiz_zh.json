@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "questions": [
     {
       "id": "q608767df5",
@@ -611,10 +611,10 @@
       "answer": "陕西",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q78385a3f4",
@@ -723,10 +723,10 @@
       "answer": "杨业",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qb8c7c2de3",
@@ -2804,8 +2804,8 @@
       "answer": "打瞌睡",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2884,8 +2884,8 @@
       "answer": "76年",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3332,13 +3332,15 @@
         "5个",
         "2个"
       ],
-      "answer": "3个",
+      "answer": "5个",
       "verified": false,
-      "wrong": [],
-      "hits": 3,
+      "wrong": [
+        "5个"
+      ],
+      "hits": 4,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-16"
+      "updated": "2026-10-30"
     },
     {
       "id": "q433b40529",
@@ -3559,8 +3561,8 @@
       "answer": "王维",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -3878,8 +3880,8 @@
       "answer": "三叉戟",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4476,8 +4478,8 @@
       "answer": "第三子",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4636,8 +4638,8 @@
       "answer": "太阳神",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -4668,8 +4670,8 @@
       "answer": "神农",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -5712,9 +5714,11 @@
         "陵鱼"
       ],
       "answer": "赢鱼",
-      "verified": true,
-      "wrong": [],
-      "hits": 2,
+      "verified": false,
+      "wrong": [
+        "赢鱼"
+      ],
+      "hits": 3,
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-13"
@@ -5878,8 +5882,8 @@
       "wrong": [
         "坐骑可以"
       ],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-29"
     },
@@ -6198,8 +6202,8 @@
       "answer": "狂人日记",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-17"
     },
@@ -6278,8 +6282,8 @@
       "answer": "论语",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-17"
     },
@@ -6988,8 +6992,8 @@
       "answer": "魂气",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-24"
     },
@@ -7540,6 +7544,86 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-29"
+    },
+    {
+      "id": "q323bf92cd",
+      "q": "阿里巴巴和四十大盗的故事中打开石门的咒语是？",
+      "options": [
+        "麦子开门",
+        "芝麻开门",
+        "阿里巴巴"
+      ],
+      "answer": "芝麻开门",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-30"
+    },
+    {
+      "id": "q58b65d9c2",
+      "q": "下列半岛哪个以出产石油著称？",
+      "options": [
+        "辽东半岛",
+        "朝鲜半岛",
+        "阿拉伯半岛"
+      ],
+      "answer": "阿拉伯半岛",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-30"
+    },
+    {
+      "id": "q7063b9fdc",
+      "q": "古代的死刑在什么季节行刑？",
+      "options": [
+        "夏季",
+        "春季",
+        "秋季"
+      ],
+      "answer": "秋季",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-30"
+    },
+    {
+      "id": "q6cc8686f7",
+      "q": "明朝的开国皇帝是？",
+      "options": [
+        "朱允炆",
+        "朱棣",
+        "朱元璋"
+      ],
+      "answer": "朱元璋",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-30"
+    },
+    {
+      "id": "qa3ac9ac62",
+      "q": "白雪公主被她继母害的其中一次是吃了什么水果？",
+      "options": [
+        "香蕉",
+        "橘子",
+        "苹果"
+      ],
+      "answer": "苹果",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-30"
     }
   ]
 }
