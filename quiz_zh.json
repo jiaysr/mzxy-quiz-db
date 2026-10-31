@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "questions": [
     {
       "id": "q608767df5",
@@ -157,10 +157,10 @@
       "answer": "青年",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q3c55f21b7",
@@ -1608,8 +1608,8 @@
       "answer": "紫色",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -2561,8 +2561,8 @@
       "answer": "父子关系",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2732,17 +2732,17 @@
       "id": "qd12a856e4",
       "q": "世界上最大的半岛是什么？",
       "options": [
-        "南沙群岛",
-        "马来群岛",
-        "夏威夷群岛"
+        "阿拉伯半岛",
+        "印度半岛",
+        "朝鲜半岛"
       ],
-      "answer": "马来群岛",
+      "answer": "阿拉伯半岛",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
-      "updated": "2026-10-13",
+      "updated": "2026-10-31",
       "conflict": true
     },
     {
@@ -3332,15 +3332,16 @@
         "5个",
         "2个"
       ],
-      "answer": "5个",
+      "answer": "3个",
       "verified": false,
       "wrong": [
-        "5个"
+        "5个",
+        "3个"
       ],
-      "hits": 4,
+      "hits": 5,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-30"
+      "updated": "2026-10-31"
     },
     {
       "id": "q433b40529",
@@ -3625,8 +3626,8 @@
       "answer": "每天洗一次",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -3731,13 +3732,14 @@
       "q": "轩辕中共有几大技能系?",
       "options": [
         "5",
+        "8",
         "10"
       ],
       "answer": "5",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3831,11 +3833,13 @@
       ],
       "answer": "免费有求必应罐",
       "verified": false,
-      "wrong": [],
-      "hits": 1,
+      "wrong": [
+        "免费有求必应罐"
+      ],
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-01"
+      "updated": "2026-10-31"
     },
     {
       "id": "q699d98e05",
@@ -4364,8 +4368,8 @@
       "answer": "猫王",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-18"
     },
@@ -4800,8 +4804,8 @@
       "answer": "埃及",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-06"
     },
@@ -5268,8 +5272,8 @@
       "answer": "苏美尔",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -6446,8 +6450,8 @@
       "answer": "仲谋",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-18"
     },
@@ -6622,8 +6626,8 @@
       "answer": "唐玄宗",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-20"
     },
@@ -7624,6 +7628,118 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-30"
+    },
+    {
+      "id": "qa4c1e0c49",
+      "q": "孔位升品需要什么？",
+      "options": [
+        "砺光石",
+        "冶炼石",
+        "幻灵石"
+      ],
+      "answer": "砺光石",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-31"
+    },
+    {
+      "id": "qca90034d1",
+      "q": "大小形状同样的两个球，一个是木制的，一个是铁制的，从楼上同时掉下，哪个先着地?",
+      "options": [
+        "同时着地",
+        "木球",
+        "铁球"
+      ],
+      "answer": "同时着地",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-31"
+    },
+    {
+      "id": "q2ad2c79a2",
+      "q": "西湖白堤是因纪念哪位诗人而得名？",
+      "options": [
+        "李白",
+        "白居易",
+        "白朗"
+      ],
+      "answer": "白居易",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-31"
+    },
+    {
+      "id": "qad7a5675e",
+      "q": "副扑克牌共有多少张?",
+      "options": [
+        "44",
+        "54",
+        "64"
+      ],
+      "answer": "54",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-31"
+    },
+    {
+      "id": "qafa3460b9",
+      "q": "海贼王》中路飞吃下的是什么恶魔果实？",
+      "options": [
+        "橡胶果实",
+        "鸟鸟果实",
+        "甜甜果实"
+      ],
+      "answer": "橡胶果实",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-31"
+    },
+    {
+      "id": "q2aa5c0296",
+      "q": "白马寺是佛教在中华大地上兴起的第几座佛教寺院?",
+      "options": [
+        "第100座",
+        "第5座",
+        "第1座"
+      ],
+      "answer": "第1座",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-31"
+    },
+    {
+      "id": "qaf62579ef",
+      "q": "动画钢之炼金术》的作者被称为?",
+      "options": [
+        "马婶",
+        "牛姨",
+        "羊姐"
+      ],
+      "answer": "牛姨",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-10-31"
     }
   ]
 }
