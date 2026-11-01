@@ -802,10 +802,10 @@
       "answer": "浮元子",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q5b74f1b3e",
@@ -972,10 +972,10 @@
       "wrong": [
         "风"
       ],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q4ab9d11b8",
@@ -988,10 +988,10 @@
       "answer": "苏格兰",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q06294e131",
@@ -1576,8 +1576,8 @@
       "answer": "李广",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -2187,8 +2187,8 @@
       "wrong": [
         "牧野"
       ],
-      "hits": 4,
-      "correct": 3,
+      "hits": 5,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2732,19 +2732,19 @@
       "id": "qd12a856e4",
       "q": "世界上最大的半岛是什么？",
       "options": [
-        "南沙群岛",
-        "马来群岛",
-        "夏威夷群岛"
+        "阿拉伯半岛",
+        "印度半岛",
+        "朝鲜半岛"
       ],
       "answer": "阿拉伯半岛",
       "verified": false,
       "wrong": [
         "阿拉伯半岛"
       ],
-      "hits": 4,
-      "correct": 0,
+      "hits": 5,
+      "correct": 3,
       "source": "llm",
-      "updated": "2026-10-31",
+      "updated": "2026-11-01",
       "conflict": true
     },
     {
@@ -3516,8 +3516,8 @@
       "answer": "3个",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -3628,8 +3628,8 @@
       "answer": "每天洗一次",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -3886,8 +3886,8 @@
       "answer": "三叉戟",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3936,8 +3936,8 @@
       "answer": "汉代",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4306,8 +4306,8 @@
       "answer": "太保",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-03"
     },
@@ -4970,8 +4970,8 @@
       "answer": "维苏威火山",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5402,8 +5402,8 @@
       "answer": "螃蟹",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-10"
     },
@@ -6112,8 +6112,8 @@
       "answer": "家门前有五株柳树",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-16"
     },
@@ -6317,13 +6317,15 @@
         "3个",
         "5个"
       ],
-      "answer": "1个",
-      "verified": false,
-      "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "answer": "3个",
+      "verified": true,
+      "wrong": [
+        "1个"
+      ],
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-10-17"
+      "updated": "2026-11-01"
     },
     {
       "id": "qddcef253e",
@@ -6500,8 +6502,8 @@
       "answer": "20点",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-19"
     },
@@ -6516,8 +6518,8 @@
       "answer": "马",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-19"
     },
@@ -6548,8 +6550,8 @@
       "answer": "四川",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-19"
     },
@@ -7706,8 +7708,8 @@
       "answer": "橡胶果实",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-31"
     },
@@ -7742,6 +7744,22 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-10-31"
+    },
+    {
+      "id": "qa0e48d197",
+      "q": "西游记里琵琶洞内要与唐僧结亲的女妖怪原形是什么？",
+      "options": [
+        "蝎子精",
+        "琵琶精",
+        "玉兔精"
+      ],
+      "answer": "蝎子精",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-01"
     }
   ]
 }
