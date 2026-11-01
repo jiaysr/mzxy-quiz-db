@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "questions": [
     {
       "id": "q608767df5",
@@ -2732,15 +2732,17 @@
       "id": "qd12a856e4",
       "q": "世界上最大的半岛是什么？",
       "options": [
-        "阿拉伯半岛",
-        "印度半岛",
-        "朝鲜半岛"
+        "南沙群岛",
+        "马来群岛",
+        "夏威夷群岛"
       ],
       "answer": "阿拉伯半岛",
-      "verified": true,
-      "wrong": [],
+      "verified": false,
+      "wrong": [
+        "阿拉伯半岛"
+      ],
       "hits": 4,
-      "correct": 4,
+      "correct": 0,
       "source": "llm",
       "updated": "2026-10-31",
       "conflict": true
