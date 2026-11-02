@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "questions": [
     {
       "id": "q608767df5",
@@ -1120,10 +1120,10 @@
       "answer": "张良",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q7dcf22102",
@@ -1224,10 +1224,10 @@
       "wrong": [
         "铜贝100"
       ],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qdc22de344",
@@ -1352,10 +1352,10 @@
       "answer": "英国",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q66bb87fe1",
@@ -1496,8 +1496,8 @@
       "answer": "楚国",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -2353,8 +2353,8 @@
       "answer": "赵匡胤",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2529,8 +2529,8 @@
       "answer": "宫崎骏",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2732,15 +2732,13 @@
       "id": "qd12a856e4",
       "q": "世界上最大的半岛是什么？",
       "options": [
-        "阿拉伯半岛",
-        "印度半岛",
-        "朝鲜半岛"
+        "南沙群岛",
+        "马来群岛",
+        "夏威夷群岛"
       ],
-      "answer": "阿拉伯半岛",
-      "verified": false,
-      "wrong": [
-        "阿拉伯半岛"
-      ],
+      "answer": "马来群岛",
+      "verified": true,
+      "wrong": [],
       "hits": 5,
       "correct": 3,
       "source": "llm",
@@ -3596,8 +3594,8 @@
       "answer": "穷奇",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 2,
+      "hits": 4,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3644,8 +3642,8 @@
       "answer": "苻坚",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -3740,8 +3738,8 @@
       "answer": "5",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3968,8 +3966,8 @@
       "answer": "蒸汽机",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4130,8 +4128,8 @@
       "wrong": [
         "菊花茶"
       ],
-      "hits": 4,
-      "correct": 3,
+      "hits": 5,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-24"
     },
@@ -5130,8 +5128,8 @@
       "answer": "共工",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-08"
     },
@@ -6534,8 +6532,8 @@
       "answer": "英国",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-19"
     },
@@ -7144,8 +7142,8 @@
       "answer": "通过贸易的形式流入中国",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-25"
     },
@@ -7760,6 +7758,104 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-01"
+    },
+    {
+      "id": "qfd6a86541",
+      "q": "以下哪种幻化形象是当前游戏里没有的？",
+      "options": [
+        "独角兽",
+        "孔雀",
+        "狐尾"
+      ],
+      "answer": "独角兽",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "qacab65158",
+      "q": "点化他人一次自己可以获得几点天地精华?",
+      "options": [
+        "3点",
+        "6点",
+        "9点"
+      ],
+      "answer": "6点",
+      "verified": false,
+      "wrong": [
+        "6点"
+      ],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "qbbb10486b",
+      "q": "\"山外青山楼外楼”在原诗 题临安邸》中的下句是?",
+      "options": [
+        "西湖歌舞几时休",
+        "烟花三月下扬州",
+        "唯见长江天际流"
+      ],
+      "answer": "西湖歌舞几时休",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "q972e01197",
+      "q": "孙悟空的法号是什么？",
+      "options": [
+        "悟空",
+        "悟能",
+        "悟饭"
+      ],
+      "answer": "悟空",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "q4d4f71c14",
+      "q": "司母戊鼎是什么朝代青铜器的代表作?",
+      "options": [
+        "商朝",
+        "春秋",
+        "周朝"
+      ],
+      "answer": "商朝",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "q240f45de8",
+      "q": "梦游天姥吟留别》中“使我不得开心颜”的上一句是？",
+      "options": [
+        "安能摧眉折腰事权贵",
+        "古来万事东流水",
+        "别君去兮何时还？"
+      ],
+      "answer": "安能摧眉折腰事权贵",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-02"
     }
   ]
 }
