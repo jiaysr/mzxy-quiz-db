@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "questions": [
     {
       "id": "q608767df5",
@@ -61,10 +61,10 @@
       "answer": "昆仑山",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "pending",
       "updated": "2026-09-18",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "qf43fab533",
@@ -2009,8 +2009,8 @@
       "answer": "祭天",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2497,8 +2497,8 @@
       "answer": "南瓜",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -4674,8 +4674,8 @@
       "answer": "神农",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -4804,8 +4804,8 @@
       "answer": "埃及",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-10-06"
     },
@@ -5288,8 +5288,8 @@
       "answer": "司马懿",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -5400,8 +5400,8 @@
       "answer": "螃蟹",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-10"
     },
@@ -5717,15 +5717,16 @@
         "霸王鱼",
         "陵鱼"
       ],
-      "answer": "赢鱼",
+      "answer": "陵鱼",
       "verified": false,
       "wrong": [
-        "赢鱼"
+        "赢鱼",
+        "陵鱼"
       ],
-      "hits": 3,
+      "hits": 4,
       "correct": 1,
       "source": "llm",
-      "updated": "2026-10-13"
+      "updated": "2026-11-03"
     },
     {
       "id": "q609a69d92",
@@ -5886,8 +5887,8 @@
       "wrong": [
         "坐骑可以"
       ],
-      "hits": 3,
-      "correct": 2,
+      "hits": 4,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-29"
     },
@@ -6062,8 +6063,8 @@
       "answer": "地月吸引力",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-16"
     },
@@ -6787,11 +6788,13 @@
       ],
       "answer": "死海",
       "verified": false,
-      "wrong": [],
-      "hits": 1,
+      "wrong": [
+        "死海"
+      ],
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-22"
+      "updated": "2026-11-03"
     },
     {
       "id": "q93da41cd1",
@@ -7820,8 +7823,8 @@
       "answer": "悟空",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-02"
     },
@@ -7856,6 +7859,136 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-02"
+    },
+    {
+      "id": "q8bf8fdc0f",
+      "q": "轩辕中哪种任务类型给的金钱最多",
+      "options": [
+        "史诗",
+        "主线",
+        "金钱"
+      ],
+      "answer": "金钱",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-11-03"
+    },
+    {
+      "id": "qd6b6c4c75",
+      "q": "2人角斗场对战获胜后获得几点技能经验？",
+      "options": [
+        "4点",
+        "5点",
+        "1点"
+      ],
+      "answer": "1点",
+      "verified": false,
+      "wrong": [
+        "1点"
+      ],
+      "hits": 1,
+      "correct": 0,
+      "source": "pending",
+      "updated": "2026-11-03"
+    },
+    {
+      "id": "qaecc9d0ee",
+      "q": "除夏威夷之外，哪个州也是美国本土以外的州？",
+      "options": [
+        "马达加斯加",
+        "阿拉斯加",
+        "新德里"
+      ],
+      "answer": "阿拉斯加",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-03"
+    },
+    {
+      "id": "qffb46bab4",
+      "q": "三个孩子吃三个饼要用3分钟，九十个孩子九十个饼要用多少时间?",
+      "options": [
+        "3分钟",
+        "9分钟",
+        "30分钟"
+      ],
+      "answer": "3分钟",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-03"
+    },
+    {
+      "id": "qf84d0d5bc",
+      "q": "烽火戏诸侯是为博哪位美女一笑?",
+      "options": [
+        "妲己",
+        "褒姒",
+        "虞姬"
+      ],
+      "answer": "褒姒",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-03"
+    },
+    {
+      "id": "q30d1de3ef",
+      "q": "三国中施行草船借箭之计的人是谁?",
+      "options": [
+        "诸葛亮",
+        "许褚",
+        "黄盖"
+      ],
+      "answer": "诸葛亮",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-03"
+    },
+    {
+      "id": "qc5f7fc201",
+      "q": "创立年号同时也是中国第一个使用年号的皇帝是谁?",
+      "options": [
+        "秦始皇",
+        "唐太宗",
+        "汉武帝"
+      ],
+      "answer": "汉武帝",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-03"
+    },
+    {
+      "id": "q9bca62eec",
+      "q": "教皇佩戴渔夫戒指的传统已经有多少年的历史?",
+      "options": [
+        "300年",
+        "800年",
+        "1200年"
+      ],
+      "answer": "800年",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-03"
     }
   ]
 }
