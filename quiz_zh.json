@@ -157,10 +157,10 @@
       "answer": "青年",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q3c55f21b7",
@@ -1017,15 +1017,15 @@
       "options": [
         "霜之哀伤",
         "毁灭之锤",
-        "灰使者"
+        "灰烬使者"
       ],
       "answer": "霜之哀伤",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qd18c286a8",
@@ -1272,10 +1272,10 @@
       "answer": "撒哈拉沙漠",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q1460b1ebd",
@@ -1336,10 +1336,10 @@
       "answer": "凯尔特",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q0e6a7ba5d",
@@ -3028,8 +3028,8 @@
       "answer": "爱丽斯漫游仙境",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3594,8 +3594,8 @@
       "answer": "穷奇",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 3,
+      "hits": 5,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3747,15 +3747,15 @@
       "id": "q9a7247aed",
       "q": "从你生下来到现在，是睁眼的次数多还是闭眼的次数多？",
       "options": [
-        "一样多",
+        "样多",
         "睁眼",
         "闭眼"
       ],
       "answer": "样多",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-30"
     },
@@ -4674,8 +4674,8 @@
       "answer": "神农",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -5025,15 +5025,15 @@
       "id": "q03e1dd032",
       "q": "80厘米的红螃蟹和30厘米的黑螃蟹赛跑，谁会赢？",
       "options": [
-        "一样快",
+        "样快",
         "红螃蟹",
         "黑螃蟹"
       ],
       "answer": "黑螃蟹",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5144,8 +5144,8 @@
       "answer": "加拿大",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-08"
     },
@@ -5368,8 +5368,8 @@
       "answer": "儒家",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-10"
     },
@@ -5553,7 +5553,7 @@
       "id": "qde3fa6b78",
       "q": "中秋节是合家团圆的节日，它是农历的几月几日呢？",
       "options": [
-        "九月初",
+        "九月初一",
         "八月十五",
         "正月十五"
       ],
@@ -5887,8 +5887,8 @@
       "wrong": [
         "坐骑可以"
       ],
-      "hits": 4,
-      "correct": 3,
+      "hits": 5,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-29"
     },
@@ -6079,8 +6079,8 @@
       "answer": "孙武",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-16"
     },
@@ -6597,8 +6597,8 @@
       "answer": "妖化蟹将附近",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-20"
     },
@@ -6741,8 +6741,8 @@
       "answer": "米开朗琪罗",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-21"
     },
@@ -6887,8 +6887,8 @@
       "answer": "李小明",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-23"
     },
@@ -7307,8 +7307,8 @@
       "answer": "无数个",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "pending",
       "updated": "2026-10-27"
     },
@@ -7807,8 +7807,8 @@
       "answer": "西湖歌舞几时休",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-02"
     },
@@ -8050,6 +8050,38 @@
         "危险"
       ],
       "answer": "颤栗",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-04"
+    },
+    {
+      "id": "qe0fc8287b",
+      "q": "沼泽里没有下面哪角色?",
+      "options": [
+        "牛六",
+        "牛五",
+        "牛四"
+      ],
+      "answer": "牛六",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-04"
+    },
+    {
+      "id": "q893b12f7c",
+      "q": "好莱坞位于美国什么州？",
+      "options": [
+        "内华达州",
+        "加利福尼亚州",
+        "佛罗里达州"
+      ],
+      "answer": "加利福尼亚州",
       "verified": true,
       "wrong": [],
       "hits": 1,
