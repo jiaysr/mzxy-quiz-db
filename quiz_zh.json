@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "questions": [
     {
       "id": "q608767df5",
@@ -141,10 +141,10 @@
       "answer": "文天祥",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "qa5649cfb3",
@@ -1256,10 +1256,10 @@
       "answer": "重阳节",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q9e0e742c7",
@@ -1336,10 +1336,10 @@
       "answer": "凯尔特",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q0e6a7ba5d",
@@ -1848,8 +1848,8 @@
       "answer": "哈姆雷特",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -3012,8 +3012,8 @@
       "answer": "格林童话",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3076,8 +3076,8 @@
       "answer": "破釜沉舟",
       "verified": true,
       "wrong": [],
-      "hits": 6,
-      "correct": 6,
+      "hits": 7,
+      "correct": 7,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -4110,8 +4110,8 @@
       "answer": "无数次",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -5000,8 +5000,8 @@
       "answer": "宇宙射线",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5553,15 +5553,15 @@
       "id": "qde3fa6b78",
       "q": "中秋节是合家团圆的节日，它是农历的几月几日呢？",
       "options": [
-        "九月初一",
+        "九月初",
         "八月十五",
         "正月十五"
       ],
       "answer": "八月十五",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-11"
     },
@@ -5640,8 +5640,8 @@
       "answer": "2000年",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-12"
     },
@@ -5717,11 +5717,11 @@
         "霸王鱼",
         "陵鱼"
       ],
-      "answer": "陵鱼",
+      "answer": "赢鱼",
       "verified": false,
       "wrong": [
-        "赢鱼",
-        "陵鱼"
+        "陵鱼",
+        "赢鱼"
       ],
       "hits": 4,
       "correct": 1,
@@ -6887,8 +6887,8 @@
       "answer": "李小明",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-23"
     },
@@ -7693,8 +7693,8 @@
       "answer": "54",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-31"
     },
@@ -7855,8 +7855,8 @@
       "answer": "安能摧眉折腰事权贵",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-02"
     },
@@ -7884,15 +7884,16 @@
         "5点",
         "1点"
       ],
-      "answer": "1点",
+      "answer": "5点",
       "verified": false,
       "wrong": [
-        "1点"
+        "1点",
+        "5点"
       ],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
-      "source": "pending",
-      "updated": "2026-11-03"
+      "source": "llm",
+      "updated": "2026-11-04"
     },
     {
       "id": "qaecc9d0ee",
@@ -7969,8 +7970,8 @@
       "answer": "汉武帝",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-03"
     },
@@ -7985,10 +7986,76 @@
       "answer": "800年",
       "verified": true,
       "wrong": [],
+      "hits": 2,
+      "correct": 2,
+      "source": "llm",
+      "updated": "2026-11-03"
+    },
+    {
+      "id": "q08fee80e6",
+      "q": "势力的税率最多可以为多少？",
+      "options": [
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answer": "20%",
+      "verified": false,
+      "wrong": [
+        "20%"
+      ],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-11-04"
+    },
+    {
+      "id": "q61b048e7a",
+      "q": "如果游戏中遇到突发问题、游戏漏洞该怎么办?",
+      "options": [
+        "及时联系客服",
+        "大声叫骂",
+        "祈祷"
+      ],
+      "answer": "及时联系客服",
+      "verified": true,
+      "wrong": [],
       "hits": 1,
       "correct": 1,
       "source": "llm",
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
+    },
+    {
+      "id": "q02de1f713",
+      "q": "牧野蚩尤统帅的马匹上的飘带是什么颜色的？",
+      "options": [
+        "红色",
+        "绿色",
+        "紫色"
+      ],
+      "answer": "绿色",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-11-04"
+    },
+    {
+      "id": "qd4d603140",
+      "q": "迈克尔杰克逊最热销的专辑是的哪个？",
+      "options": [
+        "颤栗",
+        "坏",
+        "危险"
+      ],
+      "answer": "颤栗",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-04"
     }
   ]
 }
