@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "questions": [
     {
       "id": "q608767df5",
@@ -447,11 +447,11 @@
       "wrong": [
         "房屋"
       ],
-      "hits": 5,
+      "hits": 6,
       "source": "llm",
       "updated": "2026-09-21",
       "conflict": true,
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q016d68233",
@@ -557,16 +557,14 @@
         "短尾信天翁",
         "黄嘴白鹭"
       ],
-      "answer": "牡丹",
-      "verified": false,
-      "wrong": [
-        "牡丹"
-      ],
-      "hits": 7,
+      "answer": "丹顶鹤",
+      "verified": true,
+      "wrong": [],
+      "hits": 8,
       "source": "llm",
-      "updated": "2026-10-17",
+      "updated": "2026-11-05",
       "conflict": true,
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q167cf8b2a",
@@ -852,10 +850,10 @@
       "answer": "浙江",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "qf9370c733",
@@ -900,10 +898,10 @@
       "answer": "西厢记",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q247e73f96",
@@ -1017,7 +1015,7 @@
       "options": [
         "霜之哀伤",
         "毁灭之锤",
-        "灰烬使者"
+        "灰使者"
       ],
       "answer": "霜之哀伤",
       "verified": true,
@@ -1336,10 +1334,10 @@
       "answer": "凯尔特",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q0e6a7ba5d",
@@ -1993,8 +1991,8 @@
       "answer": "体天石只能增加体力属性点",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2041,8 +2039,8 @@
       "answer": "长孙无忌",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2297,17 +2295,17 @@
       "id": "qcb53b482d",
       "q": "人称\"凤雏”的中国古代著名谋士是?",
       "options": [
-        "曹操",
         "诸葛亮",
-        "孙权"
+        "周瑜",
+        "庞统"
       ],
-      "answer": "诸葛亮",
+      "answer": "庞统",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 2,
+      "hits": 5,
+      "correct": 3,
       "source": "llm",
-      "updated": "2026-09-26",
+      "updated": "2026-11-05",
       "conflict": true
     },
     {
@@ -2916,8 +2914,8 @@
       "answer": "玄鹿",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3747,7 +3745,7 @@
       "id": "q9a7247aed",
       "q": "从你生下来到现在，是睁眼的次数多还是闭眼的次数多？",
       "options": [
-        "样多",
+        "一样多",
         "睁眼",
         "闭眼"
       ],
@@ -3934,8 +3932,8 @@
       "answer": "汉代",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4192,8 +4190,8 @@
       "answer": "虬髯客",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4304,8 +4302,8 @@
       "answer": "太保",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-03"
     },
@@ -4740,8 +4738,8 @@
       "answer": "丹婴",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-18"
     },
@@ -5025,7 +5023,7 @@
       "id": "q03e1dd032",
       "q": "80厘米的红螃蟹和30厘米的黑螃蟹赛跑，谁会赢？",
       "options": [
-        "样快",
+        "一样快",
         "红螃蟹",
         "黑螃蟹"
       ],
@@ -5336,8 +5334,8 @@
       "answer": "被乌龟砸死",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-10"
     },
@@ -5368,8 +5366,8 @@
       "answer": "儒家",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-10"
     },
@@ -7871,8 +7869,8 @@
       "answer": "金钱",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "pending",
       "updated": "2026-11-03"
     },
@@ -8088,6 +8086,70 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-04"
+    },
+    {
+      "id": "qa4481f495",
+      "q": "轩辕中能够同时放出几个金身参战?",
+      "options": [
+        "1个",
+        "5个",
+        "3个"
+      ],
+      "answer": "1个",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-11-05"
+    },
+    {
+      "id": "qf99d677e2",
+      "q": "世界上有一种东西不会变质，它是？",
+      "options": [
+        "爱情",
+        "蜂蜜",
+        "压缩饼干"
+      ],
+      "answer": "蜂蜜",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-05"
+    },
+    {
+      "id": "qfaa90e80b",
+      "q": "我国发现的最早的青花瓷标本是什么朝代的?",
+      "options": [
+        "元朝",
+        "唐朝",
+        "明朝"
+      ],
+      "answer": "唐朝",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-05"
+    },
+    {
+      "id": "q37f2a3b0f",
+      "q": "世界上最长的河流是什么？",
+      "options": [
+        "亚马逊河",
+        "尼罗河",
+        "长江"
+      ],
+      "answer": "尼罗河",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-05"
     }
   ]
 }
