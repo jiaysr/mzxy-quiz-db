@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "questions": [
     {
       "id": "q608767df5",
@@ -45,10 +45,10 @@
       "answer": "每日任务的完成度",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q0a777417c",
@@ -866,10 +866,10 @@
       "answer": "1099个",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "qc96a227f2",
@@ -882,10 +882,10 @@
       "answer": "杨贵妃和唐玄宗",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q9f620d43e",
@@ -1118,10 +1118,10 @@
       "answer": "张良",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q7dcf22102",
@@ -1606,8 +1606,8 @@
       "answer": "紫色",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -2023,8 +2023,8 @@
       "answer": "贾巴尔",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -3706,8 +3706,8 @@
       "answer": "海经",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -3754,8 +3754,8 @@
       "answer": "样多",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-30"
     },
@@ -4288,8 +4288,8 @@
       "answer": "双手",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-10-18"
     },
@@ -4530,8 +4530,8 @@
       "answer": "战国初期",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4562,8 +4562,8 @@
       "answer": "诛仙",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4626,8 +4626,8 @@
       "answer": "吴刚",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -5000,8 +5000,8 @@
       "answer": "宇宙射线",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5048,8 +5048,8 @@
       "answer": "两种弹奏手法",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5527,11 +5527,13 @@
       ],
       "answer": "春节",
       "verified": false,
-      "wrong": [],
-      "hits": 1,
+      "wrong": [
+        "春节"
+      ],
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-11"
+      "updated": "2026-11-07"
     },
     {
       "id": "qf75556a0c",
@@ -6722,13 +6724,15 @@
         "域外灵岛",
         "蓬莱仙岛"
       ],
-      "answer": "域外灵岛",
-      "verified": false,
-      "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "answer": "蓬莱仙岛",
+      "verified": true,
+      "wrong": [
+        "域外灵岛"
+      ],
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-10-21"
+      "updated": "2026-11-07"
     },
     {
       "id": "qc16a16b2e",
@@ -7502,8 +7506,8 @@
       "answer": "德国",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-29"
     },
@@ -8037,8 +8041,8 @@
       "answer": "绿色",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "pending",
       "updated": "2026-11-04"
     },
@@ -8101,8 +8105,8 @@
       "answer": "1个",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "pending",
       "updated": "2026-11-05"
     },
@@ -8217,6 +8221,22 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-06"
+    },
+    {
+      "id": "q8197324c1",
+      "q": "下面所列人物中，谁是清朝的皇帝？",
+      "options": [
+        "李隆基",
+        "皇太极",
+        "朱元璋"
+      ],
+      "answer": "皇太极",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-07"
     }
   ]
 }
