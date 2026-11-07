@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "questions": [
     {
       "id": "q608767df5",
@@ -13,10 +13,10 @@
       "answer": "星星越多属性加成越多",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q3f0d5018e",
@@ -1118,10 +1118,10 @@
       "answer": "张良",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q7dcf22102",
@@ -1301,10 +1301,12 @@
       ],
       "answer": "500铜贝",
       "verified": false,
-      "wrong": [],
-      "hits": 2,
+      "wrong": [
+        "500铜贝"
+      ],
+      "hits": 3,
       "source": "llm",
-      "updated": "2026-09-27",
+      "updated": "2026-11-08",
       "correct": 0
     },
     {
@@ -1590,8 +1592,8 @@
       "answer": "姬发",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -2151,8 +2153,8 @@
       "answer": "甲壳虫乐队",
       "verified": true,
       "wrong": [],
-      "hits": 5,
-      "correct": 5,
+      "hits": 6,
+      "correct": 6,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2299,13 +2301,11 @@
         "诸葛亮",
         "孙权"
       ],
-      "answer": "庞统",
-      "verified": false,
-      "wrong": [
-        "庞统"
-      ],
+      "answer": "诸葛亮",
+      "verified": true,
+      "wrong": [],
       "hits": 5,
-      "correct": 0,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-05",
       "conflict": true
@@ -2449,8 +2449,8 @@
       "answer": "中立地区",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2788,8 +2788,8 @@
       "answer": "SOS团",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3172,8 +3172,8 @@
       "answer": "精忠报国",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -4256,8 +4256,8 @@
       "answer": "好梦由来最易醒",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4336,8 +4336,8 @@
       "answer": "刘邦",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-03"
     },
@@ -4530,8 +4530,8 @@
       "answer": "战国初期",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -5144,8 +5144,8 @@
       "answer": "加拿大",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-08"
     },
@@ -5889,8 +5889,8 @@
       "wrong": [
         "坐骑可以"
       ],
-      "hits": 6,
-      "correct": 5,
+      "hits": 7,
+      "correct": 6,
       "source": "llm",
       "updated": "2026-10-29"
     },
@@ -6193,8 +6193,8 @@
       "answer": "虎",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-17"
     },
@@ -6859,8 +6859,8 @@
       "answer": "能够获得众多宝物",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-23"
     },
@@ -7343,8 +7343,8 @@
       "answer": "除夕",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-27"
     },
@@ -7812,8 +7812,8 @@
       "answer": "西湖歌舞几时休",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-11-02"
     },
@@ -8217,8 +8217,8 @@
       "answer": "奧斯特洛夫斯基",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-06"
     },
@@ -8237,6 +8237,38 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-07"
+    },
+    {
+      "id": "q629d37428",
+      "q": "\"春宵一刻值千金\"的下一句是什么？",
+      "options": [
+        "歌管楼台声细细",
+        "秋千院落夜沉沉",
+        "花有清香月有阴"
+      ],
+      "answer": "花有清香月有阴",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-08"
+    },
+    {
+      "id": "q6d4d3cbfc",
+      "q": "埃及最大的金字塔是哪个国王的陵墓？",
+      "options": [
+        "胡夫",
+        "图坦卡蒙",
+        "拉美西斯二世"
+      ],
+      "answer": "胡夫",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-08"
     }
   ]
 }
