@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "questions": [
     {
       "id": "q608767df5",
@@ -269,10 +269,10 @@
       "answer": "黑带",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q6e65d28d9",
@@ -1118,10 +1118,10 @@
       "answer": "张良",
       "verified": true,
       "wrong": [],
-      "hits": 5,
+      "hits": 6,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 4
+      "correct": 5
     },
     {
       "id": "q7dcf22102",
@@ -1672,8 +1672,8 @@
       "answer": "冶炼石",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 1,
+      "hits": 5,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -1800,8 +1800,8 @@
       "answer": "淡盐水",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -1977,8 +1977,8 @@
       "answer": "可以食用",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -2297,17 +2297,17 @@
       "id": "qcb53b482d",
       "q": "人称\"凤雏”的中国古代著名谋士是?",
       "options": [
-        "曹操",
         "诸葛亮",
-        "孙权"
+        "周瑜",
+        "庞统"
       ],
-      "answer": "诸葛亮",
+      "answer": "庞统",
       "verified": true,
       "wrong": [],
-      "hits": 5,
-      "correct": 2,
+      "hits": 6,
+      "correct": 3,
       "source": "llm",
-      "updated": "2026-11-05",
+      "updated": "2026-11-09",
       "conflict": true
     },
     {
@@ -2577,8 +2577,8 @@
       "answer": "鱼肠剑",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -3852,8 +3852,8 @@
       "answer": "天上",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3982,8 +3982,8 @@
       "answer": "谋反",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4288,8 +4288,8 @@
       "answer": "双手",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-18"
     },
@@ -4674,8 +4674,8 @@
       "answer": "神农",
       "verified": true,
       "wrong": [],
-      "hits": 5,
-      "correct": 5,
+      "hits": 6,
+      "correct": 6,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -5823,8 +5823,8 @@
       "answer": "杭州",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-13"
     },
@@ -6241,8 +6241,8 @@
       "answer": "育碧",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-17"
     },
@@ -6599,8 +6599,8 @@
       "answer": "妖化蟹将附近",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-20"
     },
@@ -6663,8 +6663,8 @@
       "answer": "大象",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-20"
     },
@@ -7490,8 +7490,8 @@
       "answer": "沙僧",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-29"
     },
@@ -7991,8 +7991,8 @@
       "answer": "800年",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-11-03"
     },
@@ -8169,8 +8169,8 @@
       "answer": "站着睡",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-06"
     },
@@ -8269,6 +8269,38 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-08"
+    },
+    {
+      "id": "q13b83bdd9",
+      "q": "印度这一译名是谁确定下来的？",
+      "options": [
+        "唐太宗",
+        "玄奘",
+        "长孙无忌"
+      ],
+      "answer": "玄奘",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-09"
+    },
+    {
+      "id": "qf605956a4",
+      "q": "角色在中皇山乘坐的鸟类是什么？",
+      "options": [
+        "始祖鸟",
+        "仙鹤",
+        "愤怒的小鸟儿"
+      ],
+      "answer": "仙鹤",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-09"
     }
   ]
 }
