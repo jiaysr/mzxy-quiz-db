@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "questions": [
     {
       "id": "q608767df5",
@@ -45,10 +45,10 @@
       "answer": "每日任务的完成度",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q0a777417c",
@@ -61,10 +61,10 @@
       "answer": "昆仑山",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "pending",
       "updated": "2026-09-18",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "qf43fab533",
@@ -496,10 +496,10 @@
       "answer": "福尔摩斯",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "qed215aebb",
@@ -577,10 +577,10 @@
       "answer": "南京-苏州",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q34b4b44cf",
@@ -1118,10 +1118,10 @@
       "answer": "张良",
       "verified": true,
       "wrong": [],
-      "hits": 6,
+      "hits": 7,
       "source": "llm",
       "updated": "2026-09-20",
-      "correct": 5
+      "correct": 6
     },
     {
       "id": "q7dcf22102",
@@ -1336,10 +1336,10 @@
       "answer": "凯尔特",
       "verified": true,
       "wrong": [],
-      "hits": 5,
+      "hits": 6,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 4
+      "correct": 5
     },
     {
       "id": "q0e6a7ba5d",
@@ -2297,15 +2297,17 @@
       "id": "qcb53b482d",
       "q": "人称\"凤雏”的中国古代著名谋士是?",
       "options": [
+        "曹操",
         "诸葛亮",
-        "周瑜",
-        "庞统"
+        "孙权"
       ],
       "answer": "庞统",
-      "verified": true,
-      "wrong": [],
+      "verified": false,
+      "wrong": [
+        "庞统"
+      ],
       "hits": 6,
-      "correct": 3,
+      "correct": 0,
       "source": "llm",
       "updated": "2026-11-09",
       "conflict": true
@@ -3770,8 +3772,8 @@
       "answer": "草鱼",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-30"
     },
@@ -4144,8 +4146,8 @@
       "answer": "爱与美之神",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4756,8 +4758,8 @@
       "answer": "体",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-06"
     },
@@ -5982,13 +5984,13 @@
         "苍蝇",
         "蜻蜓"
       ],
-      "answer": "",
-      "verified": false,
+      "answer": "蚊子",
+      "verified": true,
       "wrong": [],
-      "hits": 0,
-      "correct": 0,
-      "source": "pending",
-      "updated": "2026-10-15"
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-10"
     },
     {
       "id": "q1ca0b02c6",
@@ -6129,8 +6131,8 @@
       "answer": "加拿大",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-16"
     },
@@ -6790,15 +6792,15 @@
         "黑海",
         "爱琴海"
       ],
-      "answer": "死海",
-      "verified": false,
+      "answer": "黑海",
+      "verified": true,
       "wrong": [
         "死海"
       ],
-      "hits": 2,
-      "correct": 0,
+      "hits": 3,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-11-03"
+      "updated": "2026-11-10"
     },
     {
       "id": "q93da41cd1",
@@ -7468,16 +7470,16 @@
         "精卫",
         "水灵"
       ],
-      "answer": "水灵",
-      "verified": false,
+      "answer": "精卫",
+      "verified": true,
       "wrong": [
         "蚌仙儿",
         "水灵"
       ],
-      "hits": 2,
-      "correct": 0,
+      "hits": 3,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-11-06"
+      "updated": "2026-11-10"
     },
     {
       "id": "q9589e0498",
@@ -7586,8 +7588,8 @@
       "answer": "阿拉伯半岛",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-30"
     },
@@ -7698,8 +7700,8 @@
       "answer": "54",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-31"
     },
@@ -7889,16 +7891,16 @@
         "5点",
         "1点"
       ],
-      "answer": "5点",
-      "verified": false,
+      "answer": "4点",
+      "verified": true,
       "wrong": [
         "1点",
         "5点"
       ],
-      "hits": 2,
-      "correct": 0,
+      "hits": 3,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-11-04"
+      "updated": "2026-11-10"
     },
     {
       "id": "qaecc9d0ee",
@@ -8301,6 +8303,70 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-09"
+    },
+    {
+      "id": "qb359e4fa6",
+      "q": "世界上最深的湖是？",
+      "options": [
+        "青海湖",
+        "死海",
+        "贝加尔湖"
+      ],
+      "answer": "贝加尔湖",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-10"
+    },
+    {
+      "id": "q6461d5eb4",
+      "q": "除了汉族，还有哪个少数民族有划龙舟的习惯？",
+      "options": [
+        "苗族",
+        "傣族",
+        "纳西族"
+      ],
+      "answer": "苗族",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-10"
+    },
+    {
+      "id": "qd2ee6ecbe",
+      "q": "“身长九尺，髯长两尺，面如重枣，唇若涂脂:丹凤眼、卧蚕眉相貌堂堂，威风凛凛”说的是谁?",
+      "options": [
+        "关羽",
+        "吕布",
+        "刘备"
+      ],
+      "answer": "关羽",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-11-10"
+    },
+    {
+      "id": "q8310e56b2",
+      "q": "刘备字什么？",
+      "options": [
+        "玄德",
+        "孟德",
+        "翼德"
+      ],
+      "answer": "玄德",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-10"
     }
   ]
 }
