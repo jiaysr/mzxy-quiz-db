@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "questions": [
     {
       "id": "q608767df5",
@@ -882,10 +882,10 @@
       "answer": "杨贵妃和唐玄宗",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q9f620d43e",
@@ -1736,8 +1736,8 @@
       "answer": "少室山",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2301,13 +2301,11 @@
         "诸葛亮",
         "孙权"
       ],
-      "answer": "庞统",
-      "verified": false,
-      "wrong": [
-        "庞统"
-      ],
+      "answer": "诸葛亮",
+      "verified": true,
+      "wrong": [],
       "hits": 6,
-      "correct": 0,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-09",
       "conflict": true
@@ -3046,8 +3044,8 @@
       "answer": "宋美龄",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3295,19 +3293,19 @@
       "id": "q7b5fce6bd",
       "q": "八大行星中最靠近太阳的行星是什么？",
       "options": [
+        "水星",
         "金星",
-        "火星",
         "土星"
       ],
-      "answer": "金星",
-      "verified": false,
+      "answer": "水星",
+      "verified": true,
       "wrong": [
         "金星"
       ],
-      "hits": 3,
-      "correct": 2,
+      "hits": 4,
+      "correct": 3,
       "source": "llm",
-      "updated": "2026-09-27",
+      "updated": "2026-11-11",
       "conflict": true
     },
     {
@@ -3436,8 +3434,8 @@
       "answer": "服用经络丹",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 0,
+      "hits": 2,
+      "correct": 1,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3548,8 +3546,8 @@
       "answer": "凰",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -3596,8 +3594,8 @@
       "answer": "穷奇",
       "verified": true,
       "wrong": [],
-      "hits": 5,
-      "correct": 4,
+      "hits": 6,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -5018,8 +5016,8 @@
       "answer": "纵横家",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -6505,8 +6503,8 @@
       "answer": "20点",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-19"
     },
@@ -6633,8 +6631,8 @@
       "answer": "唐玄宗",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-20"
     },
@@ -7361,8 +7359,8 @@
       "answer": "天堂",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-27"
     },
@@ -7540,8 +7538,8 @@
       "answer": "浮游生物",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-29"
     },
@@ -8107,8 +8105,8 @@
       "answer": "1个",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "pending",
       "updated": "2026-11-05"
     },
@@ -8203,8 +8201,8 @@
       "answer": "乌江",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-06"
     },
@@ -8367,6 +8365,102 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-10"
+    },
+    {
+      "id": "q6dbd3a754",
+      "q": "下面轩辕三大势力首领中不正确的是？",
+      "options": [
+        "罗毅",
+        "吕绝",
+        "薄猎"
+      ],
+      "answer": "薄猎",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-11-11"
+    },
+    {
+      "id": "q1e2d4b6cd",
+      "q": "“疾羽”技能系要拿哪种武器才能发挥最大的威力？",
+      "options": [
+        "平底锅",
+        "弓",
+        "机关枪"
+      ],
+      "answer": "弓",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-11"
+    },
+    {
+      "id": "q344e11a1d",
+      "q": "斗牛士用红布斗牛,牛冲过来是由于？",
+      "options": [
+        "红色的布会刺激牛",
+        "布的抖动使牛兴奋",
+        "斗牛士长得很难看"
+      ],
+      "answer": "布的抖动使牛兴奋",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-11"
+    },
+    {
+      "id": "q7b24dd891",
+      "q": "手枪与狙击枪哪个射出去的子弹打得远?",
+      "options": [
+        "狙击枪",
+        "手枪",
+        "样远"
+      ],
+      "answer": "狙击枪",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-11"
+    },
+    {
+      "id": "q7b002528b",
+      "q": "世界上石油储量最多的国家?",
+      "options": [
+        "沙特阿拉伯",
+        "伊拉克",
+        "科威特"
+      ],
+      "answer": "沙特阿拉伯",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-11"
+    },
+    {
+      "id": "q11c0c88b2",
+      "q": "证明出1+1=2，在哥德巴赫猜想研究上打下里程碑的著名中国数学家是谁?",
+      "options": [
+        "陈省身",
+        "华罗庚",
+        "陈景润"
+      ],
+      "answer": "陈景润",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-11"
     }
   ]
 }
