@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "questions": [
     {
       "id": "q608767df5",
@@ -221,10 +221,10 @@
       "answer": "普罗米修斯",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q1bffd1b32",
@@ -523,15 +523,15 @@
       "options": [
         "老人与海",
         "战争与和平",
-        "永别了武器"
+        "永别了,武器"
       ],
       "answer": "老人与海",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qf8b05e25b",
@@ -1368,10 +1368,10 @@
       "answer": "雅典",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "qce9603144",
@@ -1432,10 +1432,10 @@
       "answer": "爱因斯坦",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-10-25",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "qd945bd25b",
@@ -2433,8 +2433,8 @@
       "answer": "野外捕捉",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -3293,17 +3293,18 @@
       "id": "q7b5fce6bd",
       "q": "八大行星中最靠近太阳的行星是什么？",
       "options": [
-        "水星",
         "金星",
+        "火星",
         "土星"
       ],
       "answer": "水星",
-      "verified": true,
+      "verified": false,
       "wrong": [
-        "金星"
+        "金星",
+        "水星"
       ],
       "hits": 4,
-      "correct": 3,
+      "correct": 0,
       "source": "llm",
       "updated": "2026-11-11",
       "conflict": true
@@ -3386,8 +3387,8 @@
       "answer": "距离杆顶1/3处",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -3594,8 +3595,8 @@
       "answer": "穷奇",
       "verified": true,
       "wrong": [],
-      "hits": 6,
-      "correct": 5,
+      "hits": 7,
+      "correct": 6,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4094,8 +4095,8 @@
       "answer": "前十名",
       "verified": true,
       "wrong": [],
-      "hits": 5,
-      "correct": 5,
+      "hits": 6,
+      "correct": 6,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4514,8 +4515,8 @@
       "answer": "转凉",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -4936,8 +4937,8 @@
       "answer": "罗马的梵蒂冈",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5176,8 +5177,8 @@
       "answer": "伏羲",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -5790,11 +5791,13 @@
       ],
       "answer": "广州电视塔",
       "verified": false,
-      "wrong": [],
-      "hits": 1,
+      "wrong": [
+        "广州电视塔"
+      ],
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-13"
+      "updated": "2026-11-12"
     },
     {
       "id": "q4d9a5c5f1",
@@ -6761,8 +6764,8 @@
       "answer": "1个",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-21"
     },
@@ -7181,8 +7184,8 @@
       "answer": "汉武帝",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-25"
     },
@@ -7423,8 +7426,8 @@
       "answer": "敌人",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "pending",
       "updated": "2026-10-28"
     },
@@ -8461,6 +8464,88 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-11"
+    },
+    {
+      "id": "qab7955496",
+      "q": "不周山一共多少层?",
+      "options": [
+        "110层",
+        "120层",
+        "100层"
+      ],
+      "answer": "120层",
+      "verified": false,
+      "wrong": [
+        "120层"
+      ],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-11-12"
+    },
+    {
+      "id": "qe2d9cfcaf",
+      "q": "诺贝尔奖的颁奖日是固定的吗？",
+      "options": [
+        "是",
+        "不是",
+        "节假日提前"
+      ],
+      "answer": "是",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-12"
+    },
+    {
+      "id": "q8715ef1a0",
+      "q": "\"藕”是莲的",
+      "options": [
+        "果实",
+        "根",
+        "茎"
+      ],
+      "answer": "茎",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-12"
+    },
+    {
+      "id": "q259b5a67a",
+      "q": "下面的女子中谁是古代四大美人之一？",
+      "options": [
+        "晴川",
+        "若曦",
+        "西施"
+      ],
+      "answer": "西施",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-12"
+    },
+    {
+      "id": "qa841eb98d",
+      "q": "诸葛亮的字是什么？",
+      "options": [
+        "卧龙",
+        "孔明",
+        "公瑾"
+      ],
+      "answer": "孔明",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-12"
     }
   ]
 }
