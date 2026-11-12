@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "questions": [
     {
       "id": "q608767df5",
@@ -189,10 +189,10 @@
       "answer": "马其顿",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "qcc0d59302",
@@ -882,10 +882,10 @@
       "answer": "杨贵妃和唐玄宗",
       "verified": true,
       "wrong": [],
-      "hits": 5,
+      "hits": 6,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 4
+      "correct": 5
     },
     {
       "id": "q9f620d43e",
@@ -1299,15 +1299,15 @@
         "350铜贝",
         "100铜贝"
       ],
-      "answer": "500铜贝",
+      "answer": "350铜贝",
       "verified": false,
       "wrong": [
         "500铜贝"
       ],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-11-08",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q11ba1529d",
@@ -2256,8 +2256,8 @@
       "answer": "关汉卿",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2449,8 +2449,8 @@
       "answer": "中立地区",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2884,8 +2884,8 @@
       "answer": "76年",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2948,8 +2948,8 @@
       "answer": "灵气",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3371,8 +3371,8 @@
       "answer": "元谋人",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-27"
     },
@@ -3595,8 +3595,8 @@
       "answer": "穷奇",
       "verified": true,
       "wrong": [],
-      "hits": 7,
-      "correct": 6,
+      "hits": 8,
+      "correct": 7,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3690,11 +3690,13 @@
       ],
       "answer": "尾部",
       "verified": false,
-      "wrong": [],
-      "hits": 3,
+      "wrong": [
+        "尾部"
+      ],
+      "hits": 4,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-21"
+      "updated": "2026-11-13"
     },
     {
       "id": "q003f9b7c3",
@@ -4161,8 +4163,8 @@
       "answer": "木头",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -5449,8 +5451,8 @@
       "answer": "前苏联",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-11"
     },
@@ -5760,8 +5762,8 @@
       "answer": "月亮",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-13"
     },
@@ -6426,8 +6428,8 @@
       "wrong": [
         "无数个"
       ],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-19"
     },
@@ -7136,8 +7138,8 @@
       "answer": "大刀",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "pending",
       "updated": "2026-10-25"
     },
@@ -7362,8 +7364,8 @@
       "answer": "天堂",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-27"
     },
@@ -7426,8 +7428,8 @@
       "answer": "敌人",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "pending",
       "updated": "2026-10-28"
     },
@@ -7669,8 +7671,8 @@
       "answer": "同时着地",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-31"
     },
@@ -8092,8 +8094,8 @@
       "answer": "加利福尼亚州",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-04"
     },
@@ -8252,8 +8254,8 @@
       "answer": "花有清香月有阴",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-08"
     },
