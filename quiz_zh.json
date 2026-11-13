@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "questions": [
     {
       "id": "q608767df5",
@@ -523,7 +523,7 @@
       "options": [
         "老人与海",
         "战争与和平",
-        "永别了,武器"
+        "永别了武器"
       ],
       "answer": "老人与海",
       "verified": true,
@@ -544,10 +544,10 @@
       "answer": "中国",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q5d2206479",
@@ -560,11 +560,11 @@
       "answer": "丹顶鹤",
       "verified": true,
       "wrong": [],
-      "hits": 8,
+      "hits": 9,
       "source": "llm",
       "updated": "2026-11-05",
       "conflict": true,
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q167cf8b2a",
@@ -1204,10 +1204,10 @@
       "wrong": [
         "火星"
       ],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "q577713386",
@@ -1416,10 +1416,10 @@
       "answer": "令堂",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q01f94a1f3",
@@ -1927,8 +1927,8 @@
       "answer": "聊斋先生",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2433,8 +2433,8 @@
       "answer": "野外捕捉",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -3297,14 +3297,14 @@
         "火星",
         "土星"
       ],
-      "answer": "水星",
+      "answer": "金星",
       "verified": false,
       "wrong": [
         "金星",
         "水星"
       ],
       "hits": 4,
-      "correct": 0,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-11",
       "conflict": true
@@ -3627,8 +3627,8 @@
       "answer": "每天洗一次",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -4044,13 +4044,13 @@
       "options": [
         "李小龙",
         "成龙",
-        "李连傑"
+        "李连杰"
       ],
       "answer": "李小龙",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4807,8 +4807,8 @@
       "answer": "埃及",
       "verified": true,
       "wrong": [],
-      "hits": 5,
-      "correct": 5,
+      "hits": 6,
+      "correct": 6,
       "source": "llm",
       "updated": "2026-10-06"
     },
@@ -5778,8 +5778,8 @@
       "answer": "中国",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-13"
     },
@@ -5894,8 +5894,8 @@
       "wrong": [
         "坐骑可以"
       ],
-      "hits": 7,
-      "correct": 6,
+      "hits": 8,
+      "correct": 7,
       "source": "llm",
       "updated": "2026-10-29"
     },
@@ -6019,13 +6019,13 @@
         "图们江",
         "鸭绿江"
       ],
-      "answer": "",
-      "verified": false,
+      "answer": "鸭绿江",
+      "verified": true,
       "wrong": [],
-      "hits": 0,
-      "correct": 0,
-      "source": "pending",
-      "updated": "2026-10-15"
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-14"
     },
     {
       "id": "qcceb61417",
@@ -6344,8 +6344,8 @@
       "answer": "渡劫",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-18"
     },
@@ -7122,8 +7122,8 @@
       "answer": "曹操",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-24"
     },
@@ -8462,8 +8462,8 @@
       "answer": "陈景润",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-11"
     },
@@ -8548,6 +8548,88 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-12"
+    },
+    {
+      "id": "q76fb73cc3",
+      "q": "人造金刚石以什么为原料制造的？",
+      "options": [
+        "碳",
+        "玻璃",
+        "石墨"
+      ],
+      "answer": "石墨",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-14"
+    },
+    {
+      "id": "qb68707e32",
+      "q": "不幸发生灾难时，飞机坠落在海里和坠落在地方相比，哪个伤害更严重?",
+      "options": [
+        "海中",
+        "地面",
+        "一样"
+      ],
+      "answer": "海中",
+      "verified": false,
+      "wrong": [
+        "海中"
+      ],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-11-14"
+    },
+    {
+      "id": "qfbc6b290e",
+      "q": "历史上第一个获得两次诺贝尔奖的人是谁?",
+      "options": [
+        "居里夫人",
+        "爱因斯坦",
+        "霍金"
+      ],
+      "answer": "居里夫人",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-14"
+    },
+    {
+      "id": "q4216a2b09",
+      "q": "奥林匹克运动会是因何而得名？",
+      "options": [
+        "人名",
+        "地名",
+        "运动名称"
+      ],
+      "answer": "地名",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-14"
+    },
+    {
+      "id": "q979df018f",
+      "q": "诗经编成于什么时候？",
+      "options": [
+        "战国",
+        "春秋",
+        "秦代"
+      ],
+      "answer": "春秋",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-14"
     }
   ]
 }
