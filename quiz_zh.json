@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "questions": [
     {
       "id": "q608767df5",
@@ -523,15 +523,15 @@
       "options": [
         "老人与海",
         "战争与和平",
-        "永别了武器"
+        "永别了,武器"
       ],
       "answer": "老人与海",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "qf8b05e25b",
@@ -1352,10 +1352,10 @@
       "answer": "英国",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q66bb87fe1",
@@ -1544,8 +1544,8 @@
       "answer": "商业用语",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -3172,8 +3172,8 @@
       "answer": "精忠报国",
       "verified": true,
       "wrong": [],
-      "hits": 5,
-      "correct": 5,
+      "hits": 6,
+      "correct": 6,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3435,8 +3435,8 @@
       "answer": "服用经络丹",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3595,8 +3595,8 @@
       "answer": "穷奇",
       "verified": true,
       "wrong": [],
-      "hits": 8,
-      "correct": 7,
+      "hits": 9,
+      "correct": 8,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3773,8 +3773,8 @@
       "answer": "草鱼",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-30"
     },
@@ -3921,8 +3921,8 @@
       "wrong": [
         "神经毒素"
       ],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-26"
     },
@@ -3985,8 +3985,8 @@
       "answer": "谋反",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4113,8 +4113,8 @@
       "answer": "无数次",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -5291,8 +5291,8 @@
       "answer": "司马懿",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -5493,14 +5493,14 @@
       "q": "把苹果皮削下来，不要弄断苹果皮，把这一条苹果皮顺其自然地放在桌面上，是什么形状？",
       "options": [
         "S型",
-        "0型",
+        "O型",
         "型"
       ],
       "answer": "S型",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-11"
     },
@@ -5580,11 +5580,13 @@
       ],
       "answer": "10级",
       "verified": false,
-      "wrong": [],
-      "hits": 1,
+      "wrong": [
+        "10级"
+      ],
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-12"
+      "updated": "2026-11-15"
     },
     {
       "id": "qc892dfd21",
@@ -5990,8 +5992,8 @@
       "answer": "蚊子",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-10"
     },
@@ -7236,8 +7238,8 @@
       "answer": "宋徽宗",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-26"
     },
@@ -8110,8 +8112,8 @@
       "answer": "1个",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "pending",
       "updated": "2026-11-05"
     },
@@ -8238,8 +8240,8 @@
       "answer": "皇太极",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-07"
     },
@@ -8610,8 +8612,8 @@
       "answer": "地名",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-14"
     },
@@ -8630,6 +8632,38 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-14"
+    },
+    {
+      "id": "qd34f40cc7",
+      "q": "在轩辕中3级宝石合成4级宝石需要？",
+      "options": [
+        "五彩泥",
+        "铜贝",
+        "补天石"
+      ],
+      "answer": "五彩泥",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-11-15"
+    },
+    {
+      "id": "q7620e491f",
+      "q": "中国古代科举考试中，殿试的第一名叫什么？",
+      "options": [
+        "探花",
+        "状元",
+        "榜眼"
+      ],
+      "answer": "状元",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-15"
     }
   ]
 }
