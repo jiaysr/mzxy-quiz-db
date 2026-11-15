@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "questions": [
     {
       "id": "q608767df5",
@@ -413,10 +413,10 @@
       "answer": "青绿色的",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q734b847da",
@@ -464,10 +464,10 @@
       "answer": "爱因斯坦",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q95fb3df0f",
@@ -523,7 +523,7 @@
       "options": [
         "老人与海",
         "战争与和平",
-        "永别了,武器"
+        "永别了武器"
       ],
       "answer": "老人与海",
       "verified": true,
@@ -737,10 +737,10 @@
       "answer": "天池",
       "verified": true,
       "wrong": [],
-      "hits": 1,
+      "hits": 2,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 0
+      "correct": 1
     },
     {
       "id": "qee4902d4f",
@@ -1464,8 +1464,8 @@
       "answer": "火焰",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -1496,8 +1496,8 @@
       "answer": "楚国",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -1736,8 +1736,8 @@
       "answer": "少室山",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -1993,8 +1993,8 @@
       "answer": "体天石只能增加体力属性点",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -4044,7 +4044,7 @@
       "options": [
         "李小龙",
         "成龙",
-        "李连杰"
+        "李连傑"
       ],
       "answer": "李小龙",
       "verified": true,
@@ -4097,8 +4097,8 @@
       "answer": "前十名",
       "verified": true,
       "wrong": [],
-      "hits": 6,
-      "correct": 6,
+      "hits": 7,
+      "correct": 7,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -5291,8 +5291,8 @@
       "answer": "司马懿",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -5493,7 +5493,7 @@
       "q": "把苹果皮削下来，不要弄断苹果皮，把这一条苹果皮顺其自然地放在桌面上，是什么形状？",
       "options": [
         "S型",
-        "O型",
+        "0型",
         "型"
       ],
       "answer": "S型",
@@ -5793,15 +5793,15 @@
         "上海东方明珠塔",
         "广州电视塔"
       ],
-      "answer": "广州电视塔",
-      "verified": false,
+      "answer": "上海东方明珠塔",
+      "verified": true,
       "wrong": [
         "广州电视塔"
       ],
-      "hits": 2,
-      "correct": 0,
+      "hits": 3,
+      "correct": 1,
       "source": "llm",
-      "updated": "2026-11-12"
+      "updated": "2026-11-16"
     },
     {
       "id": "q4d9a5c5f1",
@@ -6152,8 +6152,8 @@
       "answer": "碘",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-16"
     },
@@ -6184,8 +6184,8 @@
       "answer": "沙王和幽怪",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-17"
     },
@@ -6526,8 +6526,8 @@
       "answer": "马",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-19"
     },
@@ -6638,8 +6638,8 @@
       "answer": "唐玄宗",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-20"
     },
@@ -7446,8 +7446,8 @@
       "answer": "金星",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-28"
     },
@@ -7673,8 +7673,8 @@
       "answer": "同时着地",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-31"
     },
@@ -7883,8 +7883,8 @@
       "answer": "金钱",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "pending",
       "updated": "2026-11-03"
     },
@@ -8208,8 +8208,8 @@
       "answer": "乌江",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-11-06"
     },
@@ -8660,10 +8660,26 @@
       "answer": "状元",
       "verified": true,
       "wrong": [],
+      "hits": 2,
+      "correct": 2,
+      "source": "llm",
+      "updated": "2026-11-15"
+    },
+    {
+      "id": "qf1a0b20e8",
+      "q": "“从此萧郎是路人”的上一句是？",
+      "options": [
+        "公子王孙逐后尘",
+        "一入侯门深似海",
+        "天长地久有时尽"
+      ],
+      "answer": "一入侯门深似海",
+      "verified": true,
+      "wrong": [],
       "hits": 1,
       "correct": 1,
       "source": "llm",
-      "updated": "2026-11-15"
+      "updated": "2026-11-16"
     }
   ]
 }
