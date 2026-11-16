@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "questions": [
     {
       "id": "q608767df5",
@@ -447,11 +447,11 @@
       "wrong": [
         "房屋"
       ],
-      "hits": 6,
+      "hits": 7,
       "source": "llm",
       "updated": "2026-09-21",
       "conflict": true,
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q016d68233",
@@ -898,10 +898,10 @@
       "answer": "西厢记",
       "verified": true,
       "wrong": [],
-      "hits": 5,
+      "hits": 6,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 4
+      "correct": 5
     },
     {
       "id": "q247e73f96",
@@ -1222,10 +1222,10 @@
       "wrong": [
         "铜贝100"
       ],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "qdc22de344",
@@ -1336,10 +1336,10 @@
       "answer": "凯尔特",
       "verified": true,
       "wrong": [],
-      "hits": 6,
+      "hits": 7,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 5
+      "correct": 6
     },
     {
       "id": "q0e6a7ba5d",
@@ -2449,8 +2449,8 @@
       "answer": "中立地区",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2964,8 +2964,8 @@
       "answer": "保护机制永远有效",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3137,11 +3137,11 @@
         "增加形象的美观度,还能增加移动速度",
         "看的更远"
       ],
-      "answer": "增加形象的美观度，还能增加移动速度",
+      "answer": "增加形象的美观度,还能增加移动速度",
       "verified": true,
       "wrong": [],
-      "hits": 5,
-      "correct": 5,
+      "hits": 6,
+      "correct": 6,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3204,8 +3204,8 @@
       "answer": "碘酒",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3709,8 +3709,8 @@
       "answer": "海经",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -4097,8 +4097,8 @@
       "answer": "前十名",
       "verified": true,
       "wrong": [],
-      "hits": 7,
-      "correct": 7,
+      "hits": 8,
+      "correct": 8,
       "source": "llm",
       "updated": "2026-10-02"
     },
@@ -4485,8 +4485,8 @@
       "answer": "第三子",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-10-04"
     },
@@ -5259,8 +5259,8 @@
       "answer": "蒙古族",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -5631,8 +5631,8 @@
       "answer": "11月1日",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-12"
     },
@@ -5647,8 +5647,8 @@
       "answer": "2000年",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-12"
     },
@@ -5695,8 +5695,8 @@
       "answer": "康熙",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-12"
     },
@@ -7851,8 +7851,8 @@
       "answer": "商朝",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-02"
     },
@@ -8464,8 +8464,8 @@
       "answer": "陈景润",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-11-11"
     },
@@ -8680,6 +8680,54 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-16"
+    },
+    {
+      "id": "q44d6ed12a",
+      "q": "全世界被翻唱次数最多歌曲是！？",
+      "options": [
+        "Yesterday",
+        "lastchristmas》",
+        "志忑"
+      ],
+      "answer": "Yesterday",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-17"
+    },
+    {
+      "id": "q3087e5b32",
+      "q": "苏辙在文学上最擅长写什么？",
+      "options": [
+        "散文",
+        "宋词",
+        "诗"
+      ],
+      "answer": "散文",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-17"
+    },
+    {
+      "id": "q1a84558cd",
+      "q": "伟大的音乐家贝多芬患了什么疾病之后依然坚持创作?",
+      "options": [
+        "心脏病",
+        "耳聋",
+        "帕金森综合症"
+      ],
+      "answer": "耳聋",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "pending",
+      "updated": "2026-11-17"
     }
   ]
 }
