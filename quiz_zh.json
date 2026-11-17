@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "questions": [
     {
       "id": "q608767df5",
@@ -189,10 +189,10 @@
       "answer": "马其顿",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "qcc0d59302",
@@ -850,10 +850,10 @@
       "answer": "浙江",
       "verified": true,
       "wrong": [],
-      "hits": 5,
+      "hits": 6,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 4
+      "correct": 5
     },
     {
       "id": "qf9370c733",
@@ -1204,10 +1204,10 @@
       "wrong": [
         "火星"
       ],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q577713386",
@@ -1426,16 +1426,16 @@
       "q": "相对论主要由哪位科学家创立？",
       "options": [
         "爱因斯坦",
-        "华盛顿",
-        "爱迪生"
+        "爱迪生",
+        "相对"
       ],
       "answer": "爱因斯坦",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
-      "updated": "2026-10-25",
-      "correct": 3
+      "updated": "2026-11-18",
+      "correct": 4
     },
     {
       "id": "qd945bd25b",
@@ -1784,8 +1784,8 @@
       "answer": "古代海底火山爆发而成",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -1848,8 +1848,8 @@
       "answer": "哈姆雷特",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2153,8 +2153,8 @@
       "answer": "甲壳虫乐队",
       "verified": true,
       "wrong": [],
-      "hits": 6,
-      "correct": 6,
+      "hits": 7,
+      "correct": 7,
       "source": "llm",
       "updated": "2026-09-23"
     },
@@ -3124,8 +3124,8 @@
       "answer": "将拥有特殊的帝王效果",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3137,7 +3137,7 @@
         "增加形象的美观度,还能增加移动速度",
         "看的更远"
       ],
-      "answer": "增加形象的美观度,还能增加移动速度",
+      "answer": "增加形象的美观度，还能增加移动速度",
       "verified": true,
       "wrong": [],
       "hits": 6,
@@ -3204,8 +3204,8 @@
       "answer": "碘酒",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3467,8 +3467,8 @@
       "answer": "4根",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -4421,8 +4421,8 @@
       "answer": "扁鹊",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-03"
     },
@@ -6120,8 +6120,8 @@
       "answer": "家门前有五株柳树",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-16"
     },
@@ -6248,8 +6248,8 @@
       "answer": "育碧",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-17"
     },
@@ -6975,15 +6975,16 @@
         "2个",
         "6个"
       ],
-      "answer": "6个",
+      "answer": "3个",
       "verified": false,
       "wrong": [
-        "6个"
+        "6个",
+        "3个"
       ],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-24"
+      "updated": "2026-11-18"
     },
     {
       "id": "q2ad86d4a7",
@@ -7529,8 +7530,8 @@
       "answer": "曼珠沙华",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-29"
     },
@@ -8160,8 +8161,8 @@
       "answer": "尼罗河",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-05"
     },
@@ -8448,8 +8449,8 @@
       "answer": "沙特阿拉伯",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-11"
     },
@@ -8724,10 +8725,44 @@
       "answer": "耳聋",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "pending",
       "updated": "2026-11-17"
+    },
+    {
+      "id": "q2644cb9d3",
+      "q": "在商城能直接买到最高几级的宝石？",
+      "options": [
+        "7级",
+        "6级",
+        "5级"
+      ],
+      "answer": "7级",
+      "verified": false,
+      "wrong": [
+        "7级"
+      ],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "q37932ccf8",
+      "q": "龙井虾仁是我国哪个地方的名菜？",
+      "options": [
+        "杭州",
+        "北京",
+        "苏州"
+      ],
+      "answer": "杭州",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-18"
     }
   ]
 }
