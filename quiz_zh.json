@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "questions": [
     {
       "id": "q608767df5",
@@ -1272,10 +1272,10 @@
       "answer": "撒哈拉沙漠",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q1460b1ebd",
@@ -1428,8 +1428,8 @@
       "q": "相对论主要由哪位科学家创立？",
       "options": [
         "爱因斯坦",
-        "爱迪生",
-        "相对"
+        "华盛顿",
+        "爱迪生"
       ],
       "answer": "爱因斯坦",
       "verified": true,
@@ -1642,8 +1642,8 @@
       "answer": "牙床",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -1786,8 +1786,8 @@
       "answer": "古代海底火山爆发而成",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -1802,8 +1802,8 @@
       "answer": "淡盐水",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2205,8 +2205,8 @@
       "answer": "查看对手列表",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2627,8 +2627,8 @@
       "answer": "正月十五",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-25"
     },
@@ -2734,15 +2734,17 @@
       "id": "qd12a856e4",
       "q": "世界上最大的半岛是什么？",
       "options": [
-        "阿拉伯半岛",
-        "印度半岛",
-        "朝鲜半岛"
+        "南沙群岛",
+        "马来群岛",
+        "夏威夷群岛"
       ],
       "answer": "阿拉伯半岛",
-      "verified": true,
-      "wrong": [],
+      "verified": false,
+      "wrong": [
+        "阿拉伯半岛"
+      ],
       "hits": 6,
-      "correct": 4,
+      "correct": 0,
       "source": "llm",
       "updated": "2026-11-19",
       "conflict": true
@@ -3126,8 +3128,8 @@
       "answer": "将拥有特殊的帝王效果",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3321,11 +3323,13 @@
       ],
       "answer": "仙",
       "verified": false,
-      "wrong": [],
-      "hits": 2,
+      "wrong": [
+        "仙"
+      ],
+      "hits": 3,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-10-13"
+      "updated": "2026-11-20"
     },
     {
       "id": "q1755742e4",
@@ -3533,8 +3537,8 @@
       "answer": "集",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -3677,8 +3681,8 @@
       "answer": "毕加索",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -3711,8 +3715,8 @@
       "answer": "海经",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-29"
     },
@@ -3857,8 +3861,8 @@
       "answer": "天上",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4423,8 +4427,8 @@
       "answer": "扁鹊",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-03"
     },
@@ -4745,8 +4749,8 @@
       "answer": "丹婴",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 2,
+      "hits": 4,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-18"
     },
@@ -5197,8 +5201,8 @@
       "answer": "桂林",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-09"
     },
@@ -5495,7 +5499,7 @@
       "q": "把苹果皮削下来，不要弄断苹果皮，把这一条苹果皮顺其自然地放在桌面上，是什么形状？",
       "options": [
         "S型",
-        "O型",
+        "0型",
         "型"
       ],
       "answer": "S型",
@@ -6884,8 +6888,8 @@
       "answer": "九黎",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "pending",
       "updated": "2026-10-23"
     },
@@ -6900,8 +6904,8 @@
       "answer": "李小明",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-23"
     },
@@ -7870,8 +7874,8 @@
       "answer": "安能摧眉折腰事权贵",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-11-02"
     },
@@ -8067,8 +8071,8 @@
       "answer": "颤栗",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-04"
     },
@@ -8781,6 +8785,22 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-19"
+    },
+    {
+      "id": "q8c91be12a",
+      "q": "以下哪一个国家地跨亚、非、欧，并将地中海变成了它的内海2",
+      "options": [
+        "罗马帝国",
+        "奥斯曼土耳其帝国",
+        "拜占庭帝国"
+      ],
+      "answer": "罗马帝国",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-20"
     }
   ]
 }
