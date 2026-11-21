@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "questions": [
     {
       "id": "q608767df5",
@@ -1466,8 +1466,8 @@
       "answer": "火焰",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-21"
     },
@@ -2792,8 +2792,8 @@
       "answer": "SOS团",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -2936,8 +2936,8 @@
       "answer": "9块",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 1,
+      "hits": 3,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3026,13 +3026,13 @@
       "q": "被尊为“现代童话之父\"的安徒生有许多作品，下面哪个不是安徒生的作品？",
       "options": [
         "爱丽斯漫游仙境",
-        "丑小鸭",
+        "你被屿山珏点化，获得了3点天地丑小鸭",
         "卖火柴的小女孩"
       ],
       "answer": "爱丽斯漫游仙境",
       "verified": true,
       "wrong": [],
-      "hits": 4,
+      "hits": 6,
       "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
@@ -3192,8 +3192,8 @@
       "answer": "书中香草发出的香气",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3489,8 +3489,8 @@
       "answer": "阴阳脸",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-28"
     },
@@ -3747,8 +3747,8 @@
       "answer": "5",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 2,
+      "hits": 4,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -3779,8 +3779,8 @@
       "answer": "草鱼",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-30"
     },
@@ -4329,8 +4329,8 @@
       "answer": "年兽",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-03"
     },
@@ -4699,8 +4699,8 @@
       "answer": "气味",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-05"
     },
@@ -5057,8 +5057,8 @@
       "answer": "两种弹奏手法",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5934,8 +5934,8 @@
       "answer": "白饭",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-14"
     },
@@ -6352,8 +6352,8 @@
       "answer": "渡劫",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-10-18"
     },
@@ -8582,15 +8582,16 @@
         "地面",
         "一样"
       ],
-      "answer": "海中",
+      "answer": "地面",
       "verified": false,
       "wrong": [
-        "海中"
+        "海中",
+        "地面"
       ],
-      "hits": 1,
+      "hits": 2,
       "correct": 0,
       "source": "llm",
-      "updated": "2026-11-14"
+      "updated": "2026-11-22"
     },
     {
       "id": "qfbc6b290e",
@@ -8765,8 +8766,8 @@
       "answer": "杭州",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-11-18"
     },
@@ -8901,6 +8902,56 @@
       "correct": 1,
       "source": "llm",
       "updated": "2026-11-21"
+    },
+    {
+      "id": "q7175cc5a2",
+      "q": "中国的国花是什么？",
+      "options": [
+        "梅花",
+        "牡丹",
+        "荷花"
+      ],
+      "answer": "牡丹",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-22"
+    },
+    {
+      "id": "q4159273d5",
+      "q": "炎帝是传说上古时期姜姓部落的首领，又被称为什么？",
+      "options": [
+        "赤帝",
+        "姜帝",
+        "神帝"
+      ],
+      "answer": "赤帝",
+      "verified": true,
+      "wrong": [],
+      "hits": 2,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-22"
+    },
+    {
+      "id": "qa93e8892b",
+      "q": "北极没有企鹅是因为？",
+      "options": [
+        "环境因素",
+        "人类击败",
+        "自然选择"
+      ],
+      "answer": "环境因素",
+      "verified": false,
+      "wrong": [
+        "环境因素"
+      ],
+      "hits": 1,
+      "correct": 0,
+      "source": "llm",
+      "updated": "2026-11-22"
     }
   ]
 }
