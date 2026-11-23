@@ -13,10 +13,10 @@
       "answer": "星星越多属性加成越多",
       "verified": true,
       "wrong": [],
-      "hits": 2,
+      "hits": 3,
       "source": "llm",
       "updated": "2026-09-18",
-      "correct": 1
+      "correct": 2
     },
     {
       "id": "q3f0d5018e",
@@ -836,10 +836,10 @@
       "wrong": [
         "活火山"
       ],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-19",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q389216765",
@@ -1206,10 +1206,10 @@
       "wrong": [
         "火星"
       ],
-      "hits": 4,
+      "hits": 5,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 3
+      "correct": 4
     },
     {
       "id": "q577713386",
@@ -1418,10 +1418,10 @@
       "answer": "令堂",
       "verified": true,
       "wrong": [],
-      "hits": 3,
+      "hits": 4,
       "source": "llm",
       "updated": "2026-09-21",
-      "correct": 2
+      "correct": 3
     },
     {
       "id": "q01f94a1f3",
@@ -1754,8 +1754,8 @@
       "answer": "林克",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-22"
     },
@@ -2205,8 +2205,8 @@
       "answer": "查看对手列表",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2290,8 +2290,8 @@
       "answer": "乐至县",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -2339,8 +2339,8 @@
       "answer": "春秋",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-09-24"
     },
@@ -3030,8 +3030,8 @@
       "answer": "爱丽斯漫游仙境",
       "verified": true,
       "wrong": [],
-      "hits": 6,
-      "correct": 4,
+      "hits": 7,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3222,8 +3222,8 @@
       "answer": "仁者",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-09-26"
     },
@@ -3957,8 +3957,8 @@
       "answer": "王羲之",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-01"
     },
@@ -4763,8 +4763,8 @@
       "answer": "体",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "llm",
       "updated": "2026-10-06"
     },
@@ -5007,8 +5007,8 @@
       "answer": "宇宙射线",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-10-07"
     },
@@ -5948,8 +5948,8 @@
       "answer": "收集糖果",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-10-14"
     },
@@ -7678,8 +7678,8 @@
       "answer": "同时着地",
       "verified": true,
       "wrong": [],
-      "hits": 4,
-      "correct": 4,
+      "hits": 5,
+      "correct": 5,
       "source": "llm",
       "updated": "2026-10-31"
     },
@@ -7888,8 +7888,8 @@
       "answer": "金钱",
       "verified": true,
       "wrong": [],
-      "hits": 3,
-      "correct": 3,
+      "hits": 4,
+      "correct": 4,
       "source": "pending",
       "updated": "2026-11-03"
     },
@@ -8261,8 +8261,8 @@
       "answer": "花有清香月有阴",
       "verified": true,
       "wrong": [],
-      "hits": 2,
-      "correct": 2,
+      "hits": 3,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-11-08"
     },
@@ -8325,8 +8325,8 @@
       "answer": "贝加尔湖",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-10"
     },
@@ -8880,8 +8880,8 @@
       "answer": "丹麦",
       "verified": true,
       "wrong": [],
-      "hits": 1,
-      "correct": 1,
+      "hits": 2,
+      "correct": 2,
       "source": "llm",
       "updated": "2026-11-21"
     },
@@ -8976,6 +8976,22 @@
         "马谡"
       ],
       "answer": "诸葛亮",
+      "verified": true,
+      "wrong": [],
+      "hits": 1,
+      "correct": 1,
+      "source": "llm",
+      "updated": "2026-11-23"
+    },
+    {
+      "id": "qbe5853077",
+      "q": "世界七大奇迹有属于巴比伦的什么？",
+      "options": [
+        "泰姬陵",
+        "空中花园",
+        "马都克神庙"
+      ],
+      "answer": "空中花园",
       "verified": true,
       "wrong": [],
       "hits": 1,
