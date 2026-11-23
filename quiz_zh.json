@@ -2738,13 +2738,11 @@
         "马来群岛",
         "夏威夷群岛"
       ],
-      "answer": "阿拉伯半岛",
-      "verified": false,
-      "wrong": [
-        "阿拉伯半岛"
-      ],
+      "answer": "马来群岛",
+      "verified": true,
+      "wrong": [],
       "hits": 6,
-      "correct": 0,
+      "correct": 3,
       "source": "llm",
       "updated": "2026-11-19",
       "conflict": true
